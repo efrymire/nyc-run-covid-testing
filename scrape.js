@@ -21,7 +21,7 @@ async function scrapeData() {
     Promise.all(
       elements.map((idx, el) => getCoords($(el).text()))
     ).then((centers) => {
-      console.log('centers :>> ', centers);
+      // console.log('centers :>> ', centers);
       fs.writeFile("src/centers.json", JSON.stringify(centers, null, 2), (err) => {
         if (err) {
           console.error(err);
@@ -50,7 +50,9 @@ async function getCoords (text) {
     .then(json => {
       // console.log('json :>> ', json);
       if (json.results.length === 0) {
+        console.log("error:", json)
         return null
+      } else {
       }
       let lat = json.results['0'].geometry.location.lat
       let lng = json.results['0'].geometry.location.lng
