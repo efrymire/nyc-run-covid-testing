@@ -1,4 +1,3 @@
-require('dotenv').config();
 const centers = require('./centers.json')
 
 mapboxgl.accessToken = process.env.MAPBOX_ACCESS_TOKEN;

@@ -6,7 +6,13 @@
       "lng": -73.8597065
     }
   },
-  null,
+  {
+    "text": "Entrance to Crotona Pool//Adjacent to Bathgate Playground, Corner of Fulton Ave and East 173rd St,, Bronx, NY 10457, Monday – Sunday, 8 a.m. – 7 p.m., Dates: Dec 13 – Dec 19, 4 years old and above, ",
+    "coordinates": {
+      "lat": 40.8401124,
+      "lng": -73.8979971
+    }
+  },
   {
     "text": "Soundview Park, Corner of Lafayette Avenue and Morrison Avenue,, Bronx, NY 10472, Monday – Sunday, 8 a.m. – 7 p.m., Dates: Dec 13 – Dec 19, 4 years old and above, ",
     "coordinates": {
@@ -14,13 +20,7 @@
       "lng": -73.8750973
     }
   },
-  {
-    "text": "St. James Park, 2550 Jerome Ave,, Bronx, NY 10468, Monday – Sunday, 8 a.m. – 7 p.m., Dates: Dec 13 – Dec 19, 4 years old and above, ",
-    "coordinates": {
-      "lat": 40.86502369999999,
-      "lng": -73.89777269999999
-    }
-  },
+  null,
   {
     "text": "Nelson Playground, Nelson Ave & W 166th St,, Bronx, NY 10452, Monday – Sunday 8 a.m. – 7 p.m., Dates: Dec 13 – Dec 19, 4 years old and above, ",
     "coordinates": {
@@ -35,13 +35,7 @@
       "lng": -73.85949099999999
     }
   },
-  {
-    "text": "CO-OP City, 177 Dreiser Loop,, Bronx, NY 10475, Monday – Tuesday, 8 a.m. – 7 p.m., Dates: Dec 13 – Dec 14, 4 years old and above, ",
-    "coordinates": {
-      "lat": 40.876579,
-      "lng": -73.8287211
-    }
-  },
+  null,
   {
     "text": "CO-OP City, 135 Einstein Loop N,, Bronx, NY 10475, Wedenesday – Thursday, 8 a.m. – 7 p.m., Dates: Dec 15 – Dec 15, 4 years old and above, ",
     "coordinates": {
@@ -49,13 +43,7 @@
       "lng": -73.8224035
     }
   },
-  {
-    "text": "CO-OP City, 2049 Bartow Ave,, Bronx, NY 10475, Friday – Sunday, 8 a.m. – 7 p.m., Dates: Dec 17 – Dec 19, 4 years old and above, ",
-    "coordinates": {
-      "lat": 40.8750444,
-      "lng": -73.8283409
-    }
-  },
+  null,
   {
     "text": "King Of Glory Tabernacle, 2019 Grand Ave,, Bronx, NY 10453, Tuesday – Wednesday, 8 a.m. – 7 p.m., Dates: Dec 14 – Dec 15, 4 years old and above, ",
     "coordinates": {
@@ -84,13 +72,7 @@
       "lng": -73.8501306
     }
   },
-  {
-    "text": "NYCHA Parkside, 2963 White Plains Rd, Bronx, NY 10473, Tuesday – Friday, 8 a.m. – 6 p.m., Dates: Dec 14 – Dec 17, 4 years old and above, ",
-    "coordinates": {
-      "lat": 40.8690009,
-      "lng": -73.8677491
-    }
-  },
+  null,
   {
     "text": "Baldoor Foods, 155 Food Center Dr., Bronx, NY 10473, Wednesday, 8 a.m. – 6 p.m., Dates: Dec 15, 4 years old and above, ",
     "coordinates": {
@@ -126,13 +108,7 @@
       "lng": -73.9034039
     }
   },
-  {
-    "text": "Rienzi Park, 746 East 226th Street,, Bronx NY 10466, Sunday, 8 a.m. – 7 p.m., Dates: Dec 19, 4 years old and above, ",
-    "coordinates": {
-      "lat": 40.8876756,
-      "lng": -73.8586301
-    }
-  },
+  null,
   {
     "text": "NYC Health + Hospitals/Gotham Health, Belvis, 545 East 142nd Street, Bronx, New York 10454, 844-NYC-4NYC, COVID-19 Testing and Antibody Testing Offered Here, Monday – Friday, 9 a.m. – 3:30 p.m., Saturday – Sunday, 8 a.m. – 12 p.m., Pre-register for your visit, ",
     "coordinates": {
@@ -140,20 +116,8 @@
       "lng": -73.9157383
     }
   },
-  {
-    "text": "NYC Health + Hospitals/Jacobi, 1400 Pelham Parkway South, Bronx, New York 10461, 718-918-5000, COVID-19 Testing and Antibody Testing Offered Here, Monday – Friday, 8:00 a.m. – 4:00 p.m. Saturday, 8 a.m. – 3:30 p.m., Pre-register for your visit, ",
-    "coordinates": {
-      "lat": 40.8557535,
-      "lng": -73.8464133
-    }
-  },
-  {
-    "text": "NYC Health + Hospitals/Lincoln, 234 East 149th Street, Bronx, New York 10451, 718-579-5000, COVID-19 Testing and Antibody Testing Offered Here, Monday – Friday, 9 a.m. – 5 p.m., Pre-register for your visit, ",
-    "coordinates": {
-      "lat": 40.8160855,
-      "lng": -73.9247762
-    }
-  },
+  null,
+  null,
   {
     "text": "NYC Health + Hospitals/Gotham Health, Morrisania, 1225 Gerard Avenue, Bronx, New York 10452, 844-NYC-4NYC, COVID-19 Testing and Antibody Testing Offered Here, Monday – Friday, 8:30 a.m. – 4 p.m., Saturday – Sunday, 8 a.m. – 12 p.m., Pre-register for your visit, ",
     "coordinates": {
@@ -161,13 +125,7 @@
       "lng": -73.9202294
     }
   },
-  {
-    "text": "NYC Health + Hospitals/North Central Bronx, 3424 Kossuth Avenue, Bronx, New York 10467, Appointments:, 844-692-4692 General Information: 718-918-5700, COVID-19 Testing and Antibody Testing Offered Here, Monday – Saturday, 8:30 a.m. – 4:30 p.m., Pre-register for your visit​, ",
-    "coordinates": {
-      "lat": 40.8805033,
-      "lng": -73.8814574
-    }
-  },
+  null,
   {
     "text": "Riverdale Neighborhood House5521 Mosholu Avenue,, Bronx, NY 10471, Wednesday – Thursday, 9 a.m. – 2 p.m., Dates: Dec 15 – Dec 16, 4 years old and above, ",
     "coordinates": {
@@ -196,27 +154,9 @@
       "lng": -74.0072107
     }
   },
-  {
-    "text": "Red Hook Initiative, 767 Hicks St,, Brooklyn, NY 11231, Thursday, 8 a.m. – 7 p.m., Dates: Dec 16, 4 years old and above, ",
-    "coordinates": {
-      "lat": 40.6767619,
-      "lng": -74.0045296
-    }
-  },
-  {
-    "text": "Red Hook Initiative, 44 W 9th St (Parking in front of blue “Red Hook Initiative” Sign), Brooklyn, NY 11231, Tuesday – Friday, 8 a.m. – 6 p.m., Dates: Dec 14 – Dec 17, 4 years old and above, ",
-    "coordinates": {
-      "lat": 40.6767619,
-      "lng": -74.0045296
-    }
-  },
-  {
-    "text": "St John’s Park, Corner of Troy Ave & Bergen St,, Brooklyn, NY 11213, Monday – Sunday, 8 a.m. – 7 p.m., Dates: Dec 13 – Dec 19, 4 years old and above, ",
-    "coordinates": {
-      "lat": 40.6742179,
-      "lng": -73.9350389
-    }
-  },
+  null,
+  null,
+  null,
   {
     "text": "100% Playground, Corner of Glenwood Road & East 100th Street,, Brooklyn, NY 11236, Monday – Sunday, 8 a.m. – 7 p.m., Dates: Dec 13 – Dec 19, 4 years old and above, ",
     "coordinates": {
@@ -224,13 +164,7 @@
       "lng": -73.9283483
     }
   },
-  {
-    "text": "Marcy Plaza, Corner of Marcy Avenue and Fulton Street,, Brooklyn, NY 11216, Monday – Sunday, 8 a.m. – 7 p.m., Dates: Dec 13 – Dec 19, 4 years old and above, ",
-    "coordinates": {
-      "lat": 40.6803995,
-      "lng": -73.9461432
-    }
-  },
+  null,
   {
     "text": "New Hope Family Worship Center, 817 Livonia Avenue,, Brooklyn, NY 11207, Monday – Sunday, 8 a.m. – 7 p.m., Dates: Dec 13 – Dec 19, 4 years old and above, ",
     "coordinates": {
@@ -248,8 +182,8 @@
   {
     "text": "Sunset Park, Corner of 6th Avenue and 44th Street,, Brooklyn, NY 11232, Monday – Sunday, 8 a.m. – 7 p.m., Dates: Dec 13 – Dec 19, 4 years old and above, ",
     "coordinates": {
-      "lat": 40.6479517,
-      "lng": -74.0037443
+      "lat": 40.7561518,
+      "lng": -73.98316369999999
     }
   },
   {
@@ -259,13 +193,7 @@
       "lng": -73.9361691
     }
   },
-  {
-    "text": "Cornerstone Baptist Church, 574 Madison St,, Brooklyn, NY 11221, Saturday, 8 a.m. – 7 p.m., Dates: Dec 18, 4 years old and above, ",
-    "coordinates": {
-      "lat": 40.6863403,
-      "lng": -73.9354858
-    }
-  },
+  null,
   {
     "text": "Christian Tabernacle, 98 5th Avenue, Brooklyn, NY 11217, Friday, 10 a.m. – 5 p.m., Dates: Dec 17, 4 years old and above, ",
     "coordinates": {
@@ -297,17 +225,11 @@
   {
     "text": "Mixteca Annual Health Conference, Corner of 4th Ave & 46th St. (Park on 4th Ave), Brooklyn, NY 11220, Friday, 12 p.m. – 9 p.m., Dates: Dec 17, 4 years old and above, ",
     "coordinates": {
-      "lat": 40.7567515,
-      "lng": -73.91421179999999
+      "lat": 40.640646,
+      "lng": -73.9968779
     }
   },
-  {
-    "text": "Hope City Church – Pediatric, 369 Lots Ave, Brooklyn, NY 11207, Saturday, 11 a.m. – 4 p.m., Dates: Dec 18, 4 years old and above, ",
-    "coordinates": {
-      "lat": 40.66174600000001,
-      "lng": -73.8935913
-    }
-  },
+  null,
   {
     "text": "Neighbors Together, 2094 Fulton St., Brooklyn, NY 11233, Friday, 10 a.m. – 6 p.m., Dates: Dec 17, 4 years old and above, ",
     "coordinates": {
@@ -315,13 +237,7 @@
       "lng": -73.91384120000001
     }
   },
-  {
-    "text": "Coney Island Toy Giveaway, W 30th St b/t Mermaid Ave and Surf Ave, Brooklyn, NY 11224, Saturday, 10 a.m. – 5 p.m., Dates: Dec 18, 4 years old and above, ",
-    "coordinates": {
-      "lat": 40.750235,
-      "lng": -73.99662289999999
-    }
-  },
+  null,
   {
     "text": "Red Hook Winter Wonderland, 27 Huntington Street, Brooklyn, NY 11231, Saturday, 9 a.m. – 5 p.m., Dates: Dec 18, 4 years old and above, ",
     "coordinates": {
@@ -329,13 +245,7 @@
       "lng": -74.0049023
     }
   },
-  {
-    "text": "NYC Health + Hospitals/Coney Island, 2601 Ocean Parkway, Brooklyn, New York 11235, Monday – Saturday, 8 a.m. – 4 p.m., 844-NYC-4NYC",
-    "coordinates": {
-      "lat": 40.5855566,
-      "lng": -73.9648753
-    }
-  },
+  null,
   {
     "text": "NYC Health + Hospitals/Gotham Health, Cumberland, 100 North Portland Avenue, Brooklyn, New York 11205, 844-NYC-4NYC, COVID-19 Testing and Antibody Testing Offered Here, Monday – Friday, 9 a.m. – 3:30 p.m., Saturday – Sunday, 8 a.m. – 12 p.m., Pre-register for your visit, ",
     "coordinates": {
@@ -357,13 +267,7 @@
       "lng": -73.9430201
     }
   },
-  {
-    "text": "NYC Health + Hospitals/Woodhull, 760 Broadway, Brooklyn, New York 11206, 718-963-8000, COVID-19 Testing and Antibody Testing Offered Here, Monday – Saturday, 8 a.m. – 5 p.m., Pre-register for your visit, ",
-    "coordinates": {
-      "lat": 40.6996948,
-      "lng": -73.9425116
-    }
-  },
+  null,
   {
     "text": "4002 Fort Hamilton, 4002 Fort Hamilton Parkway, Brooklyn, NY 11218, Monday – Sunday, 9 a.m. – 7 p.m., Rapid Molecular Testing Available Here, Pre-register for your visit, ",
     "coordinates": {
@@ -413,20 +317,8 @@
       "lng": -73.9855927
     }
   },
-  {
-    "text": "Diaspora Community Center, 921 East New York Ave,, Brooklyn, NY 11203, Wednesday, 9 a.m. – 5 p.m., Dates: Dec 15, 4 years old and above, ",
-    "coordinates": {
-      "lat": 40.6629682,
-      "lng": -73.9326117
-    }
-  },
-  {
-    "text": "Family Services Network of New York (Harm Reduction Program – Broadway), 1751 Broadway,, Brooklyn, NY 11207, Wednesday, Friday, 8:30 a.m. – 3:30 p.m., Dates: Dec 15, Dec 17, 4 years old and above, ",
-    "coordinates": {
-      "lat": 40.6840333,
-      "lng": -73.9089482
-    }
-  },
+  null,
+  null,
   {
     "text": "Family Services Network of New York Access Center, 1721 Pitkin Ave,, Brooklyn, NY 11212, Monday – Thursday, 11:30 a.m. – 7:30 p.m., Friday – Saturday, 11 a.m. – 7 p.m., Sunday, 8 a.m. – 4 p.m., Dates: Dec 13 – Dec 19, 4 years old and above, ",
     "coordinates": {
@@ -434,13 +326,7 @@
       "lng": -73.9089482
     }
   },
-  {
-    "text": "Amalgamated Warbasse Houses, 2770 West 5th Street,, Brooklyn, NY 11224, Monday, 11 a.m. – 7 p.m., Sunday, 9 a.m. – 5 p.m., Dates: Dec 13, Dec 19, 4 years old and above, ",
-    "coordinates": {
-      "lat": 40.5805236,
-      "lng": -73.9712591
-    }
-  },
+  null,
   {
     "text": "Fort Greene SNAP Office, 324 Myrtle Ave,, Brooklyn, NY 11205, Friday, 10 a.m. – 5:30 p.m., Dates: Dec 17, 4 years old and above, ",
     "coordinates": {
@@ -455,34 +341,10 @@
       "lng": -74.0059467
     }
   },
-  {
-    "text": "St Jacobi Lutheran Church, 5406 4th Ave,, Brooklyn, NY 11220, Friday, 2 p.m. – 9 p.m., Dates: Dec 17, 4 years old and above, ",
-    "coordinates": {
-      "lat": 40.6441782,
-      "lng": -74.0154945
-    }
-  },
-  {
-    "text": "God’s Battalion of Prayer Church, 661 Linden Blvd,, Brooklyn, NY 11203, Saturday, 9:30 a.m. – 4:30 p.m., Dates: Dec 18, 4 years old and above, ",
-    "coordinates": {
-      "lat": 40.6537438,
-      "lng": -73.93402360000002
-    }
-  },
-  {
-    "text": "Quisqueya Playground, 2405 Amsterdam Ave,, New York, NY 10033, Monday – Sunday, 8 a.m. – 7 p.m., Dates: Dec 13 – Dec 19, 4 years old and above, ",
-    "coordinates": {
-      "lat": 40.8471006,
-      "lng": -73.9313288
-    }
-  },
-  {
-    "text": "Masaryk Towers, 75 Columbia Street,, New York, NY 10002, Monday, Wednesday – Sunday, 8 a.m. – 7 p.m., Dates: Dec 13,  Dec 15 – 19, 4 years old and above, ",
-    "coordinates": {
-      "lat": 40.717163,
-      "lng": -73.9804611
-    }
-  },
+  null,
+  null,
+  null,
+  null,
   {
     "text": "NYCHA Manhattanville, Parking lot located at 549 W 126th St,, New York, NY 10027, Monday – Sunday, 8 a.m. – 7 p.m., Dates: Dec 13 – Dec 19, 4 years old and above, ",
     "coordinates": {
@@ -497,13 +359,7 @@
       "lng": -73.9855426
     }
   },
-  {
-    "text": "East End HRA Center, 2322 Third Ave,, New York NY 10035, Monday – Friday, 8 a.m. – 7 p.m., Dates: Dec 13 – Dec 17, 4 years old and above, ",
-    "coordinates": {
-      "lat": 40.8047887,
-      "lng": -73.9354589
-    }
-  },
+  null,
   {
     "text": "First Spanish UMC, Corner of 111th street & Lexington Ave,, New York NY 10029, Monday – Sunday, 8 a.m. – 7 p.m., Dates: Dec 13 – Dec 19, 4 years old and above, ",
     "coordinates": {
@@ -512,10 +368,34 @@
     }
   },
   null,
-  null,
-  null,
-  null,
-  null,
+  {
+    "text": "Gotham Health – Sydenham, 264 W 118th St, New York NY 10026, Monday – Sunday,  9 a.m. – 7 p.m., Dates: Dec 13 – Dec 19, Rapid Antigen Testing Available Here, 4 years old and above, ",
+    "coordinates": {
+      "lat": 40.8052028,
+      "lng": -73.9536622
+    }
+  },
+  {
+    "text": "Il Sole Restaurant, 233 Dyckman St., New York NY 10034, Saturday – Sunday,  8 a.m. – 6 p.m., Dates: Dec 18 – Dec 19, 4 years old and above, ",
+    "coordinates": {
+      "lat": 40.8661547,
+      "lng": -73.9276251
+    }
+  },
+  {
+    "text": "Oasis, 330 7th Avenue, New York NY 10001, Tuesday,  10 a.m. – 5 p.m., Dates: Dec 14, 4 years old and above, ",
+    "coordinates": {
+      "lat": 40.7477463,
+      "lng": -73.9933782
+    }
+  },
+  {
+    "text": "Williams Institutional CME Church, 2239 Adam Clayton Powell Jr., New York NY 10027, Tuesday,  10 a.m. – 5 p.m., Dates: Dec 14, 4 years old and above, ",
+    "coordinates": {
+      "lat": 40.81313249999999,
+      "lng": -73.9449174
+    }
+  },
   {
     "text": "Senegalese Association, 209 West 116th Street, New York NY 10026, Tuesday,  10 a.m. – 6 p.m., Dates: Dec 14, 4 years old and above, ",
     "coordinates": {
@@ -545,7 +425,13 @@
       "lng": -73.9705371
     }
   },
-  null,
+  {
+    "text": "Word Up Book Store – Pediatric, 165th Street & Amsterdam Ave, New York NY 10032, Saturday,  8 a.m. – 6 p.m., Dates: Dec 18, 4 years old and above, ",
+    "coordinates": {
+      "lat": 40.837733,
+      "lng": -73.9382687
+    }
+  },
   {
     "text": "CUNY Graduate Center, 365 5th Avenue, between 34th and 35th Streets, New York NY 10016, Tuesday – Thursday,  8 a.m. – 6 p.m., Dates: Dec 14 – Dec 16, 4 years old and above, ",
     "coordinates": {
@@ -553,13 +439,7 @@
       "lng": -73.98400699999999
     }
   },
-  {
-    "text": "NYCHA Dyckman – Pediatric, 175 Nagle Ave, New York NY 10034, Saturday,  8 a.m. – 6 p.m., Dates: Dec 18, 4 years old and above, ",
-    "coordinates": {
-      "lat": 40.86140109999999,
-      "lng": -73.9242916
-    }
-  },
+  null,
   null,
   {
     "text": "John Jay College, 524 W 59th St​, New York NY 10019, Tuesday – Wednesday,  8 a.m. – 6 p.m., Dates: Dec 14 – Dec 15, 4 years old and above, ",
@@ -568,14 +448,14 @@
       "lng": -73.9892342
     }
   },
-  null,
   {
-    "text": "J. Hood Wright Park, Fort Washington Avenue between 174th and 175th Street,, New York NY 10033, Monday – Friday, Sunday  8 a.m. – 7 p.m., Dates: Dec 14 – 17, Dec 19, 4 years old and above, ",
+    "text": "32BJ – E 68th St, 215 East 68th Street, New York NY 10065, Tuesday – Friday,  8 a.m. – 6 p.m., Dates: Dec 14 – Dec 17, 4 years old and above, ",
     "coordinates": {
-      "lat": 40.8463679,
-      "lng": -73.941493
+      "lat": 40.7670517,
+      "lng": -73.960883
     }
   },
+  null,
   {
     "text": "Times Square Testing Site, 701 Seventh Avenue (between W 47th and W 48th Street) aka 20 Times Square, New York, NY 10036, Monday – Sunday, 9 a.m. – 7 p.m., Rapid Molecular Testing Available Here, Pre-register for your visit, ",
     "coordinates": {
@@ -583,17 +463,35 @@
       "lng": -73.9855426
     }
   },
-  null,
-  null,
   {
-    "text": "NYC Health + Hospitals/Harlem, 506 Lenox Avenue, New York, New York 10037, 212-939-1000, COVID-19 Testing and Antibody Testing Offered Here, Monday – Saturday, 8 a.m. – 4:00 p.m., Pre-register for your visit, ",
+    "text": "NYC Health + Hospitals/Bellevue, 462 First Avenue, New York, New York 10016, 212-562-5555, COVID-19 Testing and Antibody Testing Offered Here, Monday – Saturday, Walk Ins: 7:30 a.m. – 3:30 p.m. Sunday closed., *Walk-in hours maybe subject to change depending on patient volume., Pre-register for your visit, ",
     "coordinates": {
-      "lat": 40.8143104,
-      "lng": -73.93950869999999
+      "lat": 40.7396865,
+      "lng": -73.9762044
+    }
+  },
+  {
+    "text": "NYC Health + Hospitals/Gotham Health, Gouverneur, 227 Madison Street, New York, New York 10002, 844-NYC-4NYC, COVID-19 Testing and Antibody Testing Offered Here, Monday – Friday, 9 a.m. – 3 p.m., Saturday – Sunday, 8 a.m. – 12 p.m., Pre-register for your visit, ",
+    "coordinates": {
+      "lat": 40.7129914,
+      "lng": -73.98770329999999
     }
   },
   null,
-  null,
+  {
+    "text": "NYC Health + Hospitals/Metropolitan, 1901 First Avenue, New York, New York 10029, 212-423-6262, COVID-19 Testing and Antibody Testing Offered Here, Monday – Saturday, 8 a.m. – 4:00 p.m., Pre-register for your visit, ",
+    "coordinates": {
+      "lat": 40.7848889,
+      "lng": -73.9443993
+    }
+  },
+  {
+    "text": "Harlem Congregations for Community Improvement, Inc. (Petioni), 203 West 146th Street,, New York, NY 10039, Monday, Friday, 10 a.m. – 6 p.m., Dates: Dec 13, Dec 17, 4 years old and above, ",
+    "coordinates": {
+      "lat": 40.8226479,
+      "lng": -73.9397141
+    }
+  },
   {
     "text": "Harlem Congregations for Community Improvement, Inc. (Dinkins), 263 West 153rd Street, Community Space,, New York, NY 10039, Thursday, 10 a.m. – 6 p.m., Dates: Dec 16, 4 years old and above, ",
     "coordinates": {
@@ -617,7 +515,13 @@
       "lng": -73.8477874
     }
   },
-  null,
+  {
+    "text": "Phil “Scooter” Rizzuto Park, 95th Ave,, Queens, NY 11419, Monday – Sunday, 8 a.m. – 7 p.m., Dates: Dec 13 – Dec 19, 4 years old and above, ",
+    "coordinates": {
+      "lat": 40.6947111,
+      "lng": -73.8216889
+    }
+  },
   {
     "text": "Life Camp INC, 111-12 Sutphin Blvd,, Jamaica, NY 11435, Monday – Sunday, 8 a.m. – 7 p.m., Dates: Dec 13 – Dec 19, 4 years old and above, ",
     "coordinates": {
@@ -625,8 +529,20 @@
       "lng": -73.795661
     }
   },
-  null,
-  null,
+  {
+    "text": "Park of the Americas, Corner of 104th Street and 41st Street,, Corona, NY 11368, Monday – Sunday, 8 a.m. – 7 p.m., Dates: Dec 13 – Dec 19, 4 years old and above, ",
+    "coordinates": {
+      "lat": 40.7484612,
+      "lng": -73.8619406
+    }
+  },
+  {
+    "text": "The Episcopal Church of St. Alban the Martyr, 116-42 Farmers Blvd St., Albans, NY 11412, Monday – Sunday, 8 a.m. – 7 p.m., Dates: Dec 13 – Dec 19, 4 years old and above, ",
+    "coordinates": {
+      "lat": 40.6926113,
+      "lng": -73.7628577
+    }
+  },
   {
     "text": "NYCHA Woodside Streetside Parking at, 50-37 Newtown Road,, Queens NY 11377, Monday – Sunday, 8 a.m. – 7 p.m., Dates: Dec 13 – Dec 19, 4 years old and above, ",
     "coordinates": {
@@ -641,13 +557,7 @@
       "lng": -73.8974478
     }
   },
-  {
-    "text": "Queens Public Library at East Elmhurst, 95-06 Astoria Blvd,, East Elmhurst, NY 11369, Monday – Saturday, 8 a.m. – 7 p.m., Dates: Dec 13 – Dec 18, 4 years old and above, ",
-    "coordinates": {
-      "lat": 40.7624374,
-      "lng": -73.8738856
-    }
-  },
+  null,
   {
     "text": "LaGuardia Airport, Terminal B parking lot 1 Central Terminal Dr,, Queens, NY 11371, Monday – Sunday, 8 a.m. – 7 p.m., 7 days a week, 4 years old and above, ",
     "coordinates": {
@@ -678,31 +588,19 @@
     }
   },
   null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
   {
-    "text": "GLITS event @ Nowadays, 56-06 Cooper Ave, Glendale NY, 11385, Thursday, 7 p.m. – 11 p.m., Dates: Dec 16, 4 years old and above, ",
+    "text": "First Faith Baptist Church, Corner of 208th Street & Murdock Ave, Cambria Heights NY, 11411, Tuesday – Sunday, 8 a.m. – 6 p.m., Dates: Dec 14 – Dec 19, 4 years old and above, ",
     "coordinates": {
-      "lat": 40.6928852,
-      "lng": -73.9015072
+      "lat": 40.701832,
+      "lng": -73.747006
     }
   },
-  {
-    "text": "Voces Latinas, 107-06 Corona Ave, Glendale NY, 11385, Thursday, 11 a.m. – 5 p.m., Dates: Dec 16, 4 years old and above, ",
-    "coordinates": {
-      "lat": 40.74805509999999,
-      "lng": -73.88282389999999
-    }
-  },
-  {
-    "text": "Hammel Houses – Pediatric, 85-10 Rockaway Beach Blvd, Broad Channel NY, 11693, Saturday, 7 p.m. – 11 p.m., Dates: Dec 18, 4 years old and above, ",
-    "coordinates": {
-      "lat": 40.5879333,
-      "lng": -73.8109715
-    }
-  },
-  null,
-  null,
-  null,
-  null,
   null,
   {
     "text": "NYC Health + Hospitals/Elmhurst, 77-04 41st Avenue, Elmhurst, New York 11373, 718-334-4000, COVID-19 Testing and Antibody Testing Offered Here, Monday – Saturday, 8 a.m. – 4:00 p.m., Pre-register for your visit, ",
@@ -714,7 +612,13 @@
   null,
   null,
   null,
-  null,
+  {
+    "text": "Queens Museum New York City Building,, Corona, NY 11368, Wednesday, Sunday, 9 a.m. – 5 p.m., Dates: Dec 16, Dec 19, 4 years old and above, ",
+    "coordinates": {
+      "lat": 40.745914,
+      "lng": -73.8467247
+    }
+  },
   {
     "text": "HAUP Jamaica (Haitian Americans United For Progress), 209-05 Jamaica Avenue,, Queens, NY 11428, Tuesday, 10:30 a.m. – 6 p.m., Dates: Dec 14, 4 years old and above, ",
     "coordinates": {
@@ -722,21 +626,9 @@
       "lng": -73.7648696
     }
   },
-  {
-    "text": "Community Church of Christ Events, 167-04 108th Avenue,, Queens, NY 11433, Tuesday – Wednesday, Friday – Saturday, 9:30 a.m. – 4:30 p.m., Dates: Dec 14 – 15, Dec 17 – 18, 4 years old and above, ",
-    "coordinates": {
-      "lat": 40.6979038,
-      "lng": -73.7875195
-    }
-  },
   null,
-  {
-    "text": "Youth Referral & Placement Unit (YRPU), 141-03 Lakewood Ave,, Queens, NY 11435, Monday, 10 a.m. – 4:30 p.m., Dates: Dec 13, 4 years old and above, ",
-    "coordinates": {
-      "lat": 40.689209,
-      "lng": -73.80243399999999
-    }
-  },
+  null,
+  null,
   {
     "text": "Gurdwara Sikh Cultural Society, 95-30 118th St,, Queens, NY 11419, Monday – Sunday, 9:30 a.m. – 4:30 p.m., Dates: Dec 13 – Dec 19, 4 years old and above, ",
     "coordinates": {
@@ -744,14 +636,14 @@
       "lng": -73.8280284
     }
   },
+  null,
   {
-    "text": "New Life United Methodist Church, 8840 80th Street,, Queens, NY 11421, Monday, 11:30 a.m. – 6:30 p.m., Tuesday – Friday, 10:30 a.m. – 5:30 p.m., Dates: Dec 13 – Dec 17, 4 years old and above, ",
+    "text": "Mt. Moriah AME Church (Linden Blvd Buisness Corridor), 116-20 Francis Lewis Blvd,, Queens, NY 11411, Sunday, 9 a.m. – 5 p.m., Dates: Dec 19, 4 years old and above, ",
     "coordinates": {
-      "lat": 40.6948492,
-      "lng": -73.84883119999999
+      "lat": 40.6971053,
+      "lng": -73.7468535
     }
   },
-  null,
   {
     "text": "St Paul Chong Hasang R.C. Church, 32-15 Parsons Blvd,, Flushing, NY 11354, Sunday, 8:30 a.m. – 3:30 p.m., Dates: Dec 19, 4 years old and above, ",
     "coordinates": {
@@ -766,7 +658,13 @@
       "lng": -74.16330099999999
     }
   },
-  null,
+  {
+    "text": "NYCHA Southbeach, Parking Lot near corner of Norway Ave & Kramer St,, Staten Island, NY 10305, Saturday – Sunday, 8 a.m. – 7 p.m., Dates: Dec 18 – Dec 19, 4 years old and above, ",
+    "coordinates": {
+      "lat": 25.7826123,
+      "lng": -80.1340772
+    }
+  },
   {
     "text": "NYPL – Richmondtown Library, 200 Clarke Ave,, Staten Island, NY 10306, Monday – Wednesday, 8 a.m. – 7 p.m., Dates: Dec 13 – Dec 15, 4 years old and above, ",
     "coordinates": {
@@ -775,14 +673,14 @@
     }
   },
   null,
-  null,
   {
-    "text": "Richmond HRA Center, 201 Bay Street,, Staten Island NY 10301, Monday – Friday, 8 a.m. – 7 p.m., Dates: Dec 13 – Dec 17, 4 years old and above, ",
+    "text": "Wolfe’s Pond Park (Parking Lot), Wolfe’s Pond Park Chester St,, Staten Island, NY 10312, Monday – Sunday, 8 a.m. – 7 p.m., Dates: Dec 13 – Dec 19, 4 years old and above, ",
     "coordinates": {
-      "lat": 40.6373185,
-      "lng": -74.07572929999999
+      "lat": 40.519141,
+      "lng": -74.1902206
     }
   },
+  null,
   null,
   {
     "text": "Our Lady Queen of Peace, 61 New Dorp Ln,, Staten Island, NY 10306, Sunday, 8 a.m. – 7 p.m., Dates: Dec 19, 4 years old and above, ",
@@ -791,29 +689,17 @@
       "lng": -74.1179111
     }
   },
-  null,
   {
-    "text": "Former St John Villa HS, 57 Cleveland Place, Staten Island, NY 10305, Monday – Sunday, 9 a.m. – 7 p.m., Pre-register for your visit, ",
+    "text": "NYC Health + Hospitals/Gotham Health, Vanderbilt, 165 Vanderbilt Avenue, Staten Island, New York 10304, 844-NYC-4NYC, COVID-19 Testing and Antibody Testing Offered Here, Monday – Friday, 8:30 a.m. – 4:30 p.m., Saturday – Sunday, 8 a.m. – 12 p.m., Pre-register for your visit, ",
     "coordinates": {
-      "lat": 40.6012163,
-      "lng": -74.0687077
+      "lat": 40.6203745,
+      "lng": -74.0768895
     }
   },
   null,
   null,
-  {
-    "text": "MetroPlus Community Office (Staten Island), 238 Port Richmond Ave,, Staten Island, NY 10302, Tuesday – Wednesday, 9 a.m. – 5 p.m., Dates: Dec 14 – Dec 15, 4 years old and above, ",
-    "coordinates": {
-      "lat": 40.6354811,
-      "lng": -74.1354425
-    }
-  },
   null,
-  {
-    "text": "Next Step Resources and Recovery Center, 56 Bay Street,, Staten Island, NY 10301, Tuesday, Thursday, 9:30 a.m – 3:30 p.m., Dates: Dec 14, 16, 4 years old and above, ",
-    "coordinates": {
-      "lat": 40.6407076,
-      "lng": -74.0759545
-    }
-  }
+  null,
+  null,
+  null
 ]

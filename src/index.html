@@ -2,18 +2,21 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Display a map on a webpage</title>
+<title>NYC Covid Testing Centers</title>
 <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
 <link href="https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.css" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Source+Sans+Pro:wght@900&display=swap" rel="stylesheet">
 <script src="https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.js"></script>
-<style>
-body { margin: 0; padding: 0; }
-#map { position: absolute; top: 0; bottom: 0; width: 100%; }
-</style>
+<link rel="stylesheet" href="./style.css">
 </head>
 <body>
-<div id="map"></div>
+  <div id="info">
+    <h3>NYC Covid Testing Centers</h3>
+    <div>This map is based on data from <a href="https://www.nychealthandhospitals.org/covid-19-testing-sites/">nyc health and hospitals covid-19 testing sites</a>. This list is not exhaustive. Confirm all information with the original source.</div>
+  </div>
+  <div id="map"></div>
 <script src="main.js" type="module"></script>
-
 </body>
 </html>
