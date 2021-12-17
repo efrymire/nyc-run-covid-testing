@@ -9,9 +9,10 @@ const map = new mapboxgl.Map({
     zoom: 12 // starting zoom
 });
 
-centers.map(center => {
-  if (center) new mapboxgl.Marker()
-  .setLngLat(center.coordinates)
-  .setPopup(new mapboxgl.Popup().setHTML(`${center.text}`))
-  .addTo(map)
+centers.filter(c => c).map(center => {
+  // console.log('center :>> ', center);
+  new mapboxgl.Marker()
+    .setLngLat(center.coordinates)
+    .setPopup(new mapboxgl.Popup().setHTML(`${center.text}`))
+    .addTo(map)
 })
