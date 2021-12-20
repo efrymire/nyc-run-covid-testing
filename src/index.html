@@ -1,22 +1,35 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-<meta charset="utf-8">
-<title>NYC Covid Testing Centers</title>
-<meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
-<link href="https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.css" rel="stylesheet">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Source+Sans+Pro:wght@900&display=swap" rel="stylesheet">
-<script src="https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.js"></script>
-<link rel="stylesheet" href="./style.css">
+  <meta charset="utf-8">
+  <title>NYC Covid Testing Centers</title>
+  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+  <link href="https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.css" rel="stylesheet">
+  <link href="/dist/output.css" rel="stylesheet">
+  <script src="https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.js"></script>
 </head>
+
 <body>
-  <div id="info">
-    <h3>NYC Covid Testing Centers</h3>
-    <div>This map is based on data from <a href="https://www.nychealthandhospitals.org/covid-19-testing-sites/">nyc health and hospitals covid-19 testing sites</a>. This list is not exhaustive. Confirm all information with the original source.</div>
+  <div id="info-open" class="rounded-md w-auto m-6 p-4 absolute top-0 left-0 z-10 bg-white md:max-w-lg">
+    <div class="flex w-full justify-between">
+      <h3 class="flex-grow-1 text-xl font-bold font-sans pb-2">NYC Covid Testing Centers</h3>
+      <!-- <img class="w-5 h-5 rotate-90" src="./noun-arrow-2333164.png" /> -->
+    </div>
+    <div class="font-sans">
+      The referenced locations here are free, city-run sites. This map is based on data from <a
+        class="text-blue-600 text-underline" href="https://www.nychealthandhospitals.org/covid-19-testing-sites/"> nyc
+        health and hospitals covid-19 testing
+        sites</a>. <br> This list may not be exhaustive and does not update automatically. Be sure to confirm all
+      information
+      with the original site.
+    </div>
   </div>
+  <!-- <div id="info-closed">
+    <img class="w-5 h-5 -rotate-90" src="./noun-arrow-2333164.png" />
+  </div> -->
   <div id="map"></div>
-<script src="main.js" type="module"></script>
+  <script src="main.js" type="module"></script>
 </body>
+
 </html>

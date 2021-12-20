@@ -5,8 +5,10 @@
   "default": "./src/index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "parcel src/index.html --public-url /",
-    "build": "parcel build src/index.html --public-url ./"
+    "build": "parcel build src/index.html --public-url ./",
+    "start": "npm-run-all --parallel 'watch:*'",
+    "watch:start": "parcel serve src/index.html",
+    "watch:css": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
   },
   "keywords": [],
   "author": "",
@@ -15,9 +17,11 @@
     "axios": "^0.24.0",
     "cheerio": "^1.0.0-rc.10",
     "dotenv": "^10.0.0",
+    "npm-run-all": "^4.1.5",
     "pretty": "^2.0.0"
   },
   "devDependencies": {
-    "parcel": "^2.0.1"
+    "parcel": "^2.0.1",
+    "tailwindcss": "^3.0.7"
   }
 }
