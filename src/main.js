@@ -18,14 +18,9 @@ const formatPopup = (location) => (`
   </div>
 `)
 
-centers.map(center => {
-  if (center) new mapboxgl.Marker()
+centers.filter(c => c).map(center =>
+  new mapboxgl.Marker()
     .setLngLat(center.coordinates)
     .setPopup(new mapboxgl.Popup().setHTML(formatPopup(center)))
     .addTo(map)
-})
-
-
-function hide() {
-  document.getElementById("#info-open").classList
-}
+)
