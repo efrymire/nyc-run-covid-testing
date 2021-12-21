@@ -65,14 +65,8 @@ function formatLocReturnPromise(el) {
       return ({
         address,
         coordinates: ({ lat, lng }),
-        context: location.slice(3),
+        context: location.slice(3).filter(d => d !== "Pre-register for your visit"),
       })
     });
 }
 
-function cleanText(text) {
-  return text
-    .replace(/\t/g, '') // remove all tabs
-    .replace(/\n/m, '') // remove starting new lines entirely
-    .replace(/\n/g, ', '); // add visual spacing
-}

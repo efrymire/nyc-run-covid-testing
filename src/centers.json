@@ -237,8 +237,7 @@
       "844-NYC-4NYC",
       "COVID-19 Testing and Antibody Testing Offered Here",
       "Monday – Friday, 9 a.m. – 3:30 p.m.",
-      "Saturday – Sunday, 8 a.m. – 12 p.m.",
-      "Pre-register for your visit"
+      "Saturday – Sunday, 8 a.m. – 12 p.m."
     ]
   },
   {
@@ -254,8 +253,7 @@
     "context": [
       "718-918-5000",
       "COVID-19 Testing and Antibody Testing Offered Here",
-      "Monday – Friday, 8:00 a.m. – 4:00 p.m. Saturday, 8 a.m. – 3:30 p.m.",
-      "Pre-register for your visit"
+      "Monday – Friday, 8:00 a.m. – 4:00 p.m. Saturday, 8 a.m. – 3:30 p.m."
     ]
   },
   {
@@ -271,8 +269,7 @@
     "context": [
       "718-579-5000",
       "COVID-19 Testing and Antibody Testing Offered Here",
-      "Monday – Friday, 9 a.m. – 5 p.m.",
-      "Pre-register for your visit"
+      "Monday – Friday, 9 a.m. – 5 p.m."
     ]
   },
   {
@@ -289,8 +286,7 @@
       "844-NYC-4NYC",
       "COVID-19 Testing and Antibody Testing Offered Here",
       "Monday – Friday, 8:30 a.m. – 4 p.m.",
-      "Saturday – Sunday, 8 a.m. – 12 p.m.",
-      "Pre-register for your visit"
+      "Saturday – Sunday, 8 a.m. – 12 p.m."
     ]
   },
   {
@@ -308,7 +304,6 @@
       "844-692-4692 General Information: 718-918-5700",
       "COVID-19 Testing and Antibody Testing Offered Here",
       "Monday – Saturday, 8:30 a.m. – 4:30 p.m.",
-      "Pre-register for your visit​"
     ]
   },
   {
@@ -325,7 +320,24 @@
       "Appointments:",
       "COVID-19 Testing and Antibody Testing Offered Here",
       "Monday – Friday, 9 a.m. – 4 p.m.",
-      "Pre-register for your visit​"
+    ]
+  },
+  {
+    "address": [
+      "Walton Educational School",
+      "2780 Reservoir Ave (Testing Site on 196th and Jerome Ave)",
+      "Bronx, NY 10468"
+    ],
+    "coordinates": {
+      "lat": 40.8706673,
+      "lng": -73.897646
+    },
+    "context": [
+      "Tuesday – Thursday, 7:30 a.m. – 7 p.m.",
+      "Friday, 7:30 a.m. – 4 p.m.",
+      "Dates: Dec 21 – 24",
+      "PCR Testing Available Here",
+      "4 years old and above"
     ]
   },
   {
@@ -660,7 +672,10 @@
     },
     "context": [
       "Monday – Saturday, 8 a.m. – 4 p.m.",
-      "844-NYC-4NYC"
+      "844-NYC-4NYC",
+      "COVID-19 Testing and Antibody Testing Offered Here",
+      "Monday – Friday, 8 a.m. – 4 p.m.",
+      "*Coney Island Hospital does not offer rapid testing."
     ]
   },
   {
@@ -677,8 +692,7 @@
       "844-NYC-4NYC",
       "COVID-19 Testing and Antibody Testing Offered Here",
       "Monday – Friday, 9 a.m. – 3:30 p.m.",
-      "Saturday – Sunday, 8 a.m. – 12 p.m.",
-      "Pre-register for your visit"
+      "Saturday – Sunday, 8 a.m. – 12 p.m."
     ]
   },
   {
@@ -695,8 +709,7 @@
       "844-NYC-4NYC",
       "COVID-19 Testing and Antibody Testing Offered Here",
       "Monday – Friday, 9 a.m. – 3:30 p.m.",
-      "Saturday – Sunday, 8 a.m. – 12 p.m.",
-      "Pre-register for your visit"
+      "Saturday – Sunday, 8 a.m. – 12 p.m."
     ]
   },
   {
@@ -713,8 +726,7 @@
       "Brooklyn, New York 11203",
       "718-245-3131",
       "Monday – Friday, 8 a.m. – 4:30 p.m. Saturday : 8 a.m – 3 p.m Sunday: closed",
-      "COVID-19 Testing and Antibody Testing Offered Here",
-      "Pre-register for your visit"
+      "COVID-19 Testing and Antibody Testing Offered Here"
     ]
   },
   {
@@ -730,8 +742,7 @@
     "context": [
       "718-963-8000",
       "COVID-19 Testing and Antibody Testing Offered Here",
-      "Monday – Saturday, 8 a.m. – 5 p.m.",
-      "Pre-register for your visit"
+      "Monday – Saturday, 8 a.m. – 5 p.m."
     ]
   },
   {
@@ -746,8 +757,7 @@
     },
     "context": [
       "Monday – Sunday, 9 a.m. – 7 p.m.",
-      "Rapid Molecular Testing Available Here",
-      "Pre-register for your visit"
+      "Rapid Molecular Testing Available Here"
     ]
   },
   {
@@ -762,8 +772,7 @@
     },
     "context": [
       "Monday – Sunday, 9 a.m. – 7 p.m.",
-      "Rapid Molecular Testing Available Here",
-      "Pre-register for your visit"
+      "Rapid Molecular Testing Available Here"
     ]
   },
   {
@@ -778,8 +787,7 @@
     },
     "context": [
       "Monday – Sunday, 9 a.m. – 7 p.m.",
-      "Rapid Molecular Testing Available Here",
-      "Pre-register for your visit"
+      "Rapid Molecular Testing Available Here"
     ]
   },
   {
@@ -796,8 +804,7 @@
       "844-NYC-4NYC",
       "Rapid Molecular Testing Available Here",
       "Monday – Friday, 9 a.m. – 7 p.m.",
-      "Saturday – Sunday, 8 a.m. – 12 p.m.",
-      "Pre-register for your visit"
+      "Saturday – Sunday, 8 a.m. – 12 p.m."
     ]
   },
   {
@@ -812,8 +819,42 @@
     },
     "context": [
       "Monday – Sunday, 9 a.m – 7 p.m.",
-      "Rapid Molecular Testing Available Here",
-      "Pre-register for your visit"
+      "Rapid Molecular Testing Available Here"
+    ]
+  },
+  {
+    "address": [
+      "Bushwick Educational Campus",
+      "400 Irving Avenue,",
+      "Brooklyn NY 11237"
+    ],
+    "coordinates": {
+      "lat": 40.6968994,
+      "lng": -73.91119379999999
+    },
+    "context": [
+      "Tuesday – Thursday, 7 a.m. – 7 p.m.",
+      "Friday, 7 a.m. – 4 p.m.",
+      "Dates: Dec 21 – 24",
+      "PCR Testing Available Here",
+      "4 years old and above"
+    ]
+  },
+  {
+    "address": [
+      "Modell’s (across from Barclays Center)",
+      "620 Atlantic Avenue",
+      "Brooklyn NY 11217"
+    ],
+    "coordinates": {
+      "lat": 40.6826465,
+      "lng": -73.97541559999999
+    },
+    "context": [
+      "Tuesday – Thursday, 11 a.m. – 7 p.m.",
+      "Dates: Dec 21 – 23",
+      "PCR Testing Available Here",
+      "4 years old and above"
     ]
   },
   {
@@ -828,6 +869,7 @@
     },
     "context": [
       "Monday – Sunday, 8:30 a.m. – 4:30 p.m.",
+      "Friday, 8:30 a.m. – 1:30 p.m.",
       "Dates: Dec 20 – Dec 26",
       "4 years old and above"
     ]
@@ -997,22 +1039,6 @@
   },
   {
     "address": [
-      "HAUP Brooklyn (Haitian Americans United For Progress)",
-      "1760 Nostrand Avenue,",
-      "Brooklyn, NY 11226"
-    ],
-    "coordinates": {
-      "lat": 40.6428623,
-      "lng": -73.9488738
-    },
-    "context": [
-      "Wednesday, 10:30 a.m. – 6 p.m.",
-      "Dates: Dec 22",
-      "4 years old and above"
-    ]
-  },
-  {
-    "address": [
       "Mt. Pisgah Baptist Church",
       "212 Tompkins Ave.,",
       "Brooklyn, NY 11216"
@@ -1152,8 +1178,7 @@
     },
     "context": [
       "Monday – Sunday, 9 a.m. – 7 p.m.",
-      "Rapid Molecular Testing Available Here",
-      "Pre-register for your visit"
+      "Rapid Molecular Testing Available Here"
     ]
   },
   {
@@ -1172,8 +1197,7 @@
       "Monday – Thursday, Walk Ins: 7:30 a.m. – 3:30 p.m.",
       "Sunday, 9 a.m. – 1 p.m.",
       "*Walk-in hours maybe subject to change depending on patient volume.",
-      "Bellevue Testing will be closing at noon on Friday 12/24 and we will be CLOSED on Christmas Day 12/25",
-      "Pre-register for your visit"
+      "Bellevue Testing will be closing at noon on Friday 12/24 and we will be CLOSED on Christmas Day 12/25"
     ]
   },
   {
@@ -1190,8 +1214,7 @@
       "844-NYC-4NYC",
       "COVID-19 Testing and Antibody Testing Offered Here",
       "Monday – Friday, 9 a.m. – 3 p.m.",
-      "Saturday – Sunday, 8 a.m. – 12 p.m.",
-      "Pre-register for your visit"
+      "Saturday – Sunday, 8 a.m. – 12 p.m."
     ]
   },
   {
@@ -1207,8 +1230,7 @@
     "context": [
       "212-939-1000",
       "COVID-19 Testing and Antibody Testing Offered Here",
-      "Monday – Saturday, 8 a.m. – 4:00 p.m.",
-      "Pre-register for your visit"
+      "Monday – Saturday, 8 a.m. – 4:00 p.m."
     ]
   },
   {
@@ -1224,8 +1246,24 @@
     "context": [
       "212-423-6262",
       "COVID-19 Testing and Antibody Testing Offered Here",
-      "Monday – Saturday, 8 a.m. – 4:00 p.m.",
-      "Pre-register for your visit"
+      "Monday – Saturday, 8 a.m. – 4:00 p.m."
+    ]
+  },
+  {
+    "address": [
+      "Highbridge Park Rec Center",
+      "2301 Amsterdam Avenue,",
+      "New York, NY 10033"
+    ],
+    "coordinates": {
+      "lat": 40.842804,
+      "lng": -73.93419
+    },
+    "context": [
+      "Tuesday – Thursday, 11 a.m. – 7 p.m.",
+      "Dates: Dec 21 – 23",
+      "Rapid Antigen Testing Available Here",
+      "4 years old and above"
     ]
   },
   {
@@ -1240,7 +1278,7 @@
     },
     "context": [
       "Monday, Thursday, 10 a.m. – 6 p.m.",
-      "Dates: Dec 20, Dec 23",
+      "Dates: Dec 20, 23",
       "4 years old and above"
     ]
   },
@@ -1657,8 +1695,7 @@
     "context": [
       "718-334-4000",
       "COVID-19 Testing and Antibody Testing Offered Here",
-      "Monday – Saturday, 8 a.m. – 4:00 p.m.",
-      "Pre-register for your visit"
+      "Monday – Saturday, 8 a.m. – 4:00 p.m."
     ]
   },
   {
@@ -1674,8 +1711,7 @@
     "context": [
       "718-883-3000",
       "COVID-19 Testing and Antibody Testing Offered Here",
-      "Monday – Saturday, 7 a.m. – 7 p.m.",
-      "Pre-register for your visit"
+      "Monday – Saturday, 7 a.m. – 7 p.m."
     ]
   },
   {
@@ -1690,8 +1726,7 @@
     },
     "context": [
       "Monday – Sunday, 9 a.m. – 7 p.m.",
-      "Rapid Molecular Testing Available Here",
-      "Pre-register for your visit"
+      "Rapid Molecular Testing Available Here"
     ]
   },
   {
@@ -1708,8 +1743,25 @@
       "Monday – Thursday, 12 p.m. – 8 p.m.",
       "Dates: Dec 20 – 23",
       "Dates: Dec 27 – 30",
-      "Rapid Antigen Testing Available Here",
-      "Pre-register for your visit"
+      "Rapid Antigen Testing Available Here"
+    ]
+  },
+  {
+    "address": [
+      "Elmhurst/Newton High School",
+      "48-01 90th Street,",
+      "Queens, NY 11373"
+    ],
+    "coordinates": {
+      "lat": 40.7411032,
+      "lng": -73.87396629999999
+    },
+    "context": [
+      "Tuesday – Thursday, 7 a.m. – 7 p.m.",
+      "Friday, 7 a.m. – 4 p.m.",
+      "Dates: Dec 21 – 24",
+      "PCR Testing Available Here",
+      "4 years old and above"
     ]
   },
   {
@@ -1758,7 +1810,7 @@
     "context": [
       "Tuesday – Wednesday, 9:30 a.m. – 4:30 p.m.",
       "Friday, 9:30 a.m. – 1:30 p.m.",
-      "Dates: Dec 21 – 22, Dec 24",
+      "Dates: Dec 21 – 22, 24",
       "4 years old and above"
     ]
   },
@@ -1774,7 +1826,7 @@
     },
     "context": [
       "Sunday, 9:30 a.m. – 5:30 p.m.",
-      "Dates: Dec 26/span>",
+      "Dates: Dec 26",
       "4 years old and above"
     ]
   },
@@ -1830,6 +1882,40 @@
   },
   {
     "address": [
+      "Queens College Student Union",
+      "65-30 Kissena Blvd.,",
+      "Queens, NY 11367"
+    ],
+    "coordinates": {
+      "lat": 40.7342647,
+      "lng": -73.8160195
+    },
+    "context": [
+      "Tuesday – Thursday, 9:30 a.m. – 5:30 p.m.",
+      "Friday, 9:30 a.m. – 2 p.m.",
+      "Dates: Dec 21 – 23, 24",
+      "4 years old and above"
+    ]
+  },
+  {
+    "address": [
+      "Sunnyside Community Services",
+      "43-31 39th Street,",
+      "Queens, NY 11104"
+    ],
+    "coordinates": {
+      "lat": 40.7447776,
+      "lng": -73.9257812
+    },
+    "context": [
+      "Tuesday, 1 p.m. – 7:30 p.m.",
+      "Thursday, 8:30 a.m. – 2:30 p.m.",
+      "Dates: Dec 21, 23",
+      "4 years old and above"
+    ]
+  },
+  {
+    "address": [
       "Wolfe’s Pond Park (Parking Lot)",
       "Wolfe’s Pond Park Chester St,",
       "Staten Island, NY 10312"
@@ -1874,8 +1960,7 @@
       "844-NYC-4NYC",
       "COVID-19 Testing and Antibody Testing Offered Here",
       "Monday – Friday, 8:30 a.m. – 4:30 p.m.",
-      "Saturday – Sunday, 8 a.m. – 12 p.m.",
-      "Pre-register for your visit"
+      "Saturday – Sunday, 8 a.m. – 12 p.m."
     ]
   },
   {
@@ -1889,8 +1974,7 @@
       "lng": -74.0687077
     },
     "context": [
-      "Monday – Sunday, 9 a.m. – 7 p.m.",
-      "Pre-register for your visit"
+      "Monday – Sunday, 9 a.m. – 7 p.m."
     ]
   },
   {
@@ -1905,8 +1989,7 @@
     },
     "context": [
       "Monday – Sunday, 9 a.m. – 7 p.m.",
-      "Rapid Molecular Testing Available Here",
-      "Pre-register for your visit"
+      "Rapid Molecular Testing Available Here"
     ]
   },
   {
@@ -1921,8 +2004,7 @@
     },
     "context": [
       "Monday – Sunday, 9 a.m. – 7 p.m.",
-      "Rapid Molecular Testing Available Here",
-      "Pre-register for your visit"
+      "Rapid Molecular Testing Available Here"
     ]
   },
   {
@@ -1940,7 +2022,7 @@
       "Dates: Dec 20 – 23",
       "Dates: Dec 27 – 30",
       "Rapid Antigen Testing Available Here",
-      "Pre-register for your visit"
+      "4 years old and above"
     ]
   },
   {
