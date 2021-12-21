@@ -236,8 +236,7 @@
     "context": [
       "844-NYC-4NYC",
       "COVID-19 Testing and Antibody Testing Offered Here",
-      "Monday – Friday, 9 a.m. – 3:30 p.m.",
-      "Saturday – Sunday, 8 a.m. – 12 p.m."
+      "Monday – Sunday, 7 a.m. – 7 p.m."
     ]
   },
   {
@@ -253,7 +252,8 @@
     "context": [
       "718-918-5000",
       "COVID-19 Testing and Antibody Testing Offered Here",
-      "Monday – Friday, 8:00 a.m. – 4:00 p.m. Saturday, 8 a.m. – 3:30 p.m."
+      "Monday – Friday, 8:00 a.m. – 4:00 p.m.",
+      "Saturday, 8 a.m. – 3:30 p.m."
     ]
   },
   {
@@ -285,8 +285,7 @@
     "context": [
       "844-NYC-4NYC",
       "COVID-19 Testing and Antibody Testing Offered Here",
-      "Monday – Friday, 8:30 a.m. – 4 p.m.",
-      "Saturday – Sunday, 8 a.m. – 12 p.m."
+      "Monday – Sunday, 7 a.m. – 7 p.m."
     ]
   },
   {
@@ -304,6 +303,7 @@
       "844-692-4692 General Information: 718-918-5700",
       "COVID-19 Testing and Antibody Testing Offered Here",
       "Monday – Saturday, 8:30 a.m. – 4:30 p.m.",
+      "Pre-register for your visit​"
     ]
   },
   {
@@ -319,7 +319,8 @@
     "context": [
       "Appointments:",
       "COVID-19 Testing and Antibody Testing Offered Here",
-      "Monday – Friday, 9 a.m. – 4 p.m.",
+      "Monday – Sunday, 7 a.m. – 7 p.m.",
+      "Pre-register for your visit​"
     ]
   },
   {
@@ -385,6 +386,22 @@
     "context": [
       "Tuesday, Thursday, 10:30 a.m. – 5:30 p.m.",
       "Dates: Dec 21, 23",
+      "4 years old and above"
+    ]
+  },
+  {
+    "address": [
+      "Bathgate",
+      "4006 3rd Ave,",
+      "Bronx, NY 10457"
+    ],
+    "coordinates": {
+      "lat": 40.84188820000001,
+      "lng": -73.8984396
+    },
+    "context": [
+      "Sunday, 10 a.m. – 5p.m.",
+      "Dates: Dec 26",
       "4 years old and above"
     ]
   },
@@ -675,6 +692,9 @@
       "844-NYC-4NYC",
       "COVID-19 Testing and Antibody Testing Offered Here",
       "Monday – Friday, 8 a.m. – 4 p.m.",
+      "Please schedule an appointment",
+      "Limited walk ins availability",
+      "No walk-ins after 5 pm Mon – Fri and no walk-ins after 2pm on Saturdays",
       "*Coney Island Hospital does not offer rapid testing."
     ]
   },
@@ -691,8 +711,7 @@
     "context": [
       "844-NYC-4NYC",
       "COVID-19 Testing and Antibody Testing Offered Here",
-      "Monday – Friday, 9 a.m. – 3:30 p.m.",
-      "Saturday – Sunday, 8 a.m. – 12 p.m."
+      "Monday – Sunday, 7 a.m. – 7 p.m."
     ]
   },
   {
@@ -708,8 +727,7 @@
     "context": [
       "844-NYC-4NYC",
       "COVID-19 Testing and Antibody Testing Offered Here",
-      "Monday – Friday, 9 a.m. – 3:30 p.m.",
-      "Saturday – Sunday, 8 a.m. – 12 p.m."
+      "Monday – Sunday, 7 a.m. – 7 p.m."
     ]
   },
   {
@@ -725,7 +743,9 @@
     "context": [
       "Brooklyn, New York 11203",
       "718-245-3131",
-      "Monday – Friday, 8 a.m. – 4:30 p.m. Saturday : 8 a.m – 3 p.m Sunday: closed",
+      "Monday – Friday, 8 a.m. – 4:30 p.m.",
+      "Saturday : 8 a.m – 3 p.m",
+      "Sunday: closed",
       "COVID-19 Testing and Antibody Testing Offered Here"
     ]
   },
@@ -803,8 +823,7 @@
     "context": [
       "844-NYC-4NYC",
       "Rapid Molecular Testing Available Here",
-      "Monday – Friday, 9 a.m. – 7 p.m.",
-      "Saturday – Sunday, 8 a.m. – 12 p.m."
+      "Monday – Sunday, 7 a.m. – 7 p.m."
     ]
   },
   {
@@ -829,8 +848,8 @@
       "Brooklyn NY 11237"
     ],
     "coordinates": {
-      "lat": 40.6968994,
-      "lng": -73.91119379999999
+      "lat": 40.696834,
+      "lng": -73.91170079999999
     },
     "context": [
       "Tuesday – Thursday, 7 a.m. – 7 p.m.",
@@ -929,8 +948,8 @@
       "Brooklyn, NY 11212"
     ],
     "coordinates": {
-      "lat": 40.66920959999999,
-      "lng": -73.9068951
+      "lat": 40.6699749,
+      "lng": -73.90963980000001
     },
     "context": [
       "Monday – Thursday, 11:30 a.m. – 7:30 p.m.",
@@ -1050,6 +1069,39 @@
     "context": [
       "Thursday, 9 a.m. – 5 p.m.",
       "Dates: Dec 23",
+      "4 years old and above"
+    ]
+  },
+  {
+    "address": [
+      "HAUP Brooklyn (Haitian Americans United For Progress)",
+      "1760 Nostrand Avenue,",
+      "Brooklyn, NY 11226"
+    ],
+    "coordinates": {
+      "lat": 40.6428623,
+      "lng": -73.9488738
+    },
+    "context": [
+      "Wednesday, 10:30 a.m. – 6 p.m.",
+      "Dates: Dec 22",
+      "4 years old and above"
+    ]
+  },
+  {
+    "address": [
+      "Brooklyn Army Terminal (BAT)",
+      "140 58th Street,",
+      "Brooklyn, NY 11220"
+    ],
+    "coordinates": {
+      "lat": 40.6460627,
+      "lng": -74.0244993
+    },
+    "context": [
+      "Friday, 8:30 a.m. – 1:30 p.m.",
+      "Sunday, 10 a.m. – 5 p.m.",
+      "Dates: Dec 24, 26",
       "4 years old and above"
     ]
   },
@@ -1213,8 +1265,7 @@
     "context": [
       "844-NYC-4NYC",
       "COVID-19 Testing and Antibody Testing Offered Here",
-      "Monday – Friday, 9 a.m. – 3 p.m.",
-      "Saturday – Sunday, 8 a.m. – 12 p.m."
+      "Monday – Sunday, 7 a.m. – 7 p.m."
     ]
   },
   {
@@ -1327,22 +1378,6 @@
     "context": [
       "Tuesday, 10:30 a.m. – 5:30 p.m.",
       "Dates: Dec 21",
-      "4 years old and above"
-    ]
-  },
-  {
-    "address": [
-      "MetroPlus Community Office (Manhattan)",
-      "2104 Adam Clayton Powell Blvd,",
-      "Manhattan, NY 10027"
-    ],
-    "coordinates": {
-      "lat": 40.8093494,
-      "lng": -73.9486247
-    },
-    "context": [
-      "Wednesday, 10 a.m. – 5:30 p.m.",
-      "Dates: Dec 22",
       "4 years old and above"
     ]
   },
@@ -1959,8 +1994,7 @@
     "context": [
       "844-NYC-4NYC",
       "COVID-19 Testing and Antibody Testing Offered Here",
-      "Monday – Friday, 8:30 a.m. – 4:30 p.m.",
-      "Saturday – Sunday, 8 a.m. – 12 p.m."
+      "Monday – Sunday, 7 a.m. – 7 p.m."
     ]
   },
   {
