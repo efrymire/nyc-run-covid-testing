@@ -1,26 +1,23 @@
-const centers = require('./centers.json')
+const { centers, timestamp } = require('./centers.json');
+import Mapbox from './map';
+import Info from './info.js';
 
-mapboxgl.accessToken = process.env.MAPBOX_ACCESS_TOKEN;
+let map, info;
 
-const map = new mapboxgl.Map({
-  container: 'map', // container ID
-  style: 'mapbox://styles/mapbox/streets-v11', // style URL
-  center: [-74.0083, 40.7077], // starting position [lng, lat]
-  zoom: 12 // starting zoom
-});
+let state = {
+  infoOpen: true,
+}
 
-const formatPopup = (location) => (`
-  <div class="font-sans px-2">
-    <h3 class="text-lg font-bold py-2">Location</h3>
-    ${location.address.reduce((t, v) => t.concat(`<div class="text-md">${v}</div>`), '')}
-    <h3 class="text-lg font-bold py-2">Details</h3>
-    ${location.context.reduce((t, v) => t.concat(`<div class="text-md">${v}</div>`), '')}
-  </div>
-`)
+if (centers) {
+  map = new Mapbox(centers);
+};
 
-centers.filter(c => c).map(center =>
-  new mapboxgl.Marker()
-    .setLngLat(center.coordinates)
-    .setPopup(new mapboxgl.Popup().setHTML(formatPopup(center)))
-    .addTo(map)
-)
+if (timestamp) {
+  info = new Info(timestamp)
+};
+
+function toggleInfo() {
+  state.infoOpen = !state.infoOpen;
+  info.toggle(state.infoOpen);
+}
+window.toggleInfo = toggleInfo;

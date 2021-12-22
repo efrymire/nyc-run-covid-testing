@@ -17,9 +17,15 @@ body {
 }
 
 #info {
-  background: white;
-  margin: 20px;
-  padding: 15px;
-  position: absolute;
-  z-index: 10;
+  transition-property: width, height;
+  transition-duration: 400ms;
+}
+
+#arrow {
+  transition: transform 400ms;
+  transform-origin: center;
+}
+
+.open {
+  transform: translateY(-2px) rotate(-180deg);
 }

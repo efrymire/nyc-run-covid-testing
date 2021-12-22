@@ -20,8 +20,11 @@ async function scrapeData() {
         return formatLocReturnPromise($(el))
       })
     ).then((centers) => {
-      // console.log('centers :>> ', centers);
-      fs.writeFile("src/centers.json", JSON.stringify(centers, null, 2), (err) => {
+      const data = ({
+        timestamp: new Date(),
+        centers,
+      })
+      fs.writeFile("src/centers.json", JSON.stringify(data, null, 2), (err) => {
         if (err) {
           console.error(err);
           return;
@@ -65,7 +68,7 @@ function formatLocReturnPromise(el) {
       return ({
         address,
         coordinates: ({ lat, lng }),
-        context: location.slice(3).filter(d => d !== "Pre-register for your visit"),
+        context: location.slice(3),
       })
     });
 }
