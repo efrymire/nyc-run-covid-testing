@@ -1,9 +1,9 @@
 {
-  "timestamp": "2021-12-22T03:19:22.329Z",
+  "timestamp": "2021-12-22T23:59:56.283Z",
   "centers": [
     {
+      "name": "NYCHA Pelham Parkway",
       "address": [
-        "NYCHA Pelham Parkway",
         "Corner of Bronxwood Ave & Mace Ave,",
         "Bronx NY 10469"
       ],
@@ -18,14 +18,14 @@
       ]
     },
     {
+      "name": "Entrance to Crotona Pool//Adjacent to Bathgate Playground",
       "address": [
-        "Entrance to Crotona Pool//Adjacent to Bathgate Playground",
         "Corner of Fulton Ave and East 173rd St,",
         "Bronx, NY 10457"
       ],
       "coordinates": {
-        "lat": 40.8401124,
-        "lng": -73.8979971
+        "lat": 40.8406852,
+        "lng": -73.8982801
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -34,14 +34,14 @@
       ]
     },
     {
+      "name": "Soundview Park",
       "address": [
-        "Soundview Park",
         "Corner of Lafayette Avenue and Morrison Avenue,",
         "Bronx, NY 10472"
       ],
       "coordinates": {
-        "lat": 40.8171726,
-        "lng": -73.8750973
+        "lat": 40.8201324,
+        "lng": -73.87248079999999
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -50,14 +50,14 @@
       ]
     },
     {
+      "name": "St. James Park",
       "address": [
-        "St. James Park",
         "2550 Jerome Ave,",
         "Bronx, NY 10468"
       ],
       "coordinates": {
-        "lat": 40.86502369999999,
-        "lng": -73.89777269999999
+        "lat": 40.8653474,
+        "lng": -73.8974018
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -66,8 +66,8 @@
       ]
     },
     {
+      "name": "CO-OP City",
       "address": [
-        "CO-OP City",
         "177 Dreiser Loop,",
         "Bronx, NY 10475"
       ],
@@ -82,8 +82,8 @@
       ]
     },
     {
+      "name": "CO-OP City",
       "address": [
-        "CO-OP City",
         "135 Einstein Loop N,",
         "Bronx, NY 10475"
       ],
@@ -98,8 +98,8 @@
       ]
     },
     {
+      "name": "CO-OP City",
       "address": [
-        "CO-OP City",
         "2049 Bartow Ave,",
         "Bronx, NY 10475"
       ],
@@ -114,8 +114,8 @@
       ]
     },
     {
+      "name": "CEC FOOD DISTRO",
       "address": [
-        "CEC FOOD DISTRO",
         "Seward Ave and Pugsley Ave (On Football Field)",
         "Bronx NY 10473"
       ],
@@ -130,14 +130,14 @@
       ]
     },
     {
+      "name": "New Covenant Dominion Cathedral",
       "address": [
-        "New Covenant Dominion Cathedral",
         "1175 Boston Road",
         "Bronx NY 10456"
       ],
       "coordinates": {
-        "lat": 40.8291252,
-        "lng": -73.9031205
+        "lat": 40.8290875,
+        "lng": -73.9033961
       },
       "context": [
         "Wednesday, 12 p.m. – 8 p.m.",
@@ -146,14 +146,14 @@
       ]
     },
     {
+      "name": "NYPL Wakefield Library",
       "address": [
-        "NYPL Wakefield Library",
         "4100 Lowerre Pl",
         "Bronx NY 10466"
       ],
       "coordinates": {
-        "lat": 40.891084,
-        "lng": -73.85949099999999
+        "lat": 40.8910364,
+        "lng": -73.8596099
       },
       "context": [
         "Monday – Thursday, 8 a.m. – 6 p.m.",
@@ -162,8 +162,8 @@
       ]
     },
     {
+      "name": "Reinzi Park",
       "address": [
-        "Reinzi Park",
         "746 East 226th Street",
         "Bronx NY 10466"
       ],
@@ -178,14 +178,14 @@
       ]
     },
     {
+      "name": "Children’s Aid College Prep Charter School – Pediatric",
       "address": [
-        "Children’s Aid College Prep Charter School – Pediatric",
         "1232 Southern Boulevard",
         "Bronx NY 10459"
       ],
       "coordinates": {
-        "lat": 40.8296974,
-        "lng": -73.89150690000001
+        "lat": 40.8297164,
+        "lng": -73.8914763
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 6 p.m.",
@@ -194,14 +194,14 @@
       ]
     },
     {
+      "name": "Children’s Aid College Prep Charter School – Whitney Young Jr. Campus",
       "address": [
-        "Children’s Aid College Prep Charter School – Whitney Young Jr. Campus",
         "1919 Prospect Boulevard",
         "Bronx NY 10457"
       ],
       "coordinates": {
-        "lat": 40.8435221,
-        "lng": -73.89006719999999
+        "lat": 40.8437691,
+        "lng": -73.8903279
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 6 p.m.",
@@ -210,8 +210,8 @@
       ]
     },
     {
+      "name": "Chefs Warehouse",
       "address": [
-        "Chefs Warehouse",
         "240 Food Center Drive (parking lot)",
         "Bronx NY 10474"
       ],
@@ -226,31 +226,49 @@
       ]
     },
     {
+      "name": "Corner of 147th & Willis Ave,",
       "address": [
-        "NYC Health + Hospitals/Gotham Health, Belvis",
+        "Bronx NY 10455",
+        "Tuesday – Friday, 11 a.m. – 7 p.m."
+      ],
+      "coordinates": {
+        "lat": 40.8161361,
+        "lng": -73.9184368
+      },
+      "context": [
+        "Dates: Dec 21 – 24; Dec 28 – 31",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "NYC Health + Hospitals/Gotham Health, Belvis",
+      "address": [
         "545 East 142nd Street",
         "Bronx, New York 10454"
       ],
       "coordinates": {
-        "lat": 40.8101401,
-        "lng": -73.9157383
+        "lat": 40.8104385,
+        "lng": -73.9159236
       },
       "context": [
         "844-NYC-4NYC",
         "COVID-19 Testing and Antibody Testing Offered Here",
-        "Monday – Sunday, 7 a.m. – 7 p.m.",
+        "Monday – Thrusday, Sunday, 7 a.m. – 7 p.m.",
+        "Friday, 7 a.m. – 1 p.m.",
+        "Saturday, 1 p.m. – 5 p.m.",
+        "Closed at 1:00 PM for Christmas Eve and New Year Eve",
         "Pre-register for your visit"
       ]
     },
     {
+      "name": "NYC Health + Hospitals/Jacobi",
       "address": [
-        "NYC Health + Hospitals/Jacobi",
         "1400 Pelham Parkway South",
         "Bronx, New York 10461"
       ],
       "coordinates": {
-        "lat": 40.8557535,
-        "lng": -73.8464133
+        "lat": 40.8550347,
+        "lng": -73.8442026
       },
       "context": [
         "718-918-5000",
@@ -261,14 +279,14 @@
       ]
     },
     {
+      "name": "NYC Health + Hospitals/Lincoln",
       "address": [
-        "NYC Health + Hospitals/Lincoln",
         "234 East 149th Street",
         "Bronx, New York 10451"
       ],
       "coordinates": {
-        "lat": 40.817374,
-        "lng": -73.9240962
+        "lat": 40.8160855,
+        "lng": -73.9247762
       },
       "context": [
         "718-579-5000",
@@ -278,8 +296,8 @@
       ]
     },
     {
+      "name": "NYC Health + Hospitals/Gotham Health, Morrisania",
       "address": [
-        "NYC Health + Hospitals/Gotham Health, Morrisania",
         "1225 Gerard Avenue",
         "Bronx, New York 10452"
       ],
@@ -290,52 +308,58 @@
       "context": [
         "844-NYC-4NYC",
         "COVID-19 Testing and Antibody Testing Offered Here",
-        "Monday – Sunday, 7 a.m. – 7 p.m.",
+        "Monday – Thrusday, Sunday, 7 a.m. – 7 p.m.",
+        "Friday, 7 a.m. – 1 p.m.",
+        "Saturday, 1 p.m. – 5 p.m.",
         "Pre-register for your visit"
       ]
     },
     {
+      "name": "NYC Health + Hospitals/North Central Bronx",
       "address": [
-        "NYC Health + Hospitals/North Central Bronx",
         "3424 Kossuth Avenue",
         "Bronx, New York 10467"
       ],
       "coordinates": {
-        "lat": 40.8805787,
-        "lng": -73.88108249999999
+        "lat": 40.8804138,
+        "lng": -73.8810488
       },
       "context": [
         "Appointments:",
         "844-692-4692 General Information: 718-918-5700",
         "COVID-19 Testing and Antibody Testing Offered Here",
-        "Monday – Saturday, 8:30 a.m. – 4:30 p.m."
+        "Monday – Saturday, 8:30 a.m. – 4:30 p.m.",
+        "Pre-register for your visit​"
       ]
     },
     {
+      "name": "NYC Health + Hospitals/Gotham Health, Tremont",
       "address": [
-        "NYC Health + Hospitals/Gotham Health, Tremont",
         "1920 Webster Avenue,",
         "Bronx, New York 10457"
       ],
       "coordinates": {
-        "lat": 40.847961,
-        "lng": -73.90028
+        "lat": 40.8477768,
+        "lng": -73.9005135
       },
       "context": [
         "Appointments:",
         "COVID-19 Testing and Antibody Testing Offered Here",
-        "Monday – Sunday, 7 a.m. – 7 p.m."
+        "Monday – Thrusday, Sunday, 7 a.m. – 7 p.m.",
+        "Friday, 7 a.m. – 1 p.m.",
+        "Saturday, 1 p.m. – 5 p.m.",
+        "Pre-register for your visit​"
       ]
     },
     {
+      "name": "Walton Educational School",
       "address": [
-        "Walton Educational School",
         "2780 Reservoir Ave (Testing Site on 196th and Jerome Ave)",
         "Bronx, NY 10468"
       ],
       "coordinates": {
-        "lat": 40.8706673,
-        "lng": -73.897646
+        "lat": 40.8704171,
+        "lng": -73.8969711
       },
       "context": [
         "Tuesday – Thursday, 7:30 a.m. – 7 p.m.",
@@ -346,14 +370,31 @@
       ]
     },
     {
+      "name": "Dreiser Loop Co-op City",
       "address": [
-        "Riverdale Neighborhood House",
+        "105 Dreiser Loop",
+        "Bronx, NY 10475"
+      ],
+      "coordinates": {
+        "lat": 40.8782553,
+        "lng": -73.8284493
+      },
+      "context": [
+        "Monday – Thursday, 11 a.m. – 7 p.m.",
+        "Dates: Dec 22 – 23; Dec 27 – 30",
+        "Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Riverdale Neighborhood House",
+      "address": [
         "5521 Mosholu Avenue,",
         "Bronx, NY 10471"
       ],
       "coordinates": {
-        "lat": 40.9033739,
-        "lng": -73.903842
+        "lat": 40.9033612,
+        "lng": -73.9038554
       },
       "context": [
         "Thursday, 9:30 a.m. – 4:30 p.m.",
@@ -362,8 +403,8 @@
       ]
     },
     {
+      "name": "Clay Avenue Tenant Association",
       "address": [
-        "Clay Avenue Tenant Association",
         "1195 Clay ave,",
         "Bronx, NY 10456"
       ],
@@ -378,14 +419,14 @@
       ]
     },
     {
+      "name": "New Covenant Christian Ministries (Morrisania)",
       "address": [
-        "New Covenant Christian Ministries (Morrisania)",
         "1175 Boston Rd,",
         "Bronx, NY 10456"
       ],
       "coordinates": {
-        "lat": 40.828712,
-        "lng": -73.90346749999999
+        "lat": 40.8290875,
+        "lng": -73.9033961
       },
       "context": [
         "Tuesday, Thursday, 10:30 a.m. – 5:30 p.m.",
@@ -394,14 +435,14 @@
       ]
     },
     {
+      "name": "Bathgate",
       "address": [
-        "Bathgate",
         "4006 3rd Ave,",
         "Bronx, NY 10457"
       ],
       "coordinates": {
-        "lat": 40.84188820000001,
-        "lng": -73.8984396
+        "lat": 40.8420144,
+        "lng": -73.8982913
       },
       "context": [
         "Sunday, 10 a.m. – 5p.m.",
@@ -410,14 +451,14 @@
       ]
     },
     {
+      "name": "Red Hook Park",
       "address": [
-        "Red Hook Park",
         "Corner of Bay St & Clinton St,",
         "Brooklyn, NY 11231"
       ],
       "coordinates": {
-        "lat": 40.6721595,
-        "lng": -74.0072107
+        "lat": 40.6724024,
+        "lng": -74.0050621
       },
       "context": [
         "Monday – Wednesday, Friday – Sunday, 8 a.m. – 7 p.m.",
@@ -426,14 +467,14 @@
       ]
     },
     {
+      "name": "Red Hook Initiative",
       "address": [
-        "Red Hook Initiative",
         "767 Hicks St,",
         "Brooklyn, NY 11231"
       ],
       "coordinates": {
-        "lat": 40.6767619,
-        "lng": -74.0045296
+        "lat": 40.6767645,
+        "lng": -74.0044432
       },
       "context": [
         "Thursday, 8 a.m. – 7 p.m.",
@@ -442,14 +483,14 @@
       ]
     },
     {
+      "name": "St John’s Park",
       "address": [
-        "St John’s Park",
         "Corner of Troy Ave & Bergen St,",
         "Brooklyn, NY 11213"
       ],
       "coordinates": {
-        "lat": 40.6742179,
-        "lng": -73.9350389
+        "lat": 40.6487338,
+        "lng": -73.9358905
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -458,14 +499,14 @@
       ]
     },
     {
+      "name": "100% Playground",
       "address": [
-        "100% Playground",
         "Corner of Glenwood Road & East 100th Street,",
         "Brooklyn, NY 11236"
       ],
       "coordinates": {
-        "lat": 40.6352122,
-        "lng": -73.9283483
+        "lat": 40.64679,
+        "lng": -73.899643
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -474,14 +515,14 @@
       ]
     },
     {
+      "name": "Marcy Plaza",
       "address": [
-        "Marcy Plaza",
         "Corner of Marcy Avenue and Fulton Street,",
         "Brooklyn, NY 11216"
       ],
       "coordinates": {
-        "lat": 40.6803995,
-        "lng": -73.9461432
+        "lat": 40.6802153,
+        "lng": -73.94632829999999
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -490,14 +531,14 @@
       ]
     },
     {
+      "name": "Marion Hopkinson Playground",
       "address": [
-        "Marion Hopkinson Playground",
         "Corner of Thomas S. Boyland St. & Marion St,",
         "Brooklyn, NY 11233"
       ],
       "coordinates": {
-        "lat": 40.6816524,
-        "lng": -73.9139151
+        "lat": 40.6688509,
+        "lng": -73.91347309999999
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -506,14 +547,14 @@
       ]
     },
     {
+      "name": "Sunset Park",
       "address": [
-        "Sunset Park",
         "Corner of 6th Avenue and 44th Street,",
         "Brooklyn, NY 11232"
       ],
       "coordinates": {
-        "lat": 40.647142,
-        "lng": -74.0046194
+        "lat": 40.7561518,
+        "lng": -73.98316369999999
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -522,24 +563,8 @@
       ]
     },
     {
+      "name": "City Point Vaccine Hub",
       "address": [
-        "City Point Vaccine Hub",
-        "444 Albee Square W,",
-        "Brooklyn, NY 11201"
-      ],
-      "coordinates": {
-        "lat": 40.6909398,
-        "lng": -73.9830629
-      },
-      "context": [
-        "Saturday, 8 a.m. – 6 p.m.",
-        "Dates: Dec 20 – Dec 26",
-        "4 years old and above"
-      ]
-    },
-    {
-      "address": [
-        "Diana Jones Innovative Senior Center",
         "444 Albee Square W,",
         "Brooklyn, NY 11201"
       ],
@@ -554,14 +579,30 @@
       ]
     },
     {
+      "name": "Diana Jones Innovative Senior Center",
       "address": [
-        "Diana Jones Innovative Senior Center",
+        "444 Albee Square W,",
+        "Brooklyn, NY 11201"
+      ],
+      "coordinates": {
+        "lat": 40.6903836,
+        "lng": -73.98362159999999
+      },
+      "context": [
+        "Saturday, 8 a.m. – 6 p.m.",
+        "Dates: Dec 20 – Dec 26",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Diana Jones Innovative Senior Center",
+      "address": [
         "9 Noll St,",
         "Brooklyn, NY 11206"
       ],
       "coordinates": {
-        "lat": 40.7002195,
-        "lng": -73.93582339999999
+        "lat": 40.7004321,
+        "lng": -73.936026
       },
       "context": [
         "Monday, 8 a.m. – 6 p.m.",
@@ -570,8 +611,8 @@
       ]
     },
     {
+      "name": "Marine Park",
       "address": [
-        "Marine Park",
         "3000 Fillmore Avenue",
         "Brooklyn, NY 11234"
       ],
@@ -586,14 +627,14 @@
       ]
     },
     {
+      "name": "El Gran Mar de Plata",
       "address": [
-        "El Gran Mar de Plata",
         "3175 Fulton St",
         "Brooklyn, NY 11208"
       ],
       "coordinates": {
-        "lat": 40.682227,
-        "lng": -73.87766100000002
+        "lat": 40.6822343,
+        "lng": -73.8776595
       },
       "context": [
         "Monday – Sunday, 12 p.m. – 8 p.m.",
@@ -602,8 +643,8 @@
       ]
     },
     {
+      "name": "2nd Annual NBK Food Relief Coalition Holiday Giveback",
       "address": [
-        "2nd Annual NBK Food Relief Coalition Holiday Giveback",
         "215 Moore St",
         "Brooklyn, NY 11206"
       ],
@@ -618,14 +659,14 @@
       ]
     },
     {
+      "name": "New Hope Family Worship Center",
       "address": [
-        "New Hope Family Worship Center",
         "817 Livonia Avenue",
         "Brooklyn, NY 11207"
       ],
       "coordinates": {
-        "lat": 40.6660724,
-        "lng": -73.8860973
+        "lat": 40.6661463,
+        "lng": -73.8863315
       },
       "context": [
         "Thursday – Sunday, 8 a.m. – 7 p.m.",
@@ -634,8 +675,8 @@
       ]
     },
     {
+      "name": "Brooklyn Neighborhood Health Action Center",
       "address": [
-        "Brooklyn Neighborhood Health Action Center",
         "485 Throop Ave",
         "Brooklyn, NY 11207"
       ],
@@ -650,14 +691,14 @@
       ]
     },
     {
+      "name": "Vandalia Neighborhood Senior Center (closed  12/24-25)",
       "address": [
-        "Vandalia Neighborhood Senior Center (closed  12/24-25)",
         "47 Vandalia Avenue",
         "Brooklyn, NY 11207"
       ],
       "coordinates": {
-        "lat": 40.65007689999999,
-        "lng": -73.88696569999999
+        "lat": 40.6502518,
+        "lng": -73.8870665
       },
       "context": [
         "Monday – Thursday, 8 a.m. – 6 p.m.",
@@ -666,8 +707,8 @@
       ]
     },
     {
+      "name": "Jewish Community House of Bensonhurst",
       "address": [
-        "Jewish Community House of Bensonhurst",
         "7802 Bay Parkway – park as close to the corner of 78th St as possible!",
         "Brooklyn, NY 11207"
       ],
@@ -682,14 +723,14 @@
       ]
     },
     {
+      "name": "NYC Health + Hospitals/Coney Island",
       "address": [
-        "NYC Health + Hospitals/Coney Island",
         "2601 Ocean Parkway",
         "Brooklyn, New York 11235"
       ],
       "coordinates": {
-        "lat": 40.5855566,
-        "lng": -73.9648753
+        "lat": 40.5850562,
+        "lng": -73.96546049999999
       },
       "context": [
         "Monday – Saturday, 8 a.m. – 4 p.m.",
@@ -704,8 +745,8 @@
       ]
     },
     {
+      "name": "NYC Health + Hospitals/Gotham Health, Cumberland",
       "address": [
-        "NYC Health + Hospitals/Gotham Health, Cumberland",
         "100 North Portland Avenue",
         "Brooklyn, New York 11205"
       ],
@@ -716,13 +757,15 @@
       "context": [
         "844-NYC-4NYC",
         "COVID-19 Testing and Antibody Testing Offered Here",
-        "Monday – Sunday, 7 a.m. – 7 p.m.",
+        "Monday – Thrusday, Sunday, 7 a.m. – 7 p.m.",
+        "Friday, 7 a.m. – 1 p.m.",
+        "Saturday, 1 p.m. – 5 p.m.",
         "Pre-register for your visit"
       ]
     },
     {
+      "name": "NYC Health + Hospitals/Gotham Health, East New York",
       "address": [
-        "NYC Health + Hospitals/Gotham Health, East New York",
         "2094 Pitkin Avenue",
         "Brooklyn, New York 11207"
       ],
@@ -733,19 +776,21 @@
       "context": [
         "844-NYC-4NYC",
         "COVID-19 Testing and Antibody Testing Offered Here",
-        "Monday – Sunday, 7 a.m. – 7 p.m.",
+        "Monday – Thrusday, Sunday, 7 a.m. – 7 p.m.",
+        "Friday, 7 a.m. – 1 p.m.",
+        "Saturday, 1 p.m. – 5 p.m.",
         "Pre-register for your visit"
       ]
     },
     {
+      "name": "NYC Health + Hospitals/Kings County",
       "address": [
-        "NYC Health + Hospitals/Kings County",
         "T-Building, Room T-110 1st floor (Corner of Clarkson Avenue & New York Avenue)",
         "451 Clarkson Avenue"
       ],
       "coordinates": {
-        "lat": 40.6565443,
-        "lng": -73.9430201
+        "lat": 40.6564542,
+        "lng": -73.94686589999999
       },
       "context": [
         "Brooklyn, New York 11203",
@@ -758,14 +803,14 @@
       ]
     },
     {
+      "name": "NYC Health + Hospitals/Woodhull",
       "address": [
-        "NYC Health + Hospitals/Woodhull",
         "760 Broadway",
         "Brooklyn, New York 11206"
       ],
       "coordinates": {
-        "lat": 40.6994152,
-        "lng": -73.9430003
+        "lat": 40.7000538,
+        "lng": -73.9417768
       },
       "context": [
         "718-963-8000",
@@ -775,14 +820,14 @@
       ]
     },
     {
+      "name": "4002 Fort Hamilton",
       "address": [
-        "4002 Fort Hamilton",
         "4002 Fort Hamilton Parkway",
         "Brooklyn, NY 11218"
       ],
       "coordinates": {
-        "lat": 40.6424751,
-        "lng": -73.99195089999999
+        "lat": 40.6427149,
+        "lng": -73.9922313
       },
       "context": [
         "Monday – Sunday, 9 a.m. – 7 p.m.",
@@ -791,14 +836,14 @@
       ]
     },
     {
+      "name": "Bay Ridge",
       "address": [
-        "Bay Ridge",
         "5th Ave 8511 & 8515 5th Avenue",
         "Brooklyn, NY 11209"
       ],
       "coordinates": {
-        "lat": 40.6258713,
-        "lng": -74.02448129999999
+        "lat": 40.6215669,
+        "lng": -74.0259145
       },
       "context": [
         "Monday – Sunday, 9 a.m. – 7 p.m.",
@@ -807,8 +852,8 @@
       ]
     },
     {
+      "name": "Bensonhurst",
       "address": [
-        "Bensonhurst",
         "14th Ave 6315 14th Avenue",
         "Brooklyn, NY 11219"
       ],
@@ -823,31 +868,33 @@
       ]
     },
     {
+      "name": "Midwood Pre-K",
       "address": [
-        "Midwood Pre-K",
         "1223 Coney Island Avenue",
         "Brooklyn, NY 11230"
       ],
       "coordinates": {
-        "lat": 40.6277129,
-        "lng": -73.9655327
+        "lat": 40.627831,
+        "lng": -73.9654302
       },
       "context": [
         "844-NYC-4NYC",
         "Rapid Molecular Testing Available Here",
-        "Monday – Sunday, 7 a.m. – 7 p.m.",
+        "Monday – Thrusday, Sunday, 7 a.m. – 7 p.m.",
+        "Friday, 7 a.m. – 1 p.m.",
+        "Saturday, 1 p.m. – 5 p.m.",
         "Pre-register for your visit"
       ]
     },
     {
+      "name": "Starrett City",
       "address": [
-        "Starrett City",
         "1279 Pennsylvania Ave",
         "Brooklyn, NY 11239"
       ],
       "coordinates": {
-        "lat": 40.6495776,
-        "lng": -73.8831087
+        "lat": 40.6495988,
+        "lng": -73.8831325
       },
       "context": [
         "Monday – Sunday, 9 a.m – 7 p.m.",
@@ -856,14 +903,14 @@
       ]
     },
     {
+      "name": "Bushwick Educational Campus",
       "address": [
-        "Bushwick Educational Campus",
         "400 Irving Avenue,",
         "Brooklyn NY 11237"
       ],
       "coordinates": {
-        "lat": 40.696834,
-        "lng": -73.91170079999999
+        "lat": 40.6967365,
+        "lng": -73.9120081
       },
       "context": [
         "Tuesday – Thursday, 7 a.m. – 7 p.m.",
@@ -874,48 +921,48 @@
       ]
     },
     {
+      "name": "Modell’s (across from Barclays Center)",
       "address": [
-        "Modell’s (across from Barclays Center)",
         "620 Atlantic Avenue",
         "Brooklyn NY 11217"
       ],
       "coordinates": {
-        "lat": 40.6826465,
-        "lng": -73.97541559999999
+        "lat": 40.682658,
+        "lng": -73.9752846
       },
       "context": [
         "Tuesday – Thursday, 11 a.m. – 7 p.m.",
         "Dates: Dec 21 – 23",
-        "PCR Testing Available Here",
+        "Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
     },
     {
+      "name": "Brooklyn Public Library – Central Branch",
       "address": [
-        "Brooklyn Navy Yard",
-        "63 Flushing Ave, building 92,",
-        "Brooklyn, NY 11205"
+        "10 Grand Army Plaza (Testing entrance on Eastern parkway side between Grand Army Plaza and Mount Prospect Park)",
+        "Brooklyn, NY 11238"
       ],
       "coordinates": {
-        "lat": 40.6983378,
-        "lng": -73.9736053
+        "lat": 40.6740248,
+        "lng": -73.9701254
       },
       "context": [
-        "Monday – Sunday, 8:30 a.m. – 4:30 p.m.",
-        "Friday, 8:30 a.m. – 1:30 p.m.",
-        "Dates: Dec 20 – Dec 26",
+        "Monday – Thursday, 11 a.m. – 7 p.m.",
+        "Dates: Dec 22 – 23; Dec 27 – 30",
+        "Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
     },
     {
+      "name": "Ida G. Israel Health Center",
       "address": [
-        "Ida G. Israel Health Center",
         "2925 W 19th St,",
         "Brooklyn, NY 11224"
       ],
       "coordinates": {
-        "lat": 40.5758659,
-        "lng": -73.9855927
+        "lat": 40.5758223,
+        "lng": -73.9854363
       },
       "context": [
         "Monday – Thursday, 8 a.m. – 4 p.m.",
@@ -924,14 +971,14 @@
       ]
     },
     {
+      "name": "Diaspora Community Center",
       "address": [
-        "Diaspora Community Center",
         "921 East New York Ave,",
         "Brooklyn, NY 11203"
       ],
       "coordinates": {
-        "lat": 40.6629682,
-        "lng": -73.9326117
+        "lat": 40.6632148,
+        "lng": -73.93244589999999
       },
       "context": [
         "Wednesday, 9 a.m. – 5 p.m.",
@@ -940,14 +987,14 @@
       ]
     },
     {
+      "name": "Family Services Network of New York (Harm Reduction Program – Broadway)",
       "address": [
-        "Family Services Network of New York (Harm Reduction Program – Broadway)",
         "1751 Broadway,",
         "Brooklyn, NY 11207"
       ],
       "coordinates": {
-        "lat": 40.6840333,
-        "lng": -73.9089482
+        "lat": 40.6829835,
+        "lng": -73.91037759999999
       },
       "context": [
         "Wednesday, 8:30 a.m. – 3:30 p.m.",
@@ -956,14 +1003,14 @@
       ]
     },
     {
+      "name": "Family Services Network of New York Access Center",
       "address": [
-        "Family Services Network of New York Access Center",
         "1721 Pitkin Ave,",
         "Brooklyn, NY 11212"
       ],
       "coordinates": {
-        "lat": 40.66920959999999,
-        "lng": -73.9068951
+        "lat": 40.6699749,
+        "lng": -73.90963980000001
       },
       "context": [
         "Monday – Thursday, 11:30 a.m. – 7:30 p.m.",
@@ -974,14 +1021,14 @@
       ]
     },
     {
+      "name": "Amalgamated Warbasse Houses",
       "address": [
-        "Amalgamated Warbasse Houses",
         "2770 West 5th Street,",
         "Brooklyn, NY 11224"
       ],
       "coordinates": {
-        "lat": 40.5805236,
-        "lng": -73.9712591
+        "lat": 40.5815396,
+        "lng": -73.9718619
       },
       "context": [
         "Monday, 11 a.m. – 7 p.m.",
@@ -991,14 +1038,14 @@
       ]
     },
     {
+      "name": "BCA Sunset Park Senior Center",
       "address": [
-        "BCA Sunset Park Senior Center",
         "5007 7th Avenue,",
         "Brooklyn, NY 11220"
       ],
       "coordinates": {
-        "lat": 40.6421745,
-        "lng": -74.00598649999999
+        "lat": 40.64213549999999,
+        "lng": -74.0059467
       },
       "context": [
         "Wednesday, 9 a.m. – 5 p.m.",
@@ -1007,14 +1054,14 @@
       ]
     },
     {
+      "name": "RiseBoro Community Office (Williamsburg)",
       "address": [
-        "RiseBoro Community Office (Williamsburg)",
         "518 Bushwick Ave,",
         "Brooklyn, NY 11206"
       ],
       "coordinates": {
-        "lat": 40.6993755,
-        "lng": -73.9353996
+        "lat": 40.7001735,
+        "lng": -73.9364535
       },
       "context": [
         "Monday, 9:30 a.m. – 4:30 p.m.",
@@ -1023,14 +1070,14 @@
       ]
     },
     {
+      "name": "RiseBoro Community Office (Brownsville)",
       "address": [
-        "RiseBoro Community Office (Brownsville)",
         "1875 Broadway,",
         "Brooklyn, NY 11207"
       ],
       "coordinates": {
-        "lat": 40.6993755,
-        "lng": -73.9353996
+        "lat": 40.6808272,
+        "lng": -73.90635859999999
       },
       "context": [
         "Monday, 9:30 a.m. – 4:30 p.m.",
@@ -1039,8 +1086,8 @@
       ]
     },
     {
+      "name": "RiseBoro Youth Center",
       "address": [
-        "RiseBoro Youth Center",
         "1474 Gates Ave,",
         "Brooklyn, NY 11237"
       ],
@@ -1055,8 +1102,8 @@
       ]
     },
     {
+      "name": "BCA Bensonhurst Senior Center",
       "address": [
-        "BCA Bensonhurst Senior Center",
         "6809 20th Ave,",
         "Brooklyn, NY 11204"
       ],
@@ -1071,14 +1118,14 @@
       ]
     },
     {
+      "name": "Mt. Pisgah Baptist Church",
       "address": [
-        "Mt. Pisgah Baptist Church",
         "212 Tompkins Ave.,",
         "Brooklyn, NY 11216"
       ],
       "coordinates": {
-        "lat": 40.691646,
-        "lng": -73.94573989999999
+        "lat": 40.6915657,
+        "lng": -73.94594740000001
       },
       "context": [
         "Thursday, 9 a.m. – 5 p.m.",
@@ -1087,14 +1134,14 @@
       ]
     },
     {
+      "name": "HAUP Brooklyn (Haitian Americans United For Progress)",
       "address": [
-        "HAUP Brooklyn (Haitian Americans United For Progress)",
         "1760 Nostrand Avenue,",
         "Brooklyn, NY 11226"
       ],
       "coordinates": {
-        "lat": 40.6428623,
-        "lng": -73.9488738
+        "lat": 40.642871,
+        "lng": -73.94901
       },
       "context": [
         "Wednesday, 10:30 a.m. – 6 p.m.",
@@ -1103,14 +1150,14 @@
       ]
     },
     {
+      "name": "Brooklyn Army Terminal (BAT)",
       "address": [
-        "Brooklyn Army Terminal (BAT)",
         "140 58th Street,",
         "Brooklyn, NY 11220"
       ],
       "coordinates": {
-        "lat": 40.6460627,
-        "lng": -74.0244993
+        "lat": 40.6455001,
+        "lng": -74.0239072
       },
       "context": [
         "Friday, 8:30 a.m. – 1:30 p.m.",
@@ -1120,14 +1167,14 @@
       ]
     },
     {
+      "name": "Quisqueya Playground",
       "address": [
-        "Quisqueya Playground",
         "2405 Amsterdam Ave,",
         "New York, NY 10033"
       ],
       "coordinates": {
-        "lat": 40.8471006,
-        "lng": -73.9313288
+        "lat": 40.847041,
+        "lng": -73.9313437
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -1136,14 +1183,14 @@
       ]
     },
     {
+      "name": "Masaryk Towers",
       "address": [
-        "Masaryk Towers",
         "75 Columbia Street,",
         "New York, NY 10002"
       ],
       "coordinates": {
-        "lat": 40.717163,
-        "lng": -73.9804611
+        "lat": 40.717828,
+        "lng": -73.9801928
       },
       "context": [
         "Monday, Wednesday – Sunday, 8 a.m. – 7 p.m.",
@@ -1152,14 +1199,14 @@
       ]
     },
     {
+      "name": "NYCHA Manhattanville",
       "address": [
-        "NYCHA Manhattanville",
         "Parking lot located at 549 W 126th St,",
         "New York, NY 10027"
       ],
       "coordinates": {
-        "lat": 40.8177009,
-        "lng": -73.9539246
+        "lat": 40.8162173,
+        "lng": -73.95713409999999
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -1168,14 +1215,14 @@
       ]
     },
     {
+      "name": "Times Square Testing Site",
       "address": [
-        "Times Square Testing Site",
         "701 Seventh Avenue (between W 47th and W 48th Street) aka 20 Times Square",
         "New York, NY 10036"
       ],
       "coordinates": {
-        "lat": 40.7579747,
-        "lng": -73.9855426
+        "lat": 40.75930169999999,
+        "lng": -73.98426119999999
       },
       "context": [
         "Monday – Sunday, 9 a.m. – 7 p.m.",
@@ -1184,8 +1231,8 @@
       ]
     },
     {
+      "name": "Gotham Health – Sydenham",
       "address": [
-        "Gotham Health – Sydenham",
         "264 W 118th St",
         "New York NY 10026"
       ],
@@ -1201,14 +1248,14 @@
       ]
     },
     {
+      "name": "The New School",
       "address": [
-        "The New School",
         "Approx. 1 E 13th St (park on 13th St, just east of 5th Ave)",
         "New York, NY 10003"
       ],
       "coordinates": {
-        "lat": 40.7354925,
-        "lng": -73.9971361
+        "lat": 40.7351679,
+        "lng": -73.9935095
       },
       "context": [
         "Monday – Tuesday, 8 a.m. – 6 p.m.",
@@ -1217,14 +1264,14 @@
       ]
     },
     {
+      "name": "RIOC",
       "address": [
-        "RIOC",
         "543 Main St.",
         "Roosevelt Island, NY 10044"
       ],
       "coordinates": {
-        "lat": 40.7629972,
-        "lng": -73.9493952
+        "lat": 40.7618524,
+        "lng": -73.9502953
       },
       "context": [
         "Monday – Friday, 8 a.m. – 6 p.m.",
@@ -1233,14 +1280,74 @@
       ]
     },
     {
+      "name": "Corner of 8th Avenue & 35th/36th Street,",
       "address": [
-        "Times Square Testing Site",
+        "New York NY 10018",
+        "Tuesday – Friday, 11 a.m. – 7 p.m."
+      ],
+      "coordinates": {
+        "lat": 40.752602,
+        "lng": -73.988793
+      },
+      "context": [
+        "Dates: Dec 21 – 24; Dec 28 – 31",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Corner of 42nd St & 8th/9th Avenue,",
+      "address": [
+        "New York NY 10036",
+        "Tuesday – Friday, 11 a.m. – 7 p.m."
+      ],
+      "coordinates": {
+        "lat": 40.7592458,
+        "lng": -73.98629249999999
+      },
+      "context": [
+        "Dates: Dec 21 – 24; Dec 28 – 31",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Corner of 125th & Lexington Ave/Park Ave,",
+      "address": [
+        "New York NY 10035",
+        "Tuesday – Friday, 11 a.m. – 7 p.m."
+      ],
+      "coordinates": {
+        "lat": 40.794065,
+        "lng": -73.9271644
+      },
+      "context": [
+        "Dates: Dec 21 – 24; Dec 28 – 31",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Corner of W 180th & Amsterdam Avenue,",
+      "address": [
+        "New York NY 10033",
+        "Tuesday – Friday, 11 a.m. – 7 p.m."
+      ],
+      "coordinates": {
+        "lat": 40.8248447,
+        "lng": -73.9512956
+      },
+      "context": [
+        "Dates: Dec 21 – 24; Dec 28 – 31",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Times Square Testing Site",
+      "address": [
         "701 Seventh Avenue (between W 47th and W 48th Street) aka 20 Times Square",
         "New York, NY 10036"
       ],
       "coordinates": {
-        "lat": 40.7579747,
-        "lng": -73.9855426
+        "lat": 40.75930169999999,
+        "lng": -73.98426119999999
       },
       "context": [
         "Monday – Sunday, 9 a.m. – 7 p.m.",
@@ -1249,8 +1356,8 @@
       ]
     },
     {
+      "name": "NYC Health + Hospitals/Bellevue",
       "address": [
-        "NYC Health + Hospitals/Bellevue",
         "462 First Avenue",
         "New York, New York 10016"
       ],
@@ -1269,31 +1376,33 @@
       ]
     },
     {
+      "name": "NYC Health + Hospitals/Gotham Health, Gouverneur",
       "address": [
-        "NYC Health + Hospitals/Gotham Health, Gouverneur",
         "227 Madison Street",
         "New York, New York 10002"
       ],
       "coordinates": {
-        "lat": 40.7129914,
-        "lng": -73.98770329999999
+        "lat": 40.7131148,
+        "lng": -73.9877376
       },
       "context": [
         "844-NYC-4NYC",
         "COVID-19 Testing and Antibody Testing Offered Here",
-        "Monday – Sunday, 7 a.m. – 7 p.m.",
+        "Monday – Thrusday, Sunday, 7 a.m. – 7 p.m.",
+        "Friday, 7 a.m. – 1 p.m.",
+        "Saturday, 1 p.m. – 5 p.m.",
         "Pre-register for your visit"
       ]
     },
     {
+      "name": "NYC Health + Hospitals/Harlem",
       "address": [
-        "NYC Health + Hospitals/Harlem",
         "506 Lenox Avenue",
         "New York, New York 10037"
       ],
       "coordinates": {
-        "lat": 40.8143104,
-        "lng": -73.93950869999999
+        "lat": 40.8142287,
+        "lng": -73.9396101
       },
       "context": [
         "212-939-1000",
@@ -1303,14 +1412,14 @@
       ]
     },
     {
+      "name": "NYC Health + Hospitals/Metropolitan",
       "address": [
-        "NYC Health + Hospitals/Metropolitan",
         "1901 First Avenue",
         "New York, New York 10029"
       ],
       "coordinates": {
-        "lat": 40.7848889,
-        "lng": -73.9443993
+        "lat": 40.7852328,
+        "lng": -73.94502899999999
       },
       "context": [
         "212-423-6262",
@@ -1320,8 +1429,8 @@
       ]
     },
     {
+      "name": "Highbridge Park Rec Center",
       "address": [
-        "Highbridge Park Rec Center",
         "2301 Amsterdam Avenue,",
         "New York, NY 10033"
       ],
@@ -1337,14 +1446,14 @@
       ]
     },
     {
+      "name": "Harlem Congregations for Community Improvement, Inc. (Petioni)",
       "address": [
-        "Harlem Congregations for Community Improvement, Inc. (Petioni)",
         "203 West 146th Street,",
         "New York, NY 10039"
       ],
       "coordinates": {
-        "lat": 40.8226479,
-        "lng": -73.9397141
+        "lat": 40.8228966,
+        "lng": -73.9392569
       },
       "context": [
         "Monday, Thursday, 10 a.m. – 6 p.m.",
@@ -1353,14 +1462,14 @@
       ]
     },
     {
+      "name": "Harlem Congregations for Community Improvement, Inc. (Dinkins)",
       "address": [
-        "Harlem Congregations for Community Improvement, Inc. (Dinkins)",
         "263 West 153rd Street, Community Space,",
         "New York, NY 10039"
       ],
       "coordinates": {
-        "lat": 40.82741439999999,
-        "lng": -73.9382041
+        "lat": 40.8275197,
+        "lng": -73.9370878
       },
       "context": [
         "Thursday, 10 a.m. – 6 p.m.",
@@ -1369,8 +1478,8 @@
       ]
     },
     {
+      "name": "AM De La Rosa’s District Office",
       "address": [
-        "AM De La Rosa’s District Office",
         "210 Sherman Ave,",
         "Manhattan, NY 10034"
       ],
@@ -1385,14 +1494,14 @@
       ]
     },
     {
+      "name": "Compton Eye Associates",
       "address": [
-        "Compton Eye Associates",
         "4738 Broadway,",
         "New York, NY 10040"
       ],
       "coordinates": {
-        "lat": 40.8648551,
-        "lng": -73.9281283
+        "lat": 40.86482950000001,
+        "lng": -73.9282252
       },
       "context": [
         "Tuesday, 10:30 a.m. – 5:30 p.m.",
@@ -1401,14 +1510,14 @@
       ]
     },
     {
+      "name": "Telephone Playground",
       "address": [
-        "Telephone Playground",
         "216-98 75th Ave,",
         "Oakland Gardens, NY 11364"
       ],
       "coordinates": {
-        "lat": 40.7387346,
-        "lng": -73.7566284
+        "lat": 40.7389976,
+        "lng": -73.75635439999999
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -1417,14 +1526,14 @@
       ]
     },
     {
+      "name": "Our Lady of Sorrows Church",
       "address": [
-        "Our Lady of Sorrows Church",
         "Corner of 37th Ave & 104th Street (streetside parking directly in front of church),",
         "Queens NY 11368"
       ],
       "coordinates": {
-        "lat": 40.7538604,
-        "lng": -73.8632981
+        "lat": 40.7500477,
+        "lng": -73.881523
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -1433,14 +1542,14 @@
       ]
     },
     {
+      "name": "Phil “Scooter” Rizzuto Park",
       "address": [
-        "Phil “Scooter” Rizzuto Park",
         "95th Ave,",
         "Queens, NY 11419"
       ],
       "coordinates": {
-        "lat": 40.6947111,
-        "lng": -73.8216889
+        "lat": 40.6951551,
+        "lng": -73.8173901
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -1449,14 +1558,14 @@
       ]
     },
     {
+      "name": "Life Camp INC",
       "address": [
-        "Life Camp INC",
         "111-12 Sutphin Blvd,",
         "Jamaica, NY 11435"
       ],
       "coordinates": {
-        "lat": 40.6882411,
-        "lng": -73.7955024
+        "lat": 40.6882749,
+        "lng": -73.795661
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -1465,14 +1574,14 @@
       ]
     },
     {
+      "name": "Park of the Americas",
       "address": [
-        "Park of the Americas",
         "Corner of 104th Street and 41st Street,",
         "Corona, NY 11368"
       ],
       "coordinates": {
-        "lat": 40.7484612,
-        "lng": -73.8619406
+        "lat": 40.749148,
+        "lng": -73.861325
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -1481,14 +1590,14 @@
       ]
     },
     {
+      "name": "The Episcopal Church of St. Alban the Martyr",
       "address": [
-        "The Episcopal Church of St. Alban the Martyr",
         "116-42 Farmers Blvd St.",
         "Albans, NY 11412"
       ],
       "coordinates": {
-        "lat": 40.6926113,
-        "lng": -73.7628577
+        "lat": 40.6926353,
+        "lng": -73.7629087
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -1497,8 +1606,8 @@
       ]
     },
     {
+      "name": "NYCHA Woodside Streetside Parking at",
       "address": [
-        "NYCHA Woodside Streetside Parking at",
         "50-37 Newtown Road,",
         "Queens NY 11377"
       ],
@@ -1513,14 +1622,14 @@
       ]
     },
     {
+      "name": "LaGuardia Airport",
       "address": [
-        "LaGuardia Airport",
         "Terminal B parking lot 1 Central Terminal Dr,",
         "Queens, NY 11371"
       ],
       "coordinates": {
-        "lat": 40.7728753,
-        "lng": -73.87524020000001
+        "lat": 40.7729323,
+        "lng": -73.8753141
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -1529,14 +1638,14 @@
       ]
     },
     {
+      "name": "John F. Kennedy Airport",
       "address": [
-        "John F. Kennedy Airport",
         "Next to Terminal 5 Airtrain Station",
         "Queens, NY 11430"
       ],
       "coordinates": {
-        "lat": 40.6433507,
-        "lng": -73.7889689
+        "lat": 40.6474925,
+        "lng": -73.7799744
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -1545,14 +1654,14 @@
       ]
     },
     {
+      "name": "Beach 39th Vaccine Hub",
       "address": [
-        "Beach 39th Vaccine Hub",
         "42-12 Rockaway Beach Blvd,",
         "Queens, NY 11691"
       ],
       "coordinates": {
-        "lat": 40.5944565,
-        "lng": -73.7716373
+        "lat": 40.5940502,
+        "lng": -73.77423859999999
       },
       "context": [
         "Tuesday – Sunday, 8 a.m. – 6 p.m.",
@@ -1561,8 +1670,8 @@
       ]
     },
     {
+      "name": "ELMCOR",
       "address": [
-        "ELMCOR",
         "98-19 Astoria Blvd,",
         "Queens, NY 11369"
       ],
@@ -1577,14 +1686,14 @@
       ]
     },
     {
+      "name": "El Dorado",
       "address": [
-        "El Dorado",
         "54-55 Myrtle Ave",
         "Queens, NY 11385"
       ],
       "coordinates": {
-        "lat": 40.6999261,
-        "lng": -73.9091114
+        "lat": 40.69993590000001,
+        "lng": -73.9091435
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 6 p.m.",
@@ -1593,14 +1702,14 @@
       ]
     },
     {
+      "name": "Growing Up Green Charter I Elementary School",
       "address": [
-        "Growing Up Green Charter I Elementary School",
         "39-27 28th Street",
         "Queens, NY 11101"
       ],
       "coordinates": {
-        "lat": 40.7531104,
-        "lng": -73.935839
+        "lat": 40.7530549,
+        "lng": -73.93576019999999
       },
       "context": [
         "Monday, 7 a.m. – 5 p.m.",
@@ -1609,8 +1718,8 @@
       ]
     },
     {
+      "name": "Growing Up Green Charter II Elementary School",
       "address": [
-        "Growing Up Green Charter II Elementary School",
         "89-25 161st Street",
         "Queens, NY 11432"
       ],
@@ -1625,8 +1734,8 @@
       ]
     },
     {
+      "name": "Growing Up Green Charter I Middle School",
       "address": [
-        "Growing Up Green Charter I Middle School",
         "36-49 11th Street",
         "Queens, NY 11101"
       ],
@@ -1641,14 +1750,14 @@
       ]
     },
     {
+      "name": "Growing Up Green Charter II Middle School",
       "address": [
-        "Growing Up Green Charter II Middle School",
         "84-35 152nd Street",
         "Queens, NY 11432"
       ],
       "coordinates": {
-        "lat": 40.7128941,
-        "lng": -73.8072924
+        "lat": 40.7131285,
+        "lng": -73.80744349999999
       },
       "context": [
         "Monday, 7 a.m. – 5 p.m.",
@@ -1657,14 +1766,14 @@
       ]
     },
     {
+      "name": "Hollis Ave Congregational Church",
       "address": [
-        "Hollis Ave Congregational Church",
         "Parking Lot next to 210-28 Hollis Ave",
         "Queens Village, NY 11429"
       ],
       "coordinates": {
-        "lat": 40.7087729,
-        "lng": -73.74630420000001
+        "lat": 40.7089111,
+        "lng": -73.7465331
       },
       "context": [
         "Tuesday, 8 a.m. – 7 p.m.",
@@ -1673,14 +1782,14 @@
       ]
     },
     {
+      "name": "Sts. Joachim & Anne Parish",
       "address": [
-        "Sts. Joachim & Anne Parish",
         "Robard Ln & Hollis Ave",
         "Queens Village, NY 11429"
       ],
       "coordinates": {
-        "lat": 40.7115683,
-        "lng": -73.73905839999999
+        "lat": 40.7103092,
+        "lng": -73.7396045
       },
       "context": [
         "Wednesday, 9 a.m. – 7 p.m.",
@@ -1689,14 +1798,14 @@
       ]
     },
     {
+      "name": "Sts. Joachim & Anne Parish",
       "address": [
-        "Sts. Joachim & Anne Parish",
         "Robard Ln & Hollis Ave",
         "Queens Village, NY 11429"
       ],
       "coordinates": {
-        "lat": 40.7115683,
-        "lng": -73.73905839999999
+        "lat": 40.7103092,
+        "lng": -73.7396045
       },
       "context": [
         "Wednesday, 9 a.m. – 7 p.m.",
@@ -1705,14 +1814,14 @@
       ]
     },
     {
+      "name": "100 Suits",
       "address": [
-        "100 Suits",
         "227-12A Merrick Blvd",
         "Queens Village, NY 11413"
       ],
       "coordinates": {
-        "lat": 40.7264879,
-        "lng": -74.00797539999999
+        "lat": 40.6766857,
+        "lng": -73.74267069999999
       },
       "context": [
         "Friday – Sunday, 8 a.m. – 7 p.m.",
@@ -1721,14 +1830,14 @@
       ]
     },
     {
+      "name": "First Church of God in Christ",
       "address": [
-        "First Church of God in Christ",
         "187-10 Baisley Blvd,",
         "Queens, NY 11412"
       ],
       "coordinates": {
-        "lat": 40.6903377,
-        "lng": -73.7629554
+        "lat": 40.6901644,
+        "lng": -73.7629087
       },
       "context": [
         "Wednesday, 8 a.m. – 6 p.m.",
@@ -1737,48 +1846,115 @@
       ]
     },
     {
+      "name": "Corner of Archer Av/Jamaica Av & Sutphin Blvd,",
       "address": [
-        "NYC Health + Hospitals/Elmhurst",
+        "Queens NY 11435",
+        "Tuesday – Friday, 11 a.m. – 7 p.m."
+      ],
+      "coordinates": {
+        "lat": 40.7031635,
+        "lng": -73.8095574
+      },
+      "context": [
+        "Dates: Dec 21 – 24; Dec 28 – 31",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "CDC Mobile Testing",
+      "address": [
+        "Travers Park",
+        "76-9 34th St."
+      ],
+      "coordinates": {
+        "lat": 40.7539534,
+        "lng": -73.88936199999999
+      },
+      "context": [
+        "Queens, NY 11372",
+        "Wednesday – Thursday, 9 a.m. – 5 p.m.",
+        "Dates: Dec 22 – 23",
+        "PCR Testing Available Here"
+      ]
+    },
+    {
+      "name": "CDC Mobile Testing",
+      "address": [
+        "Queens Valley Playground",
+        "Corner of 137 Street & 77 Ave."
+      ],
+      "coordinates": {
+        "lat": 40.721806,
+        "lng": -73.8238026
+      },
+      "context": [
+        "Flushing NY 11367",
+        "Thursday, 9 a.m. – 5 p.m.",
+        "Dates: Dec 23",
+        "PCR Testing Available Here"
+      ]
+    },
+    {
+      "name": "CDC Mobile Testing",
+      "address": [
+        "Helen Marshall Playground",
+        "100 St & 24th Ave."
+      ],
+      "coordinates": {
+        "lat": 40.7657488,
+        "lng": -73.8707687
+      },
+      "context": [
+        "East Elmhurst, NY 11369",
+        "Thursday, 9 a.m. – 5 p.m.",
+        "Dates: Dec 23",
+        "PCR Testing Available Here"
+      ]
+    },
+    {
+      "name": "NYC Health + Hospitals/Elmhurst",
+      "address": [
         "77-04 41st Avenue",
         "Elmhurst, New York 11373"
       ],
       "coordinates": {
-        "lat": 40.7455757,
-        "lng": -73.8866528
+        "lat": 40.74553179999999,
+        "lng": -73.8882282
       },
       "context": [
+        "Monday – Saturday, 8 a.m. – 4:00 p.m.",
         "718-334-4000",
         "COVID-19 Testing and Antibody Testing Offered Here",
-        "Monday – Saturday, 8 a.m. – 4:00 p.m.",
+        "Appointments are REQUIRED.  NO walk-ins at this time.",
         "Pre-register for your visit"
       ]
     },
     {
+      "name": "NYC Health + Hospitals/Queens",
       "address": [
-        "NYC Health + Hospitals/Queens",
         "82-68 164th Street",
         "Jamaica, New York 11432"
       ],
       "coordinates": {
-        "lat": 40.717309,
-        "lng": -73.80440469999999
+        "lat": 40.7186426,
+        "lng": -73.8041807
       },
       "context": [
+        "Monday – Saturday, 7 a.m. – 7 p.m.",
         "718-883-3000",
         "COVID-19 Testing and Antibody Testing Offered Here",
-        "Monday – Saturday, 7 a.m. – 7 p.m.",
         "Pre-register for your visit"
       ]
     },
     {
+      "name": "Sorrentino Rec Center",
       "address": [
-        "Sorrentino Rec Center",
         "18-48 Cornaga Avenue",
         "Queens, NY 11691"
       ],
       "coordinates": {
-        "lat": 40.6025037,
-        "lng": -73.7513574
+        "lat": 40.60248929999999,
+        "lng": -73.7513252
       },
       "context": [
         "Monday – Sunday, 9 a.m. – 7 p.m.",
@@ -1787,14 +1963,14 @@
       ]
     },
     {
+      "name": "455 Jefferson Street",
       "address": [
-        "455 Jefferson Street",
         "Corner of Flushing and Cypress",
         "Queens, NY 11237"
       ],
       "coordinates": {
-        "lat": 40.7070754,
-        "lng": -73.9238689
+        "lat": 40.7094051,
+        "lng": -73.9219044
       },
       "context": [
         "Monday – Thursday, 12 p.m. – 8 p.m.",
@@ -1804,16 +1980,17 @@
       ]
     },
     {
+      "name": "Elmhurst/Newton High School",
       "address": [
-        "Elmhurst/Newton High School",
         "48-01 90th Street,",
-        "Queens, NY 11373"
+        "(Testing is at 90-20 56th Avenue)"
       ],
       "coordinates": {
-        "lat": 40.7411032,
-        "lng": -73.87396629999999
+        "lat": 40.7408398,
+        "lng": -73.8740093
       },
       "context": [
+        "Queens, NY 11373",
         "Tuesday – Thursday, 7 a.m. – 7 p.m.",
         "Friday, 7 a.m. – 4 p.m.",
         "Dates: Dec 21 – 24",
@@ -1822,14 +1999,14 @@
       ]
     },
     {
+      "name": "Greater Allen Cathedral of NY",
       "address": [
-        "Greater Allen Cathedral of NY",
         "110-31 Merrick Blvd,",
         "Queens, NY 11433"
       ],
       "coordinates": {
-        "lat": 40.6948948,
-        "lng": -73.7814918
+        "lat": 40.6948239,
+        "lng": -73.7814381
       },
       "context": [
         "Monday – Wednesday, 9 a.m. – 5 p.m.",
@@ -1840,29 +2017,29 @@
       ]
     },
     {
+      "name": "Queens Museum New York City Building,",
       "address": [
-        "Queens Museum New York City Building,",
         "Corona, NY 11368",
-        "Wednesday, Sunday 9 a.m. – 5 p.m."
+        "Wednesday 9 a.m. – 5 p.m."
       ],
       "coordinates": {
-        "lat": 40.745914,
-        "lng": -73.8467247
+        "lat": 40.7449859,
+        "lng": -73.8642613
       },
       "context": [
-        "Dates: Dec 22, 26",
+        "Dates: Dec 22",
         "4 years old and above"
       ]
     },
     {
+      "name": "Community Church of Christ Events",
       "address": [
-        "Community Church of Christ Events",
         "167-04 108th Avenue,",
         "Queens, NY 11433"
       ],
       "coordinates": {
-        "lat": 40.6979038,
-        "lng": -73.7875195
+        "lat": 40.6979705,
+        "lng": -73.7875753
       },
       "context": [
         "Tuesday – Wednesday, 9:30 a.m. – 4:30 p.m.",
@@ -1872,14 +2049,14 @@
       ]
     },
     {
+      "name": "Promise Church",
       "address": [
-        "Promise Church",
         "130-30 31st Ave,",
         "Queens, NY 11354"
       ],
       "coordinates": {
-        "lat": 40.7695447,
-        "lng": -73.8387584
+        "lat": 40.7698322,
+        "lng": -73.8390617
       },
       "context": [
         "Sunday, 9:30 a.m. – 5:30 p.m.",
@@ -1888,14 +2065,14 @@
       ]
     },
     {
+      "name": "Youth Referral & Placement Unit (YRPU)",
       "address": [
-        "Youth Referral & Placement Unit (YRPU)",
         "141-03 Lakewood Ave,",
         "Queens, NY 11435"
       ],
       "coordinates": {
-        "lat": 40.689209,
-        "lng": -73.80243399999999
+        "lat": 40.689211,
+        "lng": -73.8023999
       },
       "context": [
         "Monday, 10 a.m. – 4:30 p.m.",
@@ -1904,8 +2081,8 @@
       ]
     },
     {
+      "name": "New Life United Methodist Church",
       "address": [
-        "New Life United Methodist Church",
         "8840 80th Street,",
         "Queens, NY 11421"
       ],
@@ -1922,14 +2099,14 @@
       ]
     },
     {
+      "name": "Mt. Moriah AME Church (Linden Blvd Buisness Corridor)",
       "address": [
-        "Mt. Moriah AME Church (Linden Blvd Buisness Corridor)",
         "116-20 Francis Lewis Blvd,",
         "Queens, NY 11411"
       ],
       "coordinates": {
-        "lat": 40.6969444,
-        "lng": -73.74694439999999
+        "lat": 40.6970616,
+        "lng": -73.7470042
       },
       "context": [
         "Sunday, 9 a.m. – 5 p.m.",
@@ -1938,14 +2115,14 @@
       ]
     },
     {
+      "name": "Queens College Student Union",
       "address": [
-        "Queens College Student Union",
         "65-30 Kissena Blvd.,",
         "Queens, NY 11367"
       ],
       "coordinates": {
-        "lat": 40.7342647,
-        "lng": -73.8160195
+        "lat": 40.7369717,
+        "lng": -73.8151735
       },
       "context": [
         "Tuesday – Thursday, 9:30 a.m. – 5:30 p.m.",
@@ -1955,14 +2132,14 @@
       ]
     },
     {
+      "name": "Sunnyside Community Services",
       "address": [
-        "Sunnyside Community Services",
         "43-31 39th Street,",
         "Queens, NY 11104"
       ],
       "coordinates": {
-        "lat": 40.7447776,
-        "lng": -73.9257812
+        "lat": 40.7451662,
+        "lng": -73.92560809999999
       },
       "context": [
         "Tuesday, 1 p.m. – 7:30 p.m.",
@@ -1972,40 +2149,56 @@
       ]
     },
     {
+      "name": "Wolfe’s Pond Park (Parking Lot)",
       "address": [
-        "Wolfe’s Pond Park (Parking Lot)",
         "Wolfe’s Pond Park Chester St,",
         "Staten Island, NY 10312"
       ],
       "coordinates": {
-        "lat": 40.51755929999999,
-        "lng": -74.1900464
+        "lat": 40.519141,
+        "lng": -74.1902206
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
-        "Dates: Dec 20 – Dec 26",
+        "Dates: Dec 20 – 26",
         "4 years old and above"
       ]
     },
     {
+      "name": "NYPL – New Dorp Library",
       "address": [
-        "Greenbelt Recreation Center",
-        "Upper Parking Lot (Adjacent to Test Site) – 501 Brielle Avenue",
-        "Staten Island, NY 10314"
+        "309 New Dorp Ln,",
+        "Staten Island, NY 10306"
       ],
       "coordinates": {
-        "lat": 40.5918312,
-        "lng": -74.13919899999999
+        "lat": 40.5718907,
+        "lng": -74.111975
       },
       "context": [
-        "Monday – Sunday, 8 a.m. – 6 p.m.",
-        "Dates: Dec 20 – Dec 26",
+        "Wednesday, 8 a.m. – 7 p.m.",
+        "Dates: Dec 22",
         "4 years old and above"
       ]
     },
     {
+      "name": "Gerard P. Dugan Playground",
       "address": [
-        "NYC Health + Hospitals/Gotham Health, Vanderbilt",
+        "280 Mill Rd,",
+        "Staten Island, NY 10306"
+      ],
+      "coordinates": {
+        "lat": 40.5613939,
+        "lng": -74.11059879999999
+      },
+      "context": [
+        "Thursday – Sunday, 8 a.m. – 7 p.m.",
+        "Dates: Dec 23 – 26",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "NYC Health + Hospitals/Gotham Health, Vanderbilt",
+      "address": [
         "165 Vanderbilt Avenue",
         "Staten Island, New York 10304"
       ],
@@ -2016,13 +2209,15 @@
       "context": [
         "844-NYC-4NYC",
         "COVID-19 Testing and Antibody Testing Offered Here",
-        "Monday – Sunday, 7 a.m. – 7 p.m.",
+        "Monday – Thrusday, Sunday, 7 a.m. – 7 p.m.",
+        "Friday, 7 a.m. – 1 p.m.",
+        "Saturday, 1 p.m. – 5 p.m.",
         "Pre-register for your visit"
       ]
     },
     {
+      "name": "Former St John Villa HS",
       "address": [
-        "Former St John Villa HS",
         "57 Cleveland Place",
         "Staten Island, NY 10305"
       ],
@@ -2036,14 +2231,14 @@
       ]
     },
     {
+      "name": "Greenbelt Recreation Center",
       "address": [
-        "Greenbelt Recreation Center",
         "501 Brielle Avenue",
         "Staten Island, NY 10314"
       ],
       "coordinates": {
         "lat": 40.5918312,
-        "lng": -74.13919899999999
+        "lng": -74.1391991
       },
       "context": [
         "Monday – Sunday, 9 a.m. – 7 p.m.",
@@ -2052,14 +2247,14 @@
       ]
     },
     {
+      "name": "Staten Island Ferry",
       "address": [
-        "Staten Island Ferry",
         "Terminal 1 Bay St, Retail Space 103 (Level 1 of the Ferry Terminal, next to the North Shore Esplanade exit)",
         "Staten Island, NY 10301"
       ],
       "coordinates": {
-        "lat": 40.6440515,
-        "lng": -74.0725126
+        "lat": 40.5819188,
+        "lng": -74.0804776
       },
       "context": [
         "Monday – Sunday, 9 a.m. – 7 p.m.",
@@ -2068,14 +2263,14 @@
       ]
     },
     {
+      "name": "NYC Health + Hospitals/SeaView",
       "address": [
-        "NYC Health + Hospitals/SeaView",
         "460 Brielle Ave,",
         "Staten Island, NY 10314"
       ],
       "coordinates": {
-        "lat": 40.591681,
-        "lng": -74.13255970000002
+        "lat": 40.5912064,
+        "lng": -74.1324714
       },
       "context": [
         "Monday – Thursday, 8:30 p.m. – 4:30 p.m.",
@@ -2086,8 +2281,8 @@
       ]
     },
     {
+      "name": "MetroPlus Community Office (Staten Island)",
       "address": [
-        "MetroPlus Community Office (Staten Island)",
         "238 Port Richmond Ave,",
         "Staten Island, NY 10302"
       ],
@@ -2102,14 +2297,14 @@
       ]
     },
     {
+      "name": "Community Health Action of Staten Island (CHASI) Harm Reduction Center",
       "address": [
-        "Community Health Action of Staten Island (CHASI) Harm Reduction Center",
         "166 Port Richmond Ave,",
         "Staten Island, NY 10302"
       ],
       "coordinates": {
-        "lat": 40.637165,
-        "lng": -74.134333
+        "lat": 40.6371739,
+        "lng": -74.1344102
       },
       "context": [
         "Monday, 9 a.m – 5 p.m.",
@@ -2119,14 +2314,14 @@
       ]
     },
     {
+      "name": "Next Step Resources and Recovery Center",
       "address": [
-        "Next Step Resources and Recovery Center",
         "56 Bay Street,",
         "Staten Island, NY 10301"
       ],
       "coordinates": {
-        "lat": 40.6407076,
-        "lng": -74.0759545
+        "lat": 40.6407206,
+        "lng": -74.0760463
       },
       "context": [
         "Tuesday, Thursday, 9:30 a.m – 3:30 p.m.",
@@ -2135,8 +2330,8 @@
       ]
     },
     {
+      "name": "CHASI Food Pantry",
       "address": [
-        "CHASI Food Pantry",
         "2134 Richmond Terrace,",
         "Staten Island, NY 10302"
       ],

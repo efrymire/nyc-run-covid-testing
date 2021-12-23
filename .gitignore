@@ -1,5 +1,6 @@
 .env
 .parcel-cache
 .DS_Store
+testinglines*
 dist/
 node_modules/

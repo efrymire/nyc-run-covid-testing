@@ -24,7 +24,7 @@ async function scrapeData() {
         timestamp: new Date(),
         centers,
       })
-      fs.writeFile("src/centers.json", JSON.stringify(data, null, 2), (err) => {
+      fs.writeFile("data/centers.json", JSON.stringify(data, null, 2), (err) => {
         if (err) {
           console.error(err);
           return;
@@ -46,7 +46,8 @@ function formatLocReturnPromise(el) {
     .replace(/\t/g, '')
     .split(/\n/g);
 
-  const address = location.slice(0, 3)
+  const name = location[0]
+  const address = location.slice(1, 3)
   const trimAndConcatAddress = address
     .reduce((t, v, i) => {
       if (i === 0) return v
@@ -66,6 +67,7 @@ function formatLocReturnPromise(el) {
       let lat = json.results['0'].geometry.location.lat
       let lng = json.results['0'].geometry.location.lng
       return ({
+        name,
         address,
         coordinates: ({ lat, lng }),
         context: location.slice(3),
