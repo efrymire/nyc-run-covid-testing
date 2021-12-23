@@ -16,11 +16,6 @@ body {
   width: 100%;
 }
 
-#info {
-  transition-property: width, height;
-  transition-duration: 400ms;
-}
-
 #arrow {
   transition: transform 400ms;
   transform-origin: center;
