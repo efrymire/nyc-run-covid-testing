@@ -1,5 +1,5 @@
 {
-  "timestamp": "2021-12-22T23:59:56.283Z",
+  "timestamp": "2021-12-23T21:07:54.927Z",
   "centers": [
     {
       "name": "NYCHA Pelham Parkway",
@@ -232,8 +232,8 @@
         "Tuesday – Friday, 11 a.m. – 7 p.m."
       ],
       "coordinates": {
-        "lat": 40.8161361,
-        "lng": -73.9184368
+        "lat": 40.8147803,
+        "lng": -73.90805809999999
       },
       "context": [
         "Dates: Dec 21 – 24; Dec 28 – 31",
@@ -251,12 +251,12 @@
         "lng": -73.9159236
       },
       "context": [
-        "844-NYC-4NYC",
-        "COVID-19 Testing and Antibody Testing Offered Here",
         "Monday – Thrusday, Sunday, 7 a.m. – 7 p.m.",
         "Friday, 7 a.m. – 1 p.m.",
         "Saturday, 1 p.m. – 5 p.m.",
         "Closed at 1:00 PM for Christmas Eve and New Year Eve",
+        "844-NYC-4NYC",
+        "COVID-19 Testing and Antibody Testing Offered Here",
         "Pre-register for your visit"
       ]
     },
@@ -271,10 +271,10 @@
         "lng": -73.8442026
       },
       "context": [
-        "718-918-5000",
-        "COVID-19 Testing and Antibody Testing Offered Here",
         "Monday – Friday, 8:00 a.m. – 4:00 p.m.",
         "Saturday, 8 a.m. – 3:30 p.m.",
+        "718-918-5000",
+        "COVID-19 Testing and Antibody Testing Offered Here",
         "Pre-register for your visit"
       ]
     },
@@ -289,9 +289,9 @@
         "lng": -73.9247762
       },
       "context": [
+        "Monday – Friday, 9 a.m. – 5 p.m.",
         "718-579-5000",
         "COVID-19 Testing and Antibody Testing Offered Here",
-        "Monday – Friday, 9 a.m. – 5 p.m.",
         "Pre-register for your visit"
       ]
     },
@@ -306,11 +306,11 @@
         "lng": -73.9202294
       },
       "context": [
-        "844-NYC-4NYC",
-        "COVID-19 Testing and Antibody Testing Offered Here",
         "Monday – Thrusday, Sunday, 7 a.m. – 7 p.m.",
         "Friday, 7 a.m. – 1 p.m.",
         "Saturday, 1 p.m. – 5 p.m.",
+        "844-NYC-4NYC",
+        "COVID-19 Testing and Antibody Testing Offered Here",
         "Pre-register for your visit"
       ]
     },
@@ -326,9 +326,9 @@
       },
       "context": [
         "Appointments:",
+        "Monday – Saturday, 8:30 a.m. – 4:30 p.m.",
         "844-692-4692 General Information: 718-918-5700",
         "COVID-19 Testing and Antibody Testing Offered Here",
-        "Monday – Saturday, 8:30 a.m. – 4:30 p.m.",
         "Pre-register for your visit​"
       ]
     },
@@ -344,11 +344,10 @@
       },
       "context": [
         "Appointments:",
-        "COVID-19 Testing and Antibody Testing Offered Here",
         "Monday – Thrusday, Sunday, 7 a.m. – 7 p.m.",
         "Friday, 7 a.m. – 1 p.m.",
         "Saturday, 1 p.m. – 5 p.m.",
-        "Pre-register for your visit​"
+        "COVID-19 Testing and Antibody Testing Offered Here"
       ]
     },
     {
@@ -854,7 +853,7 @@
     {
       "name": "Bensonhurst",
       "address": [
-        "14th Ave 6315 14th Avenue",
+        "6315 14th Avenue",
         "Brooklyn, NY 11219"
       ],
       "coordinates": {
@@ -862,7 +861,9 @@
         "lng": -73.9979369
       },
       "context": [
-        "Monday – Sunday, 9 a.m. – 7 p.m.",
+        "Monday – Thursday, Sunday 9 a.m. – 7 p.m.",
+        "Friday, 9 a.m. – 2 p.m.",
+        "Dates: Dec 23 – Jan 2",
         "Rapid Molecular Testing Available Here",
         "Pre-register for your visit"
       ]
@@ -1286,8 +1287,8 @@
         "Tuesday – Friday, 11 a.m. – 7 p.m."
       ],
       "coordinates": {
-        "lat": 40.752602,
-        "lng": -73.988793
+        "lat": 40.751568,
+        "lng": -73.991315
       },
       "context": [
         "Dates: Dec 21 – 24; Dec 28 – 31",
@@ -1424,7 +1425,9 @@
       "context": [
         "212-423-6262",
         "COVID-19 Testing and Antibody Testing Offered Here",
-        "Monday – Saturday, 8 a.m. – 4:00 p.m.",
+        "Monday – Thursday, Sunday 7 a.m. – 7 p.m.",
+        "Friday, 7 a.m. – 2 p.m.",
+        "Dates: Dec 23 – Jan 2",
         "Pre-register for your visit"
       ]
     },
@@ -1628,8 +1631,8 @@
         "Queens, NY 11371"
       ],
       "coordinates": {
-        "lat": 40.7729323,
-        "lng": -73.8753141
+        "lat": 40.7796585,
+        "lng": -73.9054726
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
