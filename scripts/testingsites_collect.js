@@ -48,7 +48,7 @@ function formatLocReturnPromise(el) {
 
   const name = location[0]
   const address = location.slice(1, 3)
-  const trimAndConcatAddress = address
+  const trimAndConcatAddress = [name, ...address]
     .reduce((t, v, i) => {
       if (i === 0) return v
       return t.concat(`+${v}`)

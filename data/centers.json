@@ -1,5 +1,5 @@
 {
-  "timestamp": "2021-12-23T21:07:54.927Z",
+  "timestamp": "2021-12-24T17:55:33.833Z",
   "centers": [
     {
       "name": "NYCHA Pelham Parkway",
@@ -24,8 +24,8 @@
         "Bronx, NY 10457"
       ],
       "coordinates": {
-        "lat": 40.8406852,
-        "lng": -73.8982801
+        "lat": 40.8401124,
+        "lng": -73.8979971
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -40,8 +40,8 @@
         "Bronx, NY 10472"
       ],
       "coordinates": {
-        "lat": 40.8201324,
-        "lng": -73.87248079999999
+        "lat": 40.8171726,
+        "lng": -73.8750973
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -56,8 +56,8 @@
         "Bronx, NY 10468"
       ],
       "coordinates": {
-        "lat": 40.8653474,
-        "lng": -73.8974018
+        "lat": 40.86502369999999,
+        "lng": -73.89777269999999
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -136,8 +136,8 @@
         "Bronx NY 10456"
       ],
       "coordinates": {
-        "lat": 40.8290875,
-        "lng": -73.9033961
+        "lat": 40.8291252,
+        "lng": -73.9031205
       },
       "context": [
         "Wednesday, 12 p.m. – 8 p.m.",
@@ -152,8 +152,8 @@
         "Bronx NY 10466"
       ],
       "coordinates": {
-        "lat": 40.8910364,
-        "lng": -73.8596099
+        "lat": 40.891084,
+        "lng": -73.85949099999999
       },
       "context": [
         "Monday – Thursday, 8 a.m. – 6 p.m.",
@@ -184,8 +184,8 @@
         "Bronx NY 10459"
       ],
       "coordinates": {
-        "lat": 40.8297164,
-        "lng": -73.8914763
+        "lat": 40.8296974,
+        "lng": -73.89150690000001
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 6 p.m.",
@@ -200,8 +200,8 @@
         "Bronx NY 10457"
       ],
       "coordinates": {
-        "lat": 40.8437691,
-        "lng": -73.8903279
+        "lat": 40.8435221,
+        "lng": -73.89006719999999
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 6 p.m.",
@@ -232,8 +232,8 @@
         "Tuesday – Friday, 11 a.m. – 7 p.m."
       ],
       "coordinates": {
-        "lat": 40.8147803,
-        "lng": -73.90805809999999
+        "lat": 40.8114757,
+        "lng": -73.9211735
       },
       "context": [
         "Dates: Dec 21 – 24; Dec 28 – 31",
@@ -247,8 +247,8 @@
         "Bronx, New York 10454"
       ],
       "coordinates": {
-        "lat": 40.8104385,
-        "lng": -73.9159236
+        "lat": 40.8101401,
+        "lng": -73.9157383
       },
       "context": [
         "Monday – Thrusday, Sunday, 7 a.m. – 7 p.m.",
@@ -267,12 +267,13 @@
         "Bronx, New York 10461"
       ],
       "coordinates": {
-        "lat": 40.8550347,
-        "lng": -73.8442026
+        "lat": 40.8557535,
+        "lng": -73.8464133
       },
       "context": [
-        "Monday – Friday, 8:00 a.m. – 4:00 p.m.",
-        "Saturday, 8 a.m. – 3:30 p.m.",
+        "Monday – Thrusday, Sunday, 7 a.m. – 7 p.m.",
+        "Friday, 7 a.m. – 1 p.m.",
+        "We will be CLOSED on Christmas Day and New Year’s Day",
         "718-918-5000",
         "COVID-19 Testing and Antibody Testing Offered Here",
         "Pre-register for your visit"
@@ -285,8 +286,8 @@
         "Bronx, New York 10451"
       ],
       "coordinates": {
-        "lat": 40.8160855,
-        "lng": -73.9247762
+        "lat": 40.817374,
+        "lng": -73.9240962
       },
       "context": [
         "Monday – Friday, 9 a.m. – 5 p.m.",
@@ -321,12 +322,14 @@
         "Bronx, New York 10467"
       ],
       "coordinates": {
-        "lat": 40.8804138,
-        "lng": -73.8810488
+        "lat": 40.8805787,
+        "lng": -73.88108249999999
       },
       "context": [
         "Appointments:",
-        "Monday – Saturday, 8:30 a.m. – 4:30 p.m.",
+        "Monday – Thrusday, Sunday, 7 a.m. – 7 p.m.",
+        "Friday, 7 a.m. – 3 p.m.",
+        "We will be CLOSED on Christmas Day and New Year’s Day",
         "844-692-4692 General Information: 718-918-5700",
         "COVID-19 Testing and Antibody Testing Offered Here",
         "Pre-register for your visit​"
@@ -339,8 +342,8 @@
         "Bronx, New York 10457"
       ],
       "coordinates": {
-        "lat": 40.8477768,
-        "lng": -73.9005135
+        "lat": 40.847961,
+        "lng": -73.90028
       },
       "context": [
         "Appointments:",
@@ -353,17 +356,18 @@
     {
       "name": "Walton Educational School",
       "address": [
-        "2780 Reservoir Ave (Testing Site on 196th and Jerome Ave)",
+        "2780 Reservoir Ave",
         "Bronx, NY 10468"
       ],
       "coordinates": {
-        "lat": 40.8704171,
-        "lng": -73.8969711
+        "lat": 40.8706673,
+        "lng": -73.897646
       },
       "context": [
-        "Tuesday – Thursday, 7:30 a.m. – 7 p.m.",
+        "Sunday – Thursday, 7:30 a.m. – 7 p.m.",
         "Friday, 7:30 a.m. – 4 p.m.",
-        "Dates: Dec 21 – 24",
+        "Closed Saturday",
+        "Dates: Dec 24; Dec 26 – 31",
         "PCR Testing Available Here",
         "4 years old and above"
       ]
@@ -392,8 +396,8 @@
         "Bronx, NY 10471"
       ],
       "coordinates": {
-        "lat": 40.9033612,
-        "lng": -73.9038554
+        "lat": 40.9033739,
+        "lng": -73.903842
       },
       "context": [
         "Thursday, 9:30 a.m. – 4:30 p.m.",
@@ -424,8 +428,8 @@
         "Bronx, NY 10456"
       ],
       "coordinates": {
-        "lat": 40.8290875,
-        "lng": -73.9033961
+        "lat": 40.828712,
+        "lng": -73.90346749999999
       },
       "context": [
         "Tuesday, Thursday, 10:30 a.m. – 5:30 p.m.",
@@ -440,8 +444,8 @@
         "Bronx, NY 10457"
       ],
       "coordinates": {
-        "lat": 40.8420144,
-        "lng": -73.8982913
+        "lat": 40.84188820000001,
+        "lng": -73.8984396
       },
       "context": [
         "Sunday, 10 a.m. – 5p.m.",
@@ -456,8 +460,8 @@
         "Brooklyn, NY 11231"
       ],
       "coordinates": {
-        "lat": 40.6724024,
-        "lng": -74.0050621
+        "lat": 40.6721595,
+        "lng": -74.0072107
       },
       "context": [
         "Monday – Wednesday, Friday – Sunday, 8 a.m. – 7 p.m.",
@@ -472,8 +476,8 @@
         "Brooklyn, NY 11231"
       ],
       "coordinates": {
-        "lat": 40.6767645,
-        "lng": -74.0044432
+        "lat": 40.6767619,
+        "lng": -74.0045296
       },
       "context": [
         "Thursday, 8 a.m. – 7 p.m.",
@@ -488,8 +492,8 @@
         "Brooklyn, NY 11213"
       ],
       "coordinates": {
-        "lat": 40.6487338,
-        "lng": -73.9358905
+        "lat": 40.6742179,
+        "lng": -73.9350389
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -504,8 +508,8 @@
         "Brooklyn, NY 11236"
       ],
       "coordinates": {
-        "lat": 40.64679,
-        "lng": -73.899643
+        "lat": 40.6352122,
+        "lng": -73.9283483
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -520,8 +524,8 @@
         "Brooklyn, NY 11216"
       ],
       "coordinates": {
-        "lat": 40.6802153,
-        "lng": -73.94632829999999
+        "lat": 40.6803995,
+        "lng": -73.9461432
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -536,8 +540,8 @@
         "Brooklyn, NY 11233"
       ],
       "coordinates": {
-        "lat": 40.6688509,
-        "lng": -73.91347309999999
+        "lat": 40.6816524,
+        "lng": -73.9139151
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -552,8 +556,8 @@
         "Brooklyn, NY 11232"
       ],
       "coordinates": {
-        "lat": 40.7561518,
-        "lng": -73.98316369999999
+        "lat": 40.647142,
+        "lng": -74.0046194
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -568,8 +572,8 @@
         "Brooklyn, NY 11201"
       ],
       "coordinates": {
-        "lat": 40.6903836,
-        "lng": -73.98362159999999
+        "lat": 40.6909398,
+        "lng": -73.9830629
       },
       "context": [
         "Saturday, 8 a.m. – 6 p.m.",
@@ -600,8 +604,8 @@
         "Brooklyn, NY 11206"
       ],
       "coordinates": {
-        "lat": 40.7004321,
-        "lng": -73.936026
+        "lat": 40.7002195,
+        "lng": -73.93582339999999
       },
       "context": [
         "Monday, 8 a.m. – 6 p.m.",
@@ -632,8 +636,8 @@
         "Brooklyn, NY 11208"
       ],
       "coordinates": {
-        "lat": 40.6822343,
-        "lng": -73.8776595
+        "lat": 40.682227,
+        "lng": -73.87766100000002
       },
       "context": [
         "Monday – Sunday, 12 p.m. – 8 p.m.",
@@ -664,8 +668,8 @@
         "Brooklyn, NY 11207"
       ],
       "coordinates": {
-        "lat": 40.6661463,
-        "lng": -73.8863315
+        "lat": 40.6660724,
+        "lng": -73.8860973
       },
       "context": [
         "Thursday – Sunday, 8 a.m. – 7 p.m.",
@@ -696,8 +700,8 @@
         "Brooklyn, NY 11207"
       ],
       "coordinates": {
-        "lat": 40.6502518,
-        "lng": -73.8870665
+        "lat": 40.65007689999999,
+        "lng": -73.88696569999999
       },
       "context": [
         "Monday – Thursday, 8 a.m. – 6 p.m.",
@@ -728,18 +732,19 @@
         "Brooklyn, New York 11235"
       ],
       "coordinates": {
-        "lat": 40.5850562,
-        "lng": -73.96546049999999
+        "lat": 40.5855566,
+        "lng": -73.9648753
       },
       "context": [
-        "Monday – Saturday, 8 a.m. – 4 p.m.",
-        "844-NYC-4NYC",
-        "COVID-19 Testing and Antibody Testing Offered Here",
-        "Monday – Friday, 8 a.m. – 4 p.m.",
+        "Monday – Thursday, 8 a.m. – 4 p.m.",
+        "Friday, 8 a.m. – 12 p.m.",
+        "We will be CLOSED on Christmas Day and New Year’s Day",
         "Please schedule an appointment",
         "Limited walk ins availability",
         "No walk-ins after 5 pm Mon – Fri and no walk-ins after 2pm on Saturdays",
         "*Coney Island Hospital does not offer rapid testing.",
+        "844-NYC-4NYC",
+        "COVID-19 Testing and Antibody Testing Offered Here",
         "Pre-register for your visit"
       ]
     },
@@ -754,11 +759,11 @@
         "lng": -73.9764879
       },
       "context": [
-        "844-NYC-4NYC",
-        "COVID-19 Testing and Antibody Testing Offered Here",
         "Monday – Thrusday, Sunday, 7 a.m. – 7 p.m.",
         "Friday, 7 a.m. – 1 p.m.",
         "Saturday, 1 p.m. – 5 p.m.",
+        "844-NYC-4NYC",
+        "COVID-19 Testing and Antibody Testing Offered Here",
         "Pre-register for your visit"
       ]
     },
@@ -773,11 +778,11 @@
         "lng": -73.8952429
       },
       "context": [
-        "844-NYC-4NYC",
-        "COVID-19 Testing and Antibody Testing Offered Here",
         "Monday – Thrusday, Sunday, 7 a.m. – 7 p.m.",
         "Friday, 7 a.m. – 1 p.m.",
         "Saturday, 1 p.m. – 5 p.m.",
+        "844-NYC-4NYC",
+        "COVID-19 Testing and Antibody Testing Offered Here",
         "Pre-register for your visit"
       ]
     },
@@ -788,15 +793,15 @@
         "451 Clarkson Avenue"
       ],
       "coordinates": {
-        "lat": 40.6564542,
-        "lng": -73.94686589999999
+        "lat": 40.6565443,
+        "lng": -73.9430201
       },
       "context": [
         "Brooklyn, New York 11203",
+        "Monday – Thrusday, Sunday, 7 a.m. – 7 p.m.",
+        "Friday : 8 a.m – 3 p.m",
+        "We will be CLOSED on Christmas Day and New Year’s Day",
         "718-245-3131",
-        "Monday – Friday, 8 a.m. – 4:30 p.m.",
-        "Saturday : 8 a.m – 3 p.m",
-        "Sunday: closed",
         "COVID-19 Testing and Antibody Testing Offered Here",
         "Pre-register for your visit"
       ]
@@ -808,13 +813,15 @@
         "Brooklyn, New York 11206"
       ],
       "coordinates": {
-        "lat": 40.7000538,
-        "lng": -73.9417768
+        "lat": 40.6994152,
+        "lng": -73.9430003
       },
       "context": [
+        "Monday – Thrusday, Sunday, 7 a.m. – 7 p.m.",
+        "Friday, 8 a.m. – 1 p.m.",
+        "We will be CLOSED on Christmas Day and New Year’s Day",
         "718-963-8000",
         "COVID-19 Testing and Antibody Testing Offered Here",
-        "Monday – Saturday, 8 a.m. – 5 p.m.",
         "Pre-register for your visit"
       ]
     },
@@ -825,8 +832,8 @@
         "Brooklyn, NY 11218"
       ],
       "coordinates": {
-        "lat": 40.6427149,
-        "lng": -73.9922313
+        "lat": 40.6424751,
+        "lng": -73.99195089999999
       },
       "context": [
         "Monday – Sunday, 9 a.m. – 7 p.m.",
@@ -841,8 +848,8 @@
         "Brooklyn, NY 11209"
       ],
       "coordinates": {
-        "lat": 40.6215669,
-        "lng": -74.0259145
+        "lat": 40.6258713,
+        "lng": -74.02448129999999
       },
       "context": [
         "Monday – Sunday, 9 a.m. – 7 p.m.",
@@ -875,15 +882,15 @@
         "Brooklyn, NY 11230"
       ],
       "coordinates": {
-        "lat": 40.627831,
-        "lng": -73.9654302
+        "lat": 40.6277129,
+        "lng": -73.9655327
       },
       "context": [
-        "844-NYC-4NYC",
-        "Rapid Molecular Testing Available Here",
         "Monday – Thrusday, Sunday, 7 a.m. – 7 p.m.",
         "Friday, 7 a.m. – 1 p.m.",
         "Saturday, 1 p.m. – 5 p.m.",
+        "844-NYC-4NYC",
+        "Rapid Molecular Testing Available Here",
         "Pre-register for your visit"
       ]
     },
@@ -910,13 +917,14 @@
         "Brooklyn NY 11237"
       ],
       "coordinates": {
-        "lat": 40.6967365,
-        "lng": -73.9120081
+        "lat": 40.696834,
+        "lng": -73.91170079999999
       },
       "context": [
-        "Tuesday – Thursday, 7 a.m. – 7 p.m.",
+        "Sunday – Thursday, 7 a.m. – 7 p.m.",
         "Friday, 7 a.m. – 4 p.m.",
-        "Dates: Dec 21 – 24",
+        "Closed Saturday",
+        "Dates: Dec 24; Dec 26 – 31",
         "PCR Testing Available Here",
         "4 years old and above"
       ]
@@ -928,8 +936,8 @@
         "Brooklyn NY 11217"
       ],
       "coordinates": {
-        "lat": 40.682658,
-        "lng": -73.9752846
+        "lat": 40.6826465,
+        "lng": -73.97541559999999
       },
       "context": [
         "Tuesday – Thursday, 11 a.m. – 7 p.m.",
@@ -945,8 +953,8 @@
         "Brooklyn, NY 11238"
       ],
       "coordinates": {
-        "lat": 40.6740248,
-        "lng": -73.9701254
+        "lat": 40.67251110000001,
+        "lng": -73.9682
       },
       "context": [
         "Monday – Thursday, 11 a.m. – 7 p.m.",
@@ -962,8 +970,8 @@
         "Brooklyn, NY 11224"
       ],
       "coordinates": {
-        "lat": 40.5758223,
-        "lng": -73.9854363
+        "lat": 40.5758659,
+        "lng": -73.9855927
       },
       "context": [
         "Monday – Thursday, 8 a.m. – 4 p.m.",
@@ -978,8 +986,8 @@
         "Brooklyn, NY 11203"
       ],
       "coordinates": {
-        "lat": 40.6632148,
-        "lng": -73.93244589999999
+        "lat": 40.6629682,
+        "lng": -73.9326117
       },
       "context": [
         "Wednesday, 9 a.m. – 5 p.m.",
@@ -994,8 +1002,8 @@
         "Brooklyn, NY 11207"
       ],
       "coordinates": {
-        "lat": 40.6829835,
-        "lng": -73.91037759999999
+        "lat": 40.6840333,
+        "lng": -73.9089482
       },
       "context": [
         "Wednesday, 8:30 a.m. – 3:30 p.m.",
@@ -1010,8 +1018,8 @@
         "Brooklyn, NY 11212"
       ],
       "coordinates": {
-        "lat": 40.6699749,
-        "lng": -73.90963980000001
+        "lat": 40.66920959999999,
+        "lng": -73.9068951
       },
       "context": [
         "Monday – Thursday, 11:30 a.m. – 7:30 p.m.",
@@ -1028,8 +1036,8 @@
         "Brooklyn, NY 11224"
       ],
       "coordinates": {
-        "lat": 40.5815396,
-        "lng": -73.9718619
+        "lat": 40.5805236,
+        "lng": -73.9712591
       },
       "context": [
         "Monday, 11 a.m. – 7 p.m.",
@@ -1045,8 +1053,8 @@
         "Brooklyn, NY 11220"
       ],
       "coordinates": {
-        "lat": 40.64213549999999,
-        "lng": -74.0059467
+        "lat": 40.6421745,
+        "lng": -74.00598649999999
       },
       "context": [
         "Wednesday, 9 a.m. – 5 p.m.",
@@ -1061,8 +1069,8 @@
         "Brooklyn, NY 11206"
       ],
       "coordinates": {
-        "lat": 40.7001735,
-        "lng": -73.9364535
+        "lat": 40.6993755,
+        "lng": -73.9353996
       },
       "context": [
         "Monday, 9:30 a.m. – 4:30 p.m.",
@@ -1077,8 +1085,8 @@
         "Brooklyn, NY 11207"
       ],
       "coordinates": {
-        "lat": 40.6808272,
-        "lng": -73.90635859999999
+        "lat": 40.6993755,
+        "lng": -73.9353996
       },
       "context": [
         "Monday, 9:30 a.m. – 4:30 p.m.",
@@ -1125,8 +1133,8 @@
         "Brooklyn, NY 11216"
       ],
       "coordinates": {
-        "lat": 40.6915657,
-        "lng": -73.94594740000001
+        "lat": 40.691646,
+        "lng": -73.94573989999999
       },
       "context": [
         "Thursday, 9 a.m. – 5 p.m.",
@@ -1141,8 +1149,8 @@
         "Brooklyn, NY 11226"
       ],
       "coordinates": {
-        "lat": 40.642871,
-        "lng": -73.94901
+        "lat": 40.6428623,
+        "lng": -73.9488738
       },
       "context": [
         "Wednesday, 10:30 a.m. – 6 p.m.",
@@ -1157,8 +1165,8 @@
         "Brooklyn, NY 11220"
       ],
       "coordinates": {
-        "lat": 40.6455001,
-        "lng": -74.0239072
+        "lat": 40.6460627,
+        "lng": -74.0244993
       },
       "context": [
         "Friday, 8:30 a.m. – 1:30 p.m.",
@@ -1174,8 +1182,8 @@
         "New York, NY 10033"
       ],
       "coordinates": {
-        "lat": 40.847041,
-        "lng": -73.9313437
+        "lat": 40.8471006,
+        "lng": -73.9313288
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -1190,8 +1198,8 @@
         "New York, NY 10002"
       ],
       "coordinates": {
-        "lat": 40.717828,
-        "lng": -73.9801928
+        "lat": 40.717163,
+        "lng": -73.9804611
       },
       "context": [
         "Monday, Wednesday – Sunday, 8 a.m. – 7 p.m.",
@@ -1206,8 +1214,8 @@
         "New York, NY 10027"
       ],
       "coordinates": {
-        "lat": 40.8162173,
-        "lng": -73.95713409999999
+        "lat": 40.8177009,
+        "lng": -73.9539246
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -1222,8 +1230,8 @@
         "New York, NY 10036"
       ],
       "coordinates": {
-        "lat": 40.75930169999999,
-        "lng": -73.98426119999999
+        "lat": 40.7579747,
+        "lng": -73.9855426
       },
       "context": [
         "Monday – Sunday, 9 a.m. – 7 p.m.",
@@ -1255,8 +1263,8 @@
         "New York, NY 10003"
       ],
       "coordinates": {
-        "lat": 40.7351679,
-        "lng": -73.9935095
+        "lat": 40.7354925,
+        "lng": -73.9971361
       },
       "context": [
         "Monday – Tuesday, 8 a.m. – 6 p.m.",
@@ -1271,8 +1279,8 @@
         "Roosevelt Island, NY 10044"
       ],
       "coordinates": {
-        "lat": 40.7618524,
-        "lng": -73.9502953
+        "lat": 40.7629972,
+        "lng": -73.9493952
       },
       "context": [
         "Monday – Friday, 8 a.m. – 6 p.m.",
@@ -1287,8 +1295,8 @@
         "Tuesday – Friday, 11 a.m. – 7 p.m."
       ],
       "coordinates": {
-        "lat": 40.751568,
-        "lng": -73.991315
+        "lat": 40.7507848,
+        "lng": -73.9944651
       },
       "context": [
         "Dates: Dec 21 – 24; Dec 28 – 31",
@@ -1302,8 +1310,8 @@
         "Tuesday – Friday, 11 a.m. – 7 p.m."
       ],
       "coordinates": {
-        "lat": 40.7592458,
-        "lng": -73.98629249999999
+        "lat": 40.7578775,
+        "lng": -73.99132759999999
       },
       "context": [
         "Dates: Dec 21 – 24; Dec 28 – 31",
@@ -1317,8 +1325,8 @@
         "Tuesday – Friday, 11 a.m. – 7 p.m."
       ],
       "coordinates": {
-        "lat": 40.794065,
-        "lng": -73.9271644
+        "lat": 40.8043863,
+        "lng": -73.9374292
       },
       "context": [
         "Dates: Dec 21 – 24; Dec 28 – 31",
@@ -1332,8 +1340,8 @@
         "Tuesday – Friday, 11 a.m. – 7 p.m."
       ],
       "coordinates": {
-        "lat": 40.8248447,
-        "lng": -73.9512956
+        "lat": 40.8493395,
+        "lng": -73.9359461
       },
       "context": [
         "Dates: Dec 21 – 24; Dec 28 – 31",
@@ -1347,8 +1355,8 @@
         "New York, NY 10036"
       ],
       "coordinates": {
-        "lat": 40.75930169999999,
-        "lng": -73.98426119999999
+        "lat": 40.7579747,
+        "lng": -73.9855426
       },
       "context": [
         "Monday – Sunday, 9 a.m. – 7 p.m.",
@@ -1369,10 +1377,10 @@
       "context": [
         "212-562-5555",
         "COVID-19 Testing and Antibody Testing Offered Here",
-        "Monday – Thursday, Walk Ins: 7:30 a.m. – 3:30 p.m.",
-        "Sunday, 9 a.m. – 1 p.m.",
+        "Monday – Thursday, Sunday, Walk Ins: 7 a.m. – 7 p.m.",
+        "Friday, 7 a.m. – 12 p.m.",
+        "We will be CLOSED on Christmas Day and New Year’s Day",
         "*Walk-in hours maybe subject to change depending on patient volume.",
-        "Bellevue Testing will be closing at noon on Friday 12/24 and we will be CLOSED on Christmas Day 12/25",
         "Pre-register for your visit"
       ]
     },
@@ -1383,8 +1391,8 @@
         "New York, New York 10002"
       ],
       "coordinates": {
-        "lat": 40.7131148,
-        "lng": -73.9877376
+        "lat": 40.7129914,
+        "lng": -73.98770329999999
       },
       "context": [
         "844-NYC-4NYC",
@@ -1402,8 +1410,8 @@
         "New York, New York 10037"
       ],
       "coordinates": {
-        "lat": 40.8142287,
-        "lng": -73.9396101
+        "lat": 40.8143104,
+        "lng": -73.93950869999999
       },
       "context": [
         "212-939-1000",
@@ -1419,15 +1427,15 @@
         "New York, New York 10029"
       ],
       "coordinates": {
-        "lat": 40.7852328,
-        "lng": -73.94502899999999
+        "lat": 40.7848889,
+        "lng": -73.9443993
       },
       "context": [
-        "212-423-6262",
-        "COVID-19 Testing and Antibody Testing Offered Here",
         "Monday – Thursday, Sunday 7 a.m. – 7 p.m.",
         "Friday, 7 a.m. – 2 p.m.",
-        "Dates: Dec 23 – Jan 2",
+        "We will be CLOSED on Christmas Day and New Year’s Day",
+        "212-423-6262",
+        "COVID-19 Testing and Antibody Testing Offered Here",
         "Pre-register for your visit"
       ]
     },
@@ -1455,8 +1463,8 @@
         "New York, NY 10039"
       ],
       "coordinates": {
-        "lat": 40.8228966,
-        "lng": -73.9392569
+        "lat": 40.8226479,
+        "lng": -73.9397141
       },
       "context": [
         "Monday, Thursday, 10 a.m. – 6 p.m.",
@@ -1471,8 +1479,8 @@
         "New York, NY 10039"
       ],
       "coordinates": {
-        "lat": 40.8275197,
-        "lng": -73.9370878
+        "lat": 40.82741439999999,
+        "lng": -73.9382041
       },
       "context": [
         "Thursday, 10 a.m. – 6 p.m.",
@@ -1503,8 +1511,8 @@
         "New York, NY 10040"
       ],
       "coordinates": {
-        "lat": 40.86482950000001,
-        "lng": -73.9282252
+        "lat": 40.8648551,
+        "lng": -73.9281283
       },
       "context": [
         "Tuesday, 10:30 a.m. – 5:30 p.m.",
@@ -1519,8 +1527,8 @@
         "Oakland Gardens, NY 11364"
       ],
       "coordinates": {
-        "lat": 40.7389976,
-        "lng": -73.75635439999999
+        "lat": 40.7387346,
+        "lng": -73.7566284
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -1535,8 +1543,8 @@
         "Queens NY 11368"
       ],
       "coordinates": {
-        "lat": 40.7500477,
-        "lng": -73.881523
+        "lat": 40.7538604,
+        "lng": -73.8632981
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -1551,8 +1559,8 @@
         "Queens, NY 11419"
       ],
       "coordinates": {
-        "lat": 40.6951551,
-        "lng": -73.8173901
+        "lat": 40.6947111,
+        "lng": -73.8216889
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -1567,8 +1575,8 @@
         "Jamaica, NY 11435"
       ],
       "coordinates": {
-        "lat": 40.6882749,
-        "lng": -73.795661
+        "lat": 40.6882411,
+        "lng": -73.7955024
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -1583,8 +1591,8 @@
         "Corona, NY 11368"
       ],
       "coordinates": {
-        "lat": 40.749148,
-        "lng": -73.861325
+        "lat": 40.7484612,
+        "lng": -73.8619406
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -1599,8 +1607,8 @@
         "Albans, NY 11412"
       ],
       "coordinates": {
-        "lat": 40.6926353,
-        "lng": -73.7629087
+        "lat": 40.6926113,
+        "lng": -73.7628577
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -1631,8 +1639,8 @@
         "Queens, NY 11371"
       ],
       "coordinates": {
-        "lat": 40.7796585,
-        "lng": -73.9054726
+        "lat": 40.7728753,
+        "lng": -73.87524020000001
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -1647,8 +1655,8 @@
         "Queens, NY 11430"
       ],
       "coordinates": {
-        "lat": 40.6474925,
-        "lng": -73.7799744
+        "lat": 40.6433507,
+        "lng": -73.7889689
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -1663,8 +1671,8 @@
         "Queens, NY 11691"
       ],
       "coordinates": {
-        "lat": 40.5940502,
-        "lng": -73.77423859999999
+        "lat": 40.5944565,
+        "lng": -73.7716373
       },
       "context": [
         "Tuesday – Sunday, 8 a.m. – 6 p.m.",
@@ -1695,8 +1703,8 @@
         "Queens, NY 11385"
       ],
       "coordinates": {
-        "lat": 40.69993590000001,
-        "lng": -73.9091435
+        "lat": 40.6999261,
+        "lng": -73.9091114
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 6 p.m.",
@@ -1711,8 +1719,8 @@
         "Queens, NY 11101"
       ],
       "coordinates": {
-        "lat": 40.7530549,
-        "lng": -73.93576019999999
+        "lat": 40.7531104,
+        "lng": -73.935839
       },
       "context": [
         "Monday, 7 a.m. – 5 p.m.",
@@ -1759,8 +1767,8 @@
         "Queens, NY 11432"
       ],
       "coordinates": {
-        "lat": 40.7131285,
-        "lng": -73.80744349999999
+        "lat": 40.7128941,
+        "lng": -73.8072924
       },
       "context": [
         "Monday, 7 a.m. – 5 p.m.",
@@ -1775,8 +1783,8 @@
         "Queens Village, NY 11429"
       ],
       "coordinates": {
-        "lat": 40.7089111,
-        "lng": -73.7465331
+        "lat": 40.7087729,
+        "lng": -73.74630420000001
       },
       "context": [
         "Tuesday, 8 a.m. – 7 p.m.",
@@ -1791,8 +1799,8 @@
         "Queens Village, NY 11429"
       ],
       "coordinates": {
-        "lat": 40.7103092,
-        "lng": -73.7396045
+        "lat": 40.7115683,
+        "lng": -73.73905839999999
       },
       "context": [
         "Wednesday, 9 a.m. – 7 p.m.",
@@ -1807,8 +1815,8 @@
         "Queens Village, NY 11429"
       ],
       "coordinates": {
-        "lat": 40.7103092,
-        "lng": -73.7396045
+        "lat": 40.7115683,
+        "lng": -73.73905839999999
       },
       "context": [
         "Wednesday, 9 a.m. – 7 p.m.",
@@ -1823,8 +1831,8 @@
         "Queens Village, NY 11413"
       ],
       "coordinates": {
-        "lat": 40.6766857,
-        "lng": -73.74267069999999
+        "lat": 40.7264879,
+        "lng": -74.00797539999999
       },
       "context": [
         "Friday – Sunday, 8 a.m. – 7 p.m.",
@@ -1839,8 +1847,8 @@
         "Queens, NY 11412"
       ],
       "coordinates": {
-        "lat": 40.6901644,
-        "lng": -73.7629087
+        "lat": 40.6903377,
+        "lng": -73.7629554
       },
       "context": [
         "Wednesday, 8 a.m. – 6 p.m.",
@@ -1855,8 +1863,8 @@
         "Tuesday – Friday, 11 a.m. – 7 p.m."
       ],
       "coordinates": {
-        "lat": 40.7031635,
-        "lng": -73.8095574
+        "lat": 40.6996082,
+        "lng": -73.8085299
       },
       "context": [
         "Dates: Dec 21 – 24; Dec 28 – 31",
@@ -1921,11 +1929,13 @@
         "Elmhurst, New York 11373"
       ],
       "coordinates": {
-        "lat": 40.74553179999999,
-        "lng": -73.8882282
+        "lat": 40.7455757,
+        "lng": -73.8866528
       },
       "context": [
-        "Monday – Saturday, 8 a.m. – 4:00 p.m.",
+        "Monday – Thrusday, 7 a.m. – 7 p.m.",
+        "Friday, Sunday, 8 a.m. – 12 p.m.",
+        "We will be CLOSED on Christmas Day and New Year’s Day",
         "718-334-4000",
         "COVID-19 Testing and Antibody Testing Offered Here",
         "Appointments are REQUIRED.  NO walk-ins at this time.",
@@ -1939,11 +1949,13 @@
         "Jamaica, New York 11432"
       ],
       "coordinates": {
-        "lat": 40.7186426,
-        "lng": -73.8041807
+        "lat": 40.717309,
+        "lng": -73.80440469999999
       },
       "context": [
-        "Monday – Saturday, 7 a.m. – 7 p.m.",
+        "Monday – Thrusday, Sunday, 7 a.m. – 7 p.m.",
+        "Friday, 7 a.m. – 2 p.m.",
+        "We will be CLOSED on Christmas Day and New Year’s Day",
         "718-883-3000",
         "COVID-19 Testing and Antibody Testing Offered Here",
         "Pre-register for your visit"
@@ -1956,8 +1968,8 @@
         "Queens, NY 11691"
       ],
       "coordinates": {
-        "lat": 40.60248929999999,
-        "lng": -73.7513252
+        "lat": 40.6025037,
+        "lng": -73.7513574
       },
       "context": [
         "Monday – Sunday, 9 a.m. – 7 p.m.",
@@ -1972,8 +1984,8 @@
         "Queens, NY 11237"
       ],
       "coordinates": {
-        "lat": 40.7094051,
-        "lng": -73.9219044
+        "lat": 40.7070754,
+        "lng": -73.9238689
       },
       "context": [
         "Monday – Thursday, 12 p.m. – 8 p.m.",
@@ -1986,17 +1998,17 @@
       "name": "Elmhurst/Newton High School",
       "address": [
         "48-01 90th Street,",
-        "(Testing is at 90-20 56th Avenue)"
+        "Queens, NY 11373"
       ],
       "coordinates": {
-        "lat": 40.7408398,
-        "lng": -73.8740093
+        "lat": 40.7411032,
+        "lng": -73.87396629999999
       },
       "context": [
-        "Queens, NY 11373",
-        "Tuesday – Thursday, 7 a.m. – 7 p.m.",
+        "Sunday – Thursday, 7 a.m. – 7 p.m.",
         "Friday, 7 a.m. – 4 p.m.",
-        "Dates: Dec 21 – 24",
+        "Closed Saturday",
+        "Dates: Dec 24; Dec 26 – 31",
         "PCR Testing Available Here",
         "4 years old and above"
       ]
@@ -2008,8 +2020,8 @@
         "Queens, NY 11433"
       ],
       "coordinates": {
-        "lat": 40.6948239,
-        "lng": -73.7814381
+        "lat": 40.6948948,
+        "lng": -73.7814918
       },
       "context": [
         "Monday – Wednesday, 9 a.m. – 5 p.m.",
@@ -2026,8 +2038,8 @@
         "Wednesday 9 a.m. – 5 p.m."
       ],
       "coordinates": {
-        "lat": 40.7449859,
-        "lng": -73.8642613
+        "lat": 40.745914,
+        "lng": -73.8467247
       },
       "context": [
         "Dates: Dec 22",
@@ -2041,8 +2053,8 @@
         "Queens, NY 11433"
       ],
       "coordinates": {
-        "lat": 40.6979705,
-        "lng": -73.7875753
+        "lat": 40.6979038,
+        "lng": -73.7875195
       },
       "context": [
         "Tuesday – Wednesday, 9:30 a.m. – 4:30 p.m.",
@@ -2058,8 +2070,8 @@
         "Queens, NY 11354"
       ],
       "coordinates": {
-        "lat": 40.7698322,
-        "lng": -73.8390617
+        "lat": 40.7695447,
+        "lng": -73.8387584
       },
       "context": [
         "Sunday, 9:30 a.m. – 5:30 p.m.",
@@ -2074,8 +2086,8 @@
         "Queens, NY 11435"
       ],
       "coordinates": {
-        "lat": 40.689211,
-        "lng": -73.8023999
+        "lat": 40.689209,
+        "lng": -73.80243399999999
       },
       "context": [
         "Monday, 10 a.m. – 4:30 p.m.",
@@ -2108,8 +2120,8 @@
         "Queens, NY 11411"
       ],
       "coordinates": {
-        "lat": 40.6970616,
-        "lng": -73.7470042
+        "lat": 40.6969444,
+        "lng": -73.74694439999999
       },
       "context": [
         "Sunday, 9 a.m. – 5 p.m.",
@@ -2124,8 +2136,8 @@
         "Queens, NY 11367"
       ],
       "coordinates": {
-        "lat": 40.7369717,
-        "lng": -73.8151735
+        "lat": 40.7342647,
+        "lng": -73.8160195
       },
       "context": [
         "Tuesday – Thursday, 9:30 a.m. – 5:30 p.m.",
@@ -2141,8 +2153,8 @@
         "Queens, NY 11104"
       ],
       "coordinates": {
-        "lat": 40.7451662,
-        "lng": -73.92560809999999
+        "lat": 40.7447776,
+        "lng": -73.9257812
       },
       "context": [
         "Tuesday, 1 p.m. – 7:30 p.m.",
@@ -2158,8 +2170,8 @@
         "Staten Island, NY 10312"
       ],
       "coordinates": {
-        "lat": 40.519141,
-        "lng": -74.1902206
+        "lat": 40.51755929999999,
+        "lng": -74.1900464
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -2190,8 +2202,8 @@
         "Staten Island, NY 10306"
       ],
       "coordinates": {
-        "lat": 40.5613939,
-        "lng": -74.11059879999999
+        "lat": 40.5613882,
+        "lng": -74.11077379999999
       },
       "context": [
         "Thursday – Sunday, 8 a.m. – 7 p.m.",
@@ -2241,7 +2253,7 @@
       ],
       "coordinates": {
         "lat": 40.5918312,
-        "lng": -74.1391991
+        "lng": -74.13919899999999
       },
       "context": [
         "Monday – Sunday, 9 a.m. – 7 p.m.",
@@ -2256,8 +2268,8 @@
         "Staten Island, NY 10301"
       ],
       "coordinates": {
-        "lat": 40.5819188,
-        "lng": -74.0804776
+        "lat": 40.6440515,
+        "lng": -74.0725126
       },
       "context": [
         "Monday – Sunday, 9 a.m. – 7 p.m.",
@@ -2272,8 +2284,8 @@
         "Staten Island, NY 10314"
       ],
       "coordinates": {
-        "lat": 40.5912064,
-        "lng": -74.1324714
+        "lat": 40.591681,
+        "lng": -74.13255970000002
       },
       "context": [
         "Monday – Thursday, 8:30 p.m. – 4:30 p.m.",
@@ -2306,8 +2318,8 @@
         "Staten Island, NY 10302"
       ],
       "coordinates": {
-        "lat": 40.6371739,
-        "lng": -74.1344102
+        "lat": 40.637165,
+        "lng": -74.134333
       },
       "context": [
         "Monday, 9 a.m – 5 p.m.",
@@ -2323,8 +2335,8 @@
         "Staten Island, NY 10301"
       ],
       "coordinates": {
-        "lat": 40.6407206,
-        "lng": -74.0760463
+        "lat": 40.6407076,
+        "lng": -74.0759545
       },
       "context": [
         "Tuesday, Thursday, 9:30 a.m – 3:30 p.m.",
