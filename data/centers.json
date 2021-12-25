@@ -1,5 +1,5 @@
 {
-  "timestamp": "2021-12-24T17:55:33.833Z",
+  "timestamp": "2021-12-25T17:45:16.612Z",
   "centers": [
     {
       "name": "NYCHA Pelham Parkway",
@@ -168,8 +168,8 @@
         "Bronx NY 10466"
       ],
       "coordinates": {
-        "lat": 40.8880563,
-        "lng": -73.8586368
+        "lat": 40.8876756,
+        "lng": -73.8586301
       },
       "context": [
         "Friday – Sunday, 8 a.m. – 7 p.m.",
@@ -347,9 +347,8 @@
       },
       "context": [
         "Appointments:",
-        "Monday – Thrusday, Sunday, 7 a.m. – 7 p.m.",
+        "Monday – Thursday, 7 a.m. – 7 p.m.",
         "Friday, 7 a.m. – 1 p.m.",
-        "Saturday, 1 p.m. – 5 p.m.",
         "COVID-19 Testing and Antibody Testing Offered Here"
       ]
     },
@@ -901,8 +900,8 @@
         "Brooklyn, NY 11239"
       ],
       "coordinates": {
-        "lat": 40.6495988,
-        "lng": -73.8831325
+        "lat": 40.6496589,
+        "lng": -73.8830396
       },
       "context": [
         "Monday – Sunday, 9 a.m – 7 p.m.",
