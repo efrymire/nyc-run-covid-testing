@@ -1,5 +1,5 @@
 {
-  "timestamp": "2021-12-25T17:45:16.612Z",
+  "timestamp": "2021-12-26T18:19:22.956Z",
   "centers": [
     {
       "name": "NYCHA Pelham Parkway",
@@ -168,8 +168,8 @@
         "Bronx NY 10466"
       ],
       "coordinates": {
-        "lat": 40.8876756,
-        "lng": -73.8586301
+        "lat": 40.8880563,
+        "lng": -73.8586368
       },
       "context": [
         "Friday – Sunday, 8 a.m. – 7 p.m.",
@@ -935,8 +935,8 @@
         "Brooklyn NY 11217"
       ],
       "coordinates": {
-        "lat": 40.6826465,
-        "lng": -73.97541559999999
+        "lat": 40.6836111,
+        "lng": -73.97749999999999
       },
       "context": [
         "Tuesday – Thursday, 11 a.m. – 7 p.m.",
