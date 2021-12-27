@@ -47,7 +47,7 @@ function formatLocReturnPromise(el) {
     .split(/\n/g);
 
   const name = location[0]
-  const address = location.slice(1, 3)
+  const address = location.slice(1, 3).map(d => d.trim())
   const trimAndConcatAddress = [name, ...address]
     .reduce((t, v, i) => {
       if (i === 0) return v
@@ -70,7 +70,7 @@ function formatLocReturnPromise(el) {
         name,
         address,
         coordinates: ({ lat, lng }),
-        context: location.slice(3),
+        context: location.slice(3).map(d => d.trim()),
       })
     });
 }
