@@ -1,5 +1,5 @@
 {
-  "timestamp": "2021-12-27T17:55:29.863Z",
+  "timestamp": "2021-12-28T16:24:09.920Z",
   "centers": [
     {
       "name": "Entrance to Crotona Pool//Adjacent to Bathgate Playground",
@@ -184,12 +184,61 @@
         "Bronx, NY 10466"
       ],
       "coordinates": {
-        "lat": 40.8876756,
-        "lng": -73.8586301
+        "lat": 40.8880563,
+        "lng": -73.8586368
       },
       "context": [
         "Friday – Saturday, 11 a.m. – 6 p.m.",
         "Dates: Dec 29",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Immaculate Conception",
+      "address": [
+        "378 East 151st Street",
+        "Bronx, NY 10455"
+      ],
+      "coordinates": {
+        "lat": 40.8176118,
+        "lng": -73.91789829999999
+      },
+      "context": [
+        "Monday – Sunday, 9 a.m. – 2 p.m.",
+        "Dates: Dec 27 – Jan 2",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "St Anthony of Padua",
+      "address": [
+        "832 E 166th Street",
+        "Bronx, NY 10459"
+      ],
+      "coordinates": {
+        "lat": 40.8256342,
+        "lng": -73.8997215
+      },
+      "context": [
+        "Monday – Sunday, 9 a.m. – 2 p.m.",
+        "Dates: Dec 27 – Jan 2",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "St. Mary’s Playground West",
+      "address": [
+        "519 St Ann’s Ave,",
+        "Bronx, NY 10455"
+      ],
+      "coordinates": {
+        "lat": 40.8129194,
+        "lng": -73.913386
+      },
+      "context": [
+        "Tuesday – Thursday, 9 a.m. – 6 p.m.",
+        "Friday, 9 a.m. – 2 p.m.",
+        "Dates: Dec 28 – 31",
         "4 years old and above"
       ]
     },
@@ -383,8 +432,8 @@
         "Bronx, NY 10456"
       ],
       "coordinates": {
-        "lat": 40.828712,
-        "lng": -73.90346749999999
+        "lat": 40.829074,
+        "lng": -73.9034039
       },
       "context": [
         "Tuesday – Thursday, 10:30 a.m. – 5:30 p.m.",
@@ -665,6 +714,155 @@
       ]
     },
     {
+      "name": "Sephardic Community Center",
+      "address": [
+        "1901 Ocean Pkwy,",
+        "Brooklyn, NY 11223"
+      ],
+      "coordinates": {
+        "lat": 40.6024018,
+        "lng": -73.9657278
+      },
+      "context": [
+        "Tuesday – Thursday, 8:30 a.m. – 5:30 p.m.",
+        "Dates: Dec 28 – 30",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Blessed Sacrament",
+      "address": [
+        "198 Euclid Ave,",
+        "Brooklyn, NY 11208"
+      ],
+      "coordinates": {
+        "lat": 40.6837322,
+        "lng": -73.87475529999999
+      },
+      "context": [
+        "Monday – Sunday, 9 a.m. – 2 p.m.",
+        "Dates: Dec 27 – Jan 2",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "376 Bedford Ave",
+      "address": [
+        "376 Bedford Ave,",
+        "Brooklyn, NY 11249"
+      ],
+      "coordinates": {
+        "lat": 40.7115139,
+        "lng": -73.9633841
+      },
+      "context": [
+        "Monday – Thursday, 10 a.m. – 7 p.m.",
+        "Dates: Dec 27 – 30",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "10 Montieth Street",
+      "address": [
+        "10 Montieth Street,",
+        "Brooklyn, NY 11206"
+      ],
+      "coordinates": {
+        "lat": 40.7012005,
+        "lng": -73.9357079
+      },
+      "context": [
+        "Monday – Thursday, 10 a.m. – 7 p.m.",
+        "Dates: Dec 27 – 30",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Tilden Playground",
+      "address": [
+        "Tilden Ave. between E. 48 St. and E. 49 St.",
+        "Brooklyn, NY 11203"
+      ],
+      "coordinates": {
+        "lat": 40.647649,
+        "lng": -73.93142449999999
+      },
+      "context": [
+        "Tuesday – Thursday, 9 a.m. – 6 p.m.",
+        "Friday, 9 a.m. – 2 p.m.",
+        "Dates: Dec 28 – 31",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Fort Hamilton",
+      "address": [
+        "4002 Fort Hamilton Parkway",
+        "Brooklyn, NY 11218"
+      ],
+      "coordinates": {
+        "lat": 40.6427149,
+        "lng": -73.9922313
+      },
+      "context": [
+        "Wednesday – Thursday, 9 a.m. – 6 p.m.",
+        "Friday, 9 a.m. – 2 p.m.",
+        "Dates: Dec 29 – 31",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Bay Ridge 5th Ave",
+      "address": [
+        "8511 and 8515 5th Avenue",
+        "Brooklyn, NY 11209"
+      ],
+      "coordinates": {
+        "lat": 40.6217205,
+        "lng": -74.0258617
+      },
+      "context": [
+        "Wednesday – Thursday, 9 a.m. – 6 p.m.",
+        "Friday, 9 a.m. – 2 p.m.",
+        "Dates: Dec 29 – 31",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Starrett City",
+      "address": [
+        "1279 Pennsylvania Ave",
+        "Brooklyn, NY 11239"
+      ],
+      "coordinates": {
+        "lat": 40.6496589,
+        "lng": -73.8830396
+      },
+      "context": [
+        "Tuesday – Thursday, 9 a.m. – 6 p.m.",
+        "Friday, 9 a.m. – 2 p.m.",
+        "Dates: Dec 28 – 31",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Bensonhurst 14th Ave",
+      "address": [
+        "6315 14th Avenue",
+        "Brooklyn, NY 11219"
+      ],
+      "coordinates": {
+        "lat": 40.625407,
+        "lng": -73.9979369
+      },
+      "context": [
+        "Wednesday – Thursday, 9 a.m. – 6 p.m.",
+        "Friday, 9 a.m. – 2 p.m.",
+        "Dates: Dec 29 – 31",
+        "4 years old and above"
+      ]
+    },
+    {
       "name": "NYC Health + Hospitals/Coney Island",
       "address": [
         "2601 Ocean Parkway",
@@ -924,6 +1122,22 @@
       ]
     },
     {
+      "name": "455 Jefferson",
+      "address": [
+        "455 Jefferson Street,",
+        "Brooklyn, NY 11237"
+      ],
+      "coordinates": {
+        "lat": 40.7088772,
+        "lng": -73.9218666
+      },
+      "context": [
+        "Monday – Thursday, 12 p.m. – 8 p.m.",
+        "Dates: Dec 27 – 30",
+        "Rapid Antigen Testing Available Here"
+      ]
+    },
+    {
       "name": "Brooklyn Navy Yard",
       "address": [
         "63 Flushing Ave, building 92,",
@@ -1172,7 +1386,7 @@
       "name": "Vision Urbana",
       "address": [
         "175 Delancey St",
-        "New York NY 10002"
+        "New York, NY 10002"
       ],
       "coordinates": {
         "lat": 40.7173148,
@@ -1188,7 +1402,7 @@
       "name": "Borough of Manhattan Community College",
       "address": [
         "245 Greenwich Street (at Park Place)",
-        "New York NY 10007"
+        "New York, NY 10007"
       ],
       "coordinates": {
         "lat": 40.7136111,
@@ -1197,6 +1411,86 @@
       "context": [
         "Sunday,  8 a.m. – 6 p.m.",
         "Dates: Jan 2",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "St Elizabeth",
+      "address": [
+        "268 Wadsworth Ave",
+        "New York, NY 10033"
+      ],
+      "coordinates": {
+        "lat": 40.8534537,
+        "lng": -73.93270590000002
+      },
+      "context": [
+        "Monday – Sunday,  9 a.m. – 2 p.m.",
+        "Dates: Dec 27 – Jan 2",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "St. Jude",
+      "address": [
+        "439 West 204th",
+        "New York, NY 10034"
+      ],
+      "coordinates": {
+        "lat": 40.8628088,
+        "lng": -73.9197698
+      },
+      "context": [
+        "Monday – Sunday,  9 a.m. – 2 p.m.",
+        "Dates: Dec 27 – Jan 2",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "St. Rose of Lima",
+      "address": [
+        "510 West 165th St",
+        "New York, NY 10032"
+      ],
+      "coordinates": {
+        "lat": 40.8379329,
+        "lng": -73.9392084
+      },
+      "context": [
+        "Monday – Sunday,  9 a.m. – 2 p.m.",
+        "Dates: Dec 27 – Jan 2",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Congressman Espaillat’s Office",
+      "address": [
+        "720 West 181st St",
+        "New York, NY 10033"
+      ],
+      "coordinates": {
+        "lat": 40.8502935,
+        "lng": -73.9368293
+      },
+      "context": [
+        "Monday – Sunday,  9 a.m. – 2 p.m.",
+        "Dates: Dec 27 – Jan 2",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "3547 Broadway",
+      "address": [
+        "3547 Broadway",
+        "New York, NY 10031"
+      ],
+      "coordinates": {
+        "lat": 40.8268827,
+        "lng": -73.95065439999999
+      },
+      "context": [
+        "Tuesday – Thursday,  10 a.m. – 7 p.m.",
+        "Dates: Dec 28 – 30",
         "4 years old and above"
       ]
     },
@@ -1355,22 +1649,6 @@
       "context": [
         "Friday, 8:30 a.m. – 1:30 p.m.",
         "Dates: Dec 31",
-        "4 years old and above"
-      ]
-    },
-    {
-      "name": "Compton Eye Associates",
-      "address": [
-        "4738 Broadway,",
-        "New York, NY 10040"
-      ],
-      "coordinates": {
-        "lat": 40.8648551,
-        "lng": -73.9281283
-      },
-      "context": [
-        "Tuesday, 10:30 a.m. – 5:30 p.m.",
-        "Dates: Dec 28",
         "4 years old and above"
       ]
     },
@@ -1615,6 +1893,190 @@
       ]
     },
     {
+      "name": "Beach 39th Street PCR Testing",
+      "address": [
+        "Beach 39 St between Rockaway Beach Boulevard and Beach Channel Drive,",
+        "Queens, NY 11697"
+      ],
+      "coordinates": {
+        "lat": 40.5952644,
+        "lng": -73.7713777
+      },
+      "context": [
+        "Monday – Thursday, Sunday, 8:30 a.m. – 4 p.m.",
+        "Friday, 8:30 a.m. – 1 p.m.",
+        "Closed on Saturday",
+        "Dates: Dec 27 – Jan 4",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Rosedale",
+      "address": [
+        "Brookville Blvd & 147th Ave,",
+        "Rosedale, NY 11422"
+      ],
+      "coordinates": {
+        "lat": 40.6571597,
+        "lng": -73.7453305
+      },
+      "context": [
+        "Monday – Thursday, Sunday, 8:30 a.m. – 4 p.m.",
+        "Friday, 8:30 a.m. – 1 p.m.",
+        "Closed on Saturday",
+        "Dates: Dec 27 – Jan 4",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Blessed Sacrament",
+      "address": [
+        "34-43 93rd Street",
+        "Queens, NY 11372"
+      ],
+      "coordinates": {
+        "lat": 40.7533088,
+        "lng": -73.87429589999999
+      },
+      "context": [
+        "Monday – Sunday, 9 a.m. – 2 p.m.",
+        "Dates: Dec 27 – Jan 2",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "CDC – Travers Park",
+      "address": [
+        "76-9 34th Ave,",
+        "Queens, NY 11372"
+      ],
+      "coordinates": {
+        "lat": 40.7539534,
+        "lng": -73.88936199999999
+      },
+      "context": [
+        "Tuesday – Thursday, Sunday, 7 a.m. – 5 p.m.",
+        "Dates: Dec 28 – 30, Jan 2",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "CDC – Queens Valley Playground",
+      "address": [
+        "Corner of 137 Street & 77 Avenue,",
+        "Flushing NY 11367"
+      ],
+      "coordinates": {
+        "lat": 40.721806,
+        "lng": -73.8238026
+      },
+      "context": [
+        "Tuesday – Thursday, Sunday, 7 a.m. – 5 p.m.",
+        "Dates: Dec 28 – 30, Jan 2",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "CDC – Helen Marshall Playground",
+      "address": [
+        "100 St & 24th Ave,",
+        "East Elmhurst, NY 11369"
+      ],
+      "coordinates": {
+        "lat": 40.7657488,
+        "lng": -73.8707687
+      },
+      "context": [
+        "Tuesday – Thursday, Sunday, 9 a.m. – 5 p.m.",
+        "Dates: Dec 28 – 30, Jan 2",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "CDC – Hart Playground",
+      "address": [
+        "Corner of 65th Street & Broadway,",
+        "Queens NY 11377"
+      ],
+      "coordinates": {
+        "lat": 40.7488224,
+        "lng": -73.8974478
+      },
+      "context": [
+        "Tuesday – Thursday, Sunday, 9 a.m. – 5 p.m.",
+        "Dates: Dec 28 – 30, Jan 2",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Pomonok Playground",
+      "address": [
+        "Kissena Blvd. &, 65th Ave,",
+        "Flushing, NY 11367"
+      ],
+      "coordinates": {
+        "lat": 40.736065,
+        "lng": -73.813934
+      },
+      "context": [
+        "Tuesday – Thursday, 9 a.m. – 6 p.m.",
+        "Friday, 9 a.m. – 2 p.m.",
+        "Dates: Dec 28 – 31",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Raymond O’Connor Park",
+      "address": [
+        "209-1 32nd Ave,",
+        "Bayside, NY 11360"
+      ],
+      "coordinates": {
+        "lat": 40.7717621,
+        "lng": -73.77936040000002
+      },
+      "context": [
+        "Tuesday – Thursday, 9 a.m. – 6 p.m.",
+        "Friday, 9 a.m. – 2 p.m.",
+        "Dates: Dec 28 – 31",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "L/CPL Thomas P. Noonan Jr. Playground",
+      "address": [
+        "42nd St &, Greenpoint Ave,",
+        "Woodside, NY 11377"
+      ],
+      "coordinates": {
+        "lat": 40.7412558,
+        "lng": -73.9225823
+      },
+      "context": [
+        "Tuesday – Thursday, 9 a.m. – 6 p.m.",
+        "Friday, 9 a.m. – 2 p.m.",
+        "Dates: Dec 28 – 31",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Sorrentino Rec Center",
+      "address": [
+        "18-48 Cornaga Avenue,",
+        "Queens, NY 11691"
+      ],
+      "coordinates": {
+        "lat": 40.6025037,
+        "lng": -73.7513574
+      },
+      "context": [
+        "Wednesday – Thursday, 9 a.m. – 6 p.m.",
+        "Friday, 9 a.m. – 2 p.m.",
+        "Dates: Dec 29 – 31",
+        "4 years old and above"
+      ]
+    },
+    {
       "name": "NYC Health + Hospitals/Elmhurst",
       "address": [
         "77-04 41st Avenue",
@@ -1630,7 +2092,7 @@
         "We will be CLOSED on New Year’s Day",
         "718-334-4000",
         "COVID-19 Testing and Antibody Testing Offered Here",
-        "Appointments are REQUIRED.  NO walk-ins at this time.",
+        "Walk-ins only at this time.",
         "Pre-register for your visit"
       ]
     },
@@ -1668,22 +2130,6 @@
         "We will be CLOSED on December 31st and January 1st",
         "Rapid Molecular Testing Available Here",
         "Pre-register for your visit"
-      ]
-    },
-    {
-      "name": "455 Jefferson Street",
-      "address": [
-        "Corner of Flushing and Cypress",
-        "Queens, NY 11237"
-      ],
-      "coordinates": {
-        "lat": 40.7070754,
-        "lng": -73.9238689
-      },
-      "context": [
-        "Monday – Thursday, 12 p.m. – 8 p.m.",
-        "Dates: Dec 27 – 30",
-        "Rapid Antigen Testing Available Here"
       ]
     },
     {
@@ -1975,10 +2421,27 @@
       ]
     },
     {
+      "name": "57 Cleveland Place",
+      "address": [
+        "57 Cleveland Place,",
+        "Staten Island, NY 10305"
+      ],
+      "coordinates": {
+        "lat": 40.6012163,
+        "lng": -74.0687077
+      },
+      "context": [
+        "Wednesday – Thursday, 9 a.m. – 6 p.m.",
+        "Friday, 9 a.m. – 2 p.m.",
+        "Dates: Dec 29 – 31",
+        "4 years old and above"
+      ]
+    },
+    {
       "name": "NYC Health + Hospitals/Gotham Health, Vanderbilt",
       "address": [
         "165 Vanderbilt Avenue",
-        "Staten Island, New York 10304"
+        "Staten Island, NY 10304"
       ],
       "coordinates": {
         "lat": 40.6203745,
@@ -2033,8 +2496,8 @@
         "Staten Island, NY 10301"
       ],
       "coordinates": {
-        "lat": 40.6440515,
-        "lng": -74.0725126
+        "lat": 40.64409819999999,
+        "lng": -74.0725489
       },
       "context": [
         "Monday – Sunday, 9 a.m. – 7 p.m.",
