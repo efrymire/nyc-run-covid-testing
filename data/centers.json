@@ -1,5 +1,5 @@
 {
-  "timestamp": "2021-12-29T03:13:20.856Z",
+  "timestamp": "2021-12-29T18:27:53.072Z",
   "centers": [
     {
       "name": "Entrance to Crotona Pool//Adjacent to Bathgate Playground",
@@ -184,8 +184,8 @@
         "Bronx, NY 10466"
       ],
       "coordinates": {
-        "lat": 40.8880563,
-        "lng": -73.8586368
+        "lat": 40.8876756,
+        "lng": -73.8586301
       },
       "context": [
         "Friday – Saturday, 11 a.m. – 6 p.m.",
@@ -368,8 +368,7 @@
       "context": [
         "Monday – Thursday, Sunday, 7 a.m. – 7 p.m.",
         "Friday, 7 a.m. – 1 p.m.",
-        "Saturday, 1 p.m. – 5 p.m.",
-        "Closed at 1:00 PM for and New Year Eve",
+        "We will be CLOSED on New Year’s Day",
         "844-NYC-4NYC",
         "COVID-19 Testing and Antibody Testing Offered Here",
         "Pre-register for your visit"
@@ -424,7 +423,7 @@
       "context": [
         "Monday – Thursday, Sunday, 7 a.m. – 7 p.m.",
         "Friday, 7 a.m. – 1 p.m.",
-        "Saturday, 1 p.m. – 5 p.m.",
+        "We will be CLOSED on New Year’s Day",
         "844-NYC-4NYC",
         "COVID-19 Testing and Antibody Testing Offered Here",
         "Pre-register for your visit"
@@ -464,6 +463,7 @@
         "Appointments:",
         "Monday – Thursday, 7 a.m. – 7 p.m.",
         "Friday, 7 a.m. – 1 p.m.",
+        "We will be CLOSED on New Year’s Day",
         "COVID-19 Testing and Antibody Testing Offered Here"
       ]
     },
@@ -753,8 +753,8 @@
         "Brooklyn, NY 11221"
       ],
       "coordinates": {
-        "lat": 40.6855549,
-        "lng": -73.9411715
+        "lat": 40.66467919999999,
+        "lng": -73.9111008
       },
       "context": [
         "Monday – Thursday, 8:30 a.m. – 6 p.m.",
@@ -1076,7 +1076,7 @@
       "context": [
         "Monday – Thursday, Sunday, 7 a.m. – 7 p.m.",
         "Friday, 7 a.m. – 1 p.m.",
-        "Saturday, 1 p.m. – 5 p.m.",
+        "We will be CLOSED on New Year’s Day",
         "844-NYC-4NYC",
         "COVID-19 Testing and Antibody Testing Offered Here",
         "Pre-register for your visit"
@@ -1095,7 +1095,7 @@
       "context": [
         "Monday – Thursday, Sunday, 7 a.m. – 7 p.m.",
         "Friday, 7 a.m. – 1 p.m.",
-        "Saturday, 1 p.m. – 5 p.m.",
+        "We will be CLOSED on New Year’s Day",
         "844-NYC-4NYC",
         "COVID-19 Testing and Antibody Testing Offered Here",
         "Pre-register for your visit"
@@ -1204,7 +1204,7 @@
       "context": [
         "Monday – Thursday, Sunday, 7 a.m. – 7 p.m.",
         "Friday, 7 a.m. – 1 p.m.",
-        "Saturday, 1 p.m. – 5 p.m.",
+        "We will be CLOSED on New Year’s Day",
         "844-NYC-4NYC",
         "Rapid Molecular Testing Available Here",
         "Pre-register for your visit"
@@ -1234,8 +1234,8 @@
         "Brooklyn NY 11237"
       ],
       "coordinates": {
-        "lat": 40.696834,
-        "lng": -73.91170079999999
+        "lat": 40.6968994,
+        "lng": -73.91119379999999
       },
       "context": [
         "Sunday – Thursday, 7 a.m. – 7 p.m.",
@@ -1550,8 +1550,8 @@
         "New York, NY 10007"
       ],
       "coordinates": {
-        "lat": 40.7136111,
-        "lng": -74.0111111
+        "lat": 40.71390780000001,
+        "lng": -74.0113173
       },
       "context": [
         "Sunday,  8 a.m. – 6 p.m.",
@@ -1769,7 +1769,7 @@
       "context": [
         "Monday – Thursday, Sunday, 7 a.m. – 7 p.m.",
         "Friday, 7 a.m. – 1 p.m.",
-        "Saturday, 1 p.m. – 5 p.m.",
+        "We will be CLOSED on New Year’s Day",
         "844-NYC-4NYC",
         "COVID-19 Testing and Antibody Testing Offered Here",
         "Pre-register for your visit"
@@ -1786,7 +1786,8 @@
         "lng": -73.93950869999999
       },
       "context": [
-        "Monday – Saturday, 8 a.m. – 4:00 p.m.",
+        "Monday – Friday, 8 a.m. – 4:00 p.m.",
+        "We will be CLOSED on New Year’s Day",
         "212-939-1000",
         "COVID-19 Testing and Antibody Testing Offered Here",
         "Pre-register for your visit"
@@ -2376,8 +2377,8 @@
         "Jamaica, New York 11432"
       ],
       "coordinates": {
-        "lat": 40.7169282,
-        "lng": -73.8045894
+        "lat": 40.717309,
+        "lng": -73.80440469999999
       },
       "context": [
         "Monday – Thursday, Sunday, 7 a.m. – 7 p.m.",
@@ -2708,7 +2709,7 @@
         "COVID-19 Testing and Antibody Testing Offered Here",
         "Monday – Thursday, Sunday, 7 a.m. – 7 p.m.",
         "Friday, 7 a.m. – 1 p.m.",
-        "Saturday, 1 p.m. – 5 p.m.",
+        "We will be CLOSED on New Year’s Day",
         "Pre-register for your visit"
       ]
     },
