@@ -1,5 +1,5 @@
 {
-  "timestamp": "2021-12-28T16:24:09.920Z",
+  "timestamp": "2021-12-29T03:13:20.856Z",
   "centers": [
     {
       "name": "Entrance to Crotona Pool//Adjacent to Bathgate Playground",
@@ -243,6 +243,119 @@
       ]
     },
     {
+      "name": "Bathgate Contract Postal Station",
+      "address": [
+        "4006 3rd Ave,",
+        "Bronx, NY 10457"
+      ],
+      "coordinates": {
+        "lat": 40.84188820000001,
+        "lng": -73.8984396
+      },
+      "context": [
+        "Monday – Thursday, 9 a.m. – 6 p.m.",
+        "Friday, 9 a.m. – 2 p.m.",
+        "Dates: Dec 27 – 31",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Iglesia Casa de la Fe",
+      "address": [
+        "1810 Randall Ave,",
+        "Bronx, NY 10473"
+      ],
+      "coordinates": {
+        "lat": 40.8169455,
+        "lng": -73.8624141
+      },
+      "context": [
+        "Tuesday – Sunday, 9 a.m. – 2 p.m.",
+        "Dates: Dec 28 – Jan 2",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "68 East 161st Street",
+      "address": [
+        "68 East 161st Street",
+        "Bronx, NY 10451"
+      ],
+      "coordinates": {
+        "lat": 40.8273407,
+        "lng": -73.9253507
+      },
+      "context": [
+        "Tuesday – Friday, Sunday, 9 a.m. – 6 p.m.",
+        "Dates: Dec 28 – 31, Jan 2",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "338 East Fordham Rd",
+      "address": [
+        "338 East Fordham Rd",
+        "Bronx, NY 10458"
+      ],
+      "coordinates": {
+        "lat": 40.8617699,
+        "lng": -73.8935229
+      },
+      "context": [
+        "Wednesday – Friday, Sunday, 9 a.m. – 6 p.m.",
+        "Dates: Dec 28 – 31, Jan 2",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "1613 Westchester Avenue",
+      "address": [
+        "1613 Westchester Avenue",
+        "Bronx, NY 10472"
+      ],
+      "coordinates": {
+        "lat": 40.8296964,
+        "lng": -73.8750419
+      },
+      "context": [
+        "Thursday – Friday, Sunday, 9 a.m. – 6 p.m.",
+        "Dates: Dec 30 – 31, Jan 2",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "1640 Grand Concourse",
+      "address": [
+        "1640 Grand Concourse",
+        "Bronx, NY 10457"
+      ],
+      "coordinates": {
+        "lat": 40.8429703,
+        "lng": -73.9118186
+      },
+      "context": [
+        "Thursday – Friday, Sunday, 9 a.m. – 6 p.m.",
+        "Dates: Dec 30 – 31, Jan 2",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "CDC – St. James Park",
+      "address": [
+        "2550 Jerome Ave,",
+        "Bronx, NY 10468"
+      ],
+      "coordinates": {
+        "lat": 40.86502369999999,
+        "lng": -73.89777269999999
+      },
+      "context": [
+        "Sunday, 9 a.m. – 5 p.m.",
+        "Dates: Jan 2",
+        "4 years old and above"
+      ]
+    },
+    {
       "name": "NYC Health + Hospitals/Gotham Health, Belvis",
       "address": [
         "545 East 142nd Street",
@@ -432,8 +545,8 @@
         "Bronx, NY 10456"
       ],
       "coordinates": {
-        "lat": 40.829074,
-        "lng": -73.9034039
+        "lat": 40.828712,
+        "lng": -73.90346749999999
       },
       "context": [
         "Tuesday – Thursday, 10:30 a.m. – 5:30 p.m.",
@@ -442,23 +555,7 @@
       ]
     },
     {
-      "name": "Bathgate",
-      "address": [
-        "4006 3rd Ave,",
-        "Bronx, NY 10457"
-      ],
-      "coordinates": {
-        "lat": 40.84188820000001,
-        "lng": -73.8984396
-      },
-      "context": [
-        "Monday – Friday, Sunday, 10 a.m. – 5p.m.",
-        "Dates: Dec 26 – 31, Jan 2",
-        "4 years old and above"
-      ]
-    },
-    {
-      "name": "Edenwald YMCA",
+      "name": "Northeast Bronx YMCA",
       "address": [
         "1250 East 229th Street,",
         "Bronx, NY 10466"
@@ -724,7 +821,7 @@
         "lng": -73.9657278
       },
       "context": [
-        "Tuesday – Thursday, 8:30 a.m. – 5:30 p.m.",
+        "Tuesday – Thursday, 8:30 a.m. – 4:30 p.m.",
         "Dates: Dec 28 – 30",
         "4 years old and above"
       ]
@@ -859,6 +956,87 @@
         "Wednesday – Thursday, 9 a.m. – 6 p.m.",
         "Friday, 9 a.m. – 2 p.m.",
         "Dates: Dec 29 – 31",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Brooklyn Army Terminal",
+      "address": [
+        "140 58th St,",
+        "Brooklyn, NY 11220"
+      ],
+      "coordinates": {
+        "lat": 40.6460627,
+        "lng": -74.0244993
+      },
+      "context": [
+        "Friday, 9 a.m. – 2 p.m.",
+        "Sunday, 9 a.m. – 6 p.m.",
+        "Dates: Dec 31, Jan 2",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "890 Flatbush Ave",
+      "address": [
+        "890 Flatbush Ave",
+        "Brooklyn, NY 11226"
+      ],
+      "coordinates": {
+        "lat": 40.6501369,
+        "lng": -73.9589888
+      },
+      "context": [
+        "Tuesday – Friday, Sunday 9 a.m. – 6 p.m.",
+        "Dates: Dec 28 – 31, Jan 2",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "6502 18th Avenue",
+      "address": [
+        "6502 18th Avenue",
+        "Brooklyn, NY 11204"
+      ],
+      "coordinates": {
+        "lat": 40.6191286,
+        "lng": -73.9905727
+      },
+      "context": [
+        "Wednesday – Friday, Sunday 9 a.m. – 6 p.m.",
+        "Dates: Dec 29 – 31, Jan 2",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "228-230 Court Street",
+      "address": [
+        "228-230 Court Street",
+        "Brooklyn, NY 11201"
+      ],
+      "coordinates": {
+        "lat": 40.686293,
+        "lng": -73.994238
+      },
+      "context": [
+        "Wednesday – Friday, Sunday 9 a.m. – 6 p.m.",
+        "Dates: Dec 29 – 31, Jan 2",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "1329 Linden Blvd",
+      "address": [
+        "1329 Linden Blvd",
+        "Brooklyn, NY 11212"
+      ],
+      "coordinates": {
+        "lat": 40.6542351,
+        "lng": -73.91071509999999
+      },
+      "context": [
+        "Thursday – Friday, Sunday 9 a.m. – 6 p.m.",
+        "Dates: Dec 30 – 31, Jan 2",
         "4 years old and above"
       ]
     },
@@ -1171,40 +1349,6 @@
       ]
     },
     {
-      "name": "Family Services Network of New York Access Center",
-      "address": [
-        "1721 Pitkin Ave,",
-        "Brooklyn, NY 11212"
-      ],
-      "coordinates": {
-        "lat": 40.66920959999999,
-        "lng": -73.9068951
-      },
-      "context": [
-        "Monday – Tuesday, Thursday 11:30am-7:30pm",
-        "Friday 8:00 a.m. – 1:30pm",
-        "Sunday, 8:00 a.m. – 4:00 p.m.",
-        "Dates: Dec 27, 28, 30 – Jan 2",
-        "4 years old and above"
-      ]
-    },
-    {
-      "name": "Brooklyn Army Terminal (BAT)",
-      "address": [
-        "140 58th Street,",
-        "Brooklyn, NY 11220"
-      ],
-      "coordinates": {
-        "lat": 40.6460627,
-        "lng": -74.0244993
-      },
-      "context": [
-        "Monday – Friday, Sunday, 10:00 a.m. – 5:00 p.m.",
-        "Dates: Dec 27 – 31, Jan 2",
-        "4 years old and above"
-      ]
-    },
-    {
       "name": "Cort Club",
       "address": [
         "2648 Gerritsen,",
@@ -1301,22 +1445,6 @@
       ]
     },
     {
-      "name": "Family Services Network of New York (Harm Reduction Program – Broadway)",
-      "address": [
-        "1751 Broadway ,",
-        "Brooklyn, NY 11207"
-      ],
-      "coordinates": {
-        "lat": 40.6840333,
-        "lng": -73.9089482
-      },
-      "context": [
-        "Wednesday, 8:30am – 3:30pm",
-        "Dates: Dec 29",
-        "4 years old and above"
-      ]
-    },
-    {
       "name": "Clarendon Road Church",
       "address": [
         "3304 Clarendon Road",
@@ -1327,8 +1455,25 @@
         "lng": -73.9455225
       },
       "context": [
-        "Sunday, 8:30am – 3:30pm",
+        "Sunday, 8:30 a.m. – 3:30 p.m.",
         "Dates: Jan 2",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Antioch Baptist Church",
+      "address": [
+        "826 Greene Ave,",
+        "Brooklyn, NY 11221"
+      ],
+      "coordinates": {
+        "lat": 40.6900555,
+        "lng": -73.93506359999999
+      },
+      "context": [
+        "Friday, 9 a.m. – 1:30 p.m.",
+        "Sunday, 10:30 a.m. – 5:30 p.m.",
+        "Dates: Dec 31, Jan 2",
         "4 years old and above"
       ]
     },
@@ -1491,6 +1636,86 @@
       "context": [
         "Tuesday – Thursday,  10 a.m. – 7 p.m.",
         "Dates: Dec 28 – 30",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "St. Catherine of Genoa Church",
+      "address": [
+        "506 W 153 St",
+        "New York, NY 10031"
+      ],
+      "coordinates": {
+        "lat": 40.8304315,
+        "lng": -73.9445637
+      },
+      "context": [
+        "Tuesday – Sunday, 9 a.m. – 2 p.m.",
+        "Dates: Dec 28 – Jan 2",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "216 East 14th Street",
+      "address": [
+        "216 East 14th Street",
+        "New York, NY 10003"
+      ],
+      "coordinates": {
+        "lat": 40.7327835,
+        "lng": -73.9866134
+      },
+      "context": [
+        "Tuesday – Friday, Sunday, 9 a.m. – 6 p.m.",
+        "Dates: Dec 28 – 31, Jan 2",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "80 West 125th Street",
+      "address": [
+        "80 West 125th Street",
+        "New York, NY 10027"
+      ],
+      "coordinates": {
+        "lat": 40.807379,
+        "lng": -73.9451897
+      },
+      "context": [
+        "Tuesday – Friday, Sunday, 9 a.m. – 6 p.m.",
+        "Dates: Dec 28 – 31, Jan 2",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "952 2nd Ave",
+      "address": [
+        "952 2nd Ave",
+        "New York, NY 10022"
+      ],
+      "coordinates": {
+        "lat": 40.755051,
+        "lng": -73.96804999999999
+      },
+      "context": [
+        "Wednesday – Friday, Sunday, 9 a.m. – 6 p.m.",
+        "Dates: Dec 29 – 31, Jan 2",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "1412 Broadway",
+      "address": [
+        "1412 Broadway",
+        "New York, NY 10018"
+      ],
+      "coordinates": {
+        "lat": 40.753615,
+        "lng": -73.9865612
+      },
+      "context": [
+        "Thursday – Friday, Sunday, 9 a.m. – 6 p.m.",
+        "Dates: Dec 30 – 31, Jan 2",
         "4 years old and above"
       ]
     },
@@ -1739,8 +1964,8 @@
         "Queens NY 11371"
       ],
       "coordinates": {
-        "lat": 40.7749792,
-        "lng": -73.88441999999999
+        "lat": 40.7702565,
+        "lng": -73.8694107
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -2077,6 +2302,54 @@
       ]
     },
     {
+      "name": "22-48 31st Street",
+      "address": [
+        "22-48 31st Street",
+        "Queens, NY 11105"
+      ],
+      "coordinates": {
+        "lat": 40.775315,
+        "lng": -73.9122378
+      },
+      "context": [
+        "Tuesday – Friday, Sunday, 9 a.m. – 6 p.m.",
+        "Dates: Dec 28 – 31, Jan 2",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "37-26 Junction Blvd",
+      "address": [
+        "37-26 Junction Blvd",
+        "Queens, NY 11368"
+      ],
+      "coordinates": {
+        "lat": 40.75073829999999,
+        "lng": -73.8707154
+      },
+      "context": [
+        "Wednesday – Friday, Sunday, 9 a.m. – 6 p.m.",
+        "Dates: Dec 29 – 31, Jan 2",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "91-07 Jamaica Avenue",
+      "address": [
+        "91-07 Jamaica Avenue",
+        "Queens, NY 11421"
+      ],
+      "coordinates": {
+        "lat": 40.6933878,
+        "lng": -73.85350799999999
+      },
+      "context": [
+        "Thursday – Friday, Sunday, 9 a.m. – 6 p.m.",
+        "Dates: Dec 30 – 31, Jan 2",
+        "4 years old and above"
+      ]
+    },
+    {
       "name": "NYC Health + Hospitals/Elmhurst",
       "address": [
         "77-04 41st Avenue",
@@ -2103,8 +2376,8 @@
         "Jamaica, New York 11432"
       ],
       "coordinates": {
-        "lat": 40.717309,
-        "lng": -73.80440469999999
+        "lat": 40.7169282,
+        "lng": -73.8045894
       },
       "context": [
         "Monday – Thursday, Sunday, 7 a.m. – 7 p.m.",
@@ -2263,8 +2536,8 @@
         "Queens, NY 11411"
       ],
       "coordinates": {
-        "lat": 40.6969444,
-        "lng": -73.74694439999999
+        "lat": 40.6971053,
+        "lng": -73.7468535
       },
       "context": [
         "Friday, 8:30 a.m. – 1:30 p.m.",
@@ -2319,23 +2592,6 @@
       "context": [
         "Tuesday, 10:30 a.m. – 6 p.m.",
         "Dates: Dec 28",
-        "4 years old and above"
-      ]
-    },
-    {
-      "name": "Gurdwara Sikh Cultural Society",
-      "address": [
-        "95-30 118th St,",
-        "Queens, NY 11419"
-      ],
-      "coordinates": {
-        "lat": 40.6911066,
-        "lng": -73.8280284
-      },
-      "context": [
-        "Friday, 9:30am-1:30pm",
-        "Sunday, 9:30am-4:30pm",
-        "Dates: Dec 31, Jan 2",
         "4 years old and above"
       ]
     },
