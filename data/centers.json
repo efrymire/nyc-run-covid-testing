@@ -1,5 +1,5 @@
 {
-  "timestamp": "2021-12-29T18:27:53.072Z",
+  "timestamp": "2021-12-30T21:24:06.831Z",
   "centers": [
     {
       "name": "Entrance to Crotona Pool//Adjacent to Bathgate Playground",
@@ -124,7 +124,7 @@
         "lng": -73.8750973
       },
       "context": [
-        "Monday – Saturday, 8 a.m. – 7 p.m.",
+        "Monday – Sunday, 8 a.m. – 7 p.m.",
         "Dates: Dec 27 – Jan 2",
         "4 years old and above"
       ]
@@ -136,8 +136,8 @@
         "Bronx, NY 10451"
       ],
       "coordinates": {
-        "lat": 40.8247503,
-        "lng": -73.9149145
+        "lat": 40.6767396,
+        "lng": -73.9905441
       },
       "context": [
         "Monday, 8 a.m. – 6 p.m.",
@@ -204,8 +204,9 @@
         "lng": -73.91789829999999
       },
       "context": [
-        "Monday – Sunday, 9 a.m. – 2 p.m.",
-        "Dates: Dec 27 – Jan 2",
+        "Monday – Friday, Sunday, 9 a.m. – 2 p.m.",
+        "Dates: Dec 27 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -220,8 +221,9 @@
         "lng": -73.8997215
       },
       "context": [
-        "Monday – Sunday, 9 a.m. – 2 p.m.",
-        "Dates: Dec 27 – Jan 2",
+        "Monday – Friday, Sunday, 9 a.m. – 2 p.m.",
+        "Dates: Dec 27 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -236,9 +238,10 @@
         "lng": -73.913386
       },
       "context": [
-        "Tuesday – Thursday, 9 a.m. – 6 p.m.",
+        "Tuesday – Thursday, Sunday, 9 a.m. – 6 p.m.",
         "Friday, 9 a.m. – 2 p.m.",
-        "Dates: Dec 28 – 31",
+        "Dates: Dec 28 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -256,6 +259,7 @@
         "Monday – Thursday, 9 a.m. – 6 p.m.",
         "Friday, 9 a.m. – 2 p.m.",
         "Dates: Dec 27 – 31",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -270,8 +274,9 @@
         "lng": -73.8624141
       },
       "context": [
-        "Tuesday – Sunday, 9 a.m. – 2 p.m.",
-        "Dates: Dec 28 – Jan 2",
+        "Tuesday – Friday, Sunday, 9 a.m. – 2 p.m.",
+        "Dates: Dec 28 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -837,8 +842,9 @@
         "lng": -73.87475529999999
       },
       "context": [
-        "Monday – Sunday, 9 a.m. – 2 p.m.",
-        "Dates: Dec 27 – Jan 2",
+        "Monday – Friday, Sunday, 9 a.m. – 2 p.m.",
+        "Dates: Dec 27 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -853,8 +859,8 @@
         "lng": -73.9633841
       },
       "context": [
-        "Monday – Thursday, 10 a.m. – 7 p.m.",
-        "Dates: Dec 27 – 30",
+        "Monday – Friday, 10 a.m. – 7 p.m.",
+        "Dates: Dec 27 – 31",
         "4 years old and above"
       ]
     },
@@ -869,8 +875,8 @@
         "lng": -73.9357079
       },
       "context": [
-        "Monday – Thursday, 10 a.m. – 7 p.m.",
-        "Dates: Dec 27 – 30",
+        "Monday – Friday, 10 a.m. – 7 p.m.",
+        "Dates: Dec 27 – 31",
         "4 years old and above"
       ]
     },
@@ -885,9 +891,10 @@
         "lng": -73.93142449999999
       },
       "context": [
-        "Tuesday – Thursday, 9 a.m. – 6 p.m.",
+        "Tuesday – Thursday, Sunday, 9 a.m. – 6 p.m.",
         "Friday, 9 a.m. – 2 p.m.",
-        "Dates: Dec 28 – 31",
+        "Dates: Dec 28 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -902,9 +909,10 @@
         "lng": -73.9922313
       },
       "context": [
-        "Wednesday – Thursday, 9 a.m. – 6 p.m.",
+        "Wednesday – Thursday, Sunday, 9 a.m. – 6 p.m.",
         "Friday, 9 a.m. – 2 p.m.",
-        "Dates: Dec 29 – 31",
+        "Dates: Dec 29 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -919,9 +927,10 @@
         "lng": -74.0258617
       },
       "context": [
-        "Wednesday – Thursday, 9 a.m. – 6 p.m.",
+        "Wednesday – Thursday, Sunday, 9 a.m. – 6 p.m.",
         "Friday, 9 a.m. – 2 p.m.",
-        "Dates: Dec 29 – 31",
+        "Dates: Dec 29 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -936,9 +945,10 @@
         "lng": -73.8830396
       },
       "context": [
-        "Tuesday – Thursday, 9 a.m. – 6 p.m.",
+        "Tuesday – Thursday, Sunday, 9 a.m. – 6 p.m.",
         "Friday, 9 a.m. – 2 p.m.",
-        "Dates: Dec 28 – 31",
+        "Dates: Dec 28 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -953,9 +963,9 @@
         "lng": -73.9979369
       },
       "context": [
-        "Wednesday – Thursday, 9 a.m. – 6 p.m.",
+        "Wednesday – Thursday, Sunday, 9 a.m. – 6 p.m.",
         "Friday, 9 a.m. – 2 p.m.",
-        "Dates: Dec 29 – 31",
+        "Dates: Dec 29 – 31, Jan 2",
         "4 years old and above"
       ]
     },
@@ -1234,8 +1244,8 @@
         "Brooklyn NY 11237"
       ],
       "coordinates": {
-        "lat": 40.6968994,
-        "lng": -73.91119379999999
+        "lat": 40.696834,
+        "lng": -73.91170079999999
       },
       "context": [
         "Sunday – Thursday, 7 a.m. – 7 p.m.",
@@ -1520,8 +1530,9 @@
         "lng": -73.9536622
       },
       "context": [
-        "Monday – Sunday,  9 a.m. – 7 p.m.",
-        "Dates: Dec 27 – Jan 2",
+        "Monday – Thursday, Sunday,  9 a.m. – 7 p.m.",
+        "Friday, 9 a.m. – 4 p.m.",
+        "Dates: Dec 27 – 31, Jan 2",
         "We will be CLOSED on New Year’s Day",
         "Rapid Antigen Testing Available Here",
         "4 years old and above"
@@ -1570,8 +1581,9 @@
         "lng": -73.93270590000002
       },
       "context": [
-        "Monday – Sunday,  9 a.m. – 2 p.m.",
-        "Dates: Dec 27 – Jan 2",
+        "Monday – Friday, Sunday,  9 a.m. – 2 p.m.",
+        "Dates: Dec 27 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -1586,8 +1598,9 @@
         "lng": -73.9197698
       },
       "context": [
-        "Monday – Sunday,  9 a.m. – 2 p.m.",
-        "Dates: Dec 27 – Jan 2",
+        "Monday – Friday, Sunday,  9 a.m. – 2 p.m.",
+        "Dates: Dec 27 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -1602,8 +1615,9 @@
         "lng": -73.9392084
       },
       "context": [
-        "Monday – Sunday,  9 a.m. – 2 p.m.",
-        "Dates: Dec 27 – Jan 2",
+        "Monday – Friday, Sunday,  9 a.m. – 2 p.m.",
+        "Dates: Dec 27 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -1618,8 +1632,9 @@
         "lng": -73.9368293
       },
       "context": [
-        "Monday – Sunday,  9 a.m. – 2 p.m.",
-        "Dates: Dec 27 – Jan 2",
+        "Monday – Friday, Sunday,  9 a.m. – 2 p.m.",
+        "Dates: Dec 27 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -1634,8 +1649,8 @@
         "lng": -73.95065439999999
       },
       "context": [
-        "Tuesday – Thursday,  10 a.m. – 7 p.m.",
-        "Dates: Dec 28 – 30",
+        "Tuesday – Friday,  10 a.m. – 7 p.m.",
+        "Dates: Dec 28 – 31",
         "4 years old and above"
       ]
     },
@@ -1650,8 +1665,9 @@
         "lng": -73.9445637
       },
       "context": [
-        "Tuesday – Sunday, 9 a.m. – 2 p.m.",
-        "Dates: Dec 28 – Jan 2",
+        "Tuesday – Friday, Sunday, 9 a.m. – 2 p.m.",
+        "Dates: Dec 28 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -1700,6 +1716,7 @@
       "context": [
         "Wednesday – Friday, Sunday, 9 a.m. – 6 p.m.",
         "Dates: Dec 29 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -1716,6 +1733,58 @@
       "context": [
         "Thursday – Friday, Sunday, 9 a.m. – 6 p.m.",
         "Dates: Dec 30 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "400 East 23rd Street",
+      "address": [
+        "400 East 23rd Street",
+        "New York, NY 10016"
+      ],
+      "coordinates": {
+        "lat": 40.7364959,
+        "lng": -73.97837129999999
+      },
+      "context": [
+        "Thursday – Friday, Sunday, 9 a.m. – 6 p.m.",
+        "Dates: Dec 30 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "45 Beekman Street",
+      "address": [
+        "45 Beekman Street",
+        "New York, NY 10038"
+      ],
+      "coordinates": {
+        "lat": 40.7101561,
+        "lng": -74.00549579999999
+      },
+      "context": [
+        "Thursday – Friday, Sunday, 9 a.m. – 6 p.m.",
+        "Dates: Dec 30 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Highbridge Park – North End",
+      "address": [
+        "On Dyckman St. across from 175 Nagle Ave.",
+        "New York, NY 10034"
+      ],
+      "coordinates": {
+        "lat": 40.836916,
+        "lng": -73.9271294
+      },
+      "context": [
+        "Friday, 9 a.m. – 2 p.m.",
+        "Sunday, 9 a.m. – 6 p.m.",
+        "Dates: Dec 31, Jan 2",
         "4 years old and above"
       ]
     },
@@ -1997,8 +2066,8 @@
         "Queens, NY 11430"
       ],
       "coordinates": {
-        "lat": 40.6474925,
-        "lng": -73.7799744
+        "lat": 40.6433507,
+        "lng": -73.7889689
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -2013,8 +2082,8 @@
         "Queens, NY 11430"
       ],
       "coordinates": {
-        "lat": 40.6474925,
-        "lng": -73.7799744
+        "lat": 40.6433507,
+        "lng": -73.7889689
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -2165,8 +2234,9 @@
         "lng": -73.87429589999999
       },
       "context": [
-        "Monday – Sunday, 9 a.m. – 2 p.m.",
-        "Dates: Dec 27 – Jan 2",
+        "Monday – Friday, Sunday, 9 a.m. – 2 p.m.",
+        "Dates: Dec 27 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -2245,9 +2315,10 @@
         "lng": -73.813934
       },
       "context": [
-        "Tuesday – Thursday, 9 a.m. – 6 p.m.",
+        "Tuesday – Thursday, Sunday, 9 a.m. – 6 p.m.",
         "Friday, 9 a.m. – 2 p.m.",
-        "Dates: Dec 28 – 31",
+        "Dates: Dec 28 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -2262,9 +2333,10 @@
         "lng": -73.77936040000002
       },
       "context": [
-        "Tuesday – Thursday, 9 a.m. – 6 p.m.",
+        "Tuesday – Thursday, Sunday, 9 a.m. – 6 p.m.",
         "Friday, 9 a.m. – 2 p.m.",
-        "Dates: Dec 28 – 31",
+        "Dates: Dec 28 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -2279,9 +2351,10 @@
         "lng": -73.9225823
       },
       "context": [
-        "Tuesday – Thursday, 9 a.m. – 6 p.m.",
+        "Tuesday – Thursday, Sunday, 9 a.m. – 6 p.m.",
         "Friday, 9 a.m. – 2 p.m.",
-        "Dates: Dec 28 – 31",
+        "Dates: Dec 28 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -2296,9 +2369,10 @@
         "lng": -73.7513574
       },
       "context": [
-        "Wednesday – Thursday, 9 a.m. – 6 p.m.",
+        "Wednesday – Thursday, Sunday, 9 a.m. – 6 p.m.",
         "Friday, 9 a.m. – 2 p.m.",
-        "Dates: Dec 29 – 31",
+        "Dates: Dec 29 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -2331,6 +2405,7 @@
       "context": [
         "Wednesday – Friday, Sunday, 9 a.m. – 6 p.m.",
         "Dates: Dec 29 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -2347,6 +2422,24 @@
       "context": [
         "Thursday – Friday, Sunday, 9 a.m. – 6 p.m.",
         "Dates: Dec 30 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "78-08 Broadway",
+      "address": [
+        "79-01 Broadway",
+        "Queens, NY 11373"
+      ],
+      "coordinates": {
+        "lat": 40.74422879999999,
+        "lng": -73.8864923
+      },
+      "context": [
+        "Thursday – Friday, Sunday, 9 a.m. – 6 p.m.",
+        "Dates: Dec 30 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -2537,8 +2630,8 @@
         "Queens, NY 11411"
       ],
       "coordinates": {
-        "lat": 40.6971053,
-        "lng": -73.7468535
+        "lat": 40.6969444,
+        "lng": -73.74694439999999
       },
       "context": [
         "Friday, 8:30 a.m. – 1:30 p.m.",
@@ -2695,6 +2788,22 @@
       ]
     },
     {
+      "name": "Conference House Park",
+      "address": [
+        "298 Satterlee St,",
+        "Staten Island, NY 10307"
+      ],
+      "coordinates": {
+        "lat": 40.5005834,
+        "lng": -74.2512474
+      },
+      "context": [
+        "Saturday, 8 a.m. – 7 p.m.",
+        "Dates: Jan 1",
+        "4 years old and above"
+      ]
+    },
+    {
       "name": "NYC Health + Hospitals/Gotham Health, Vanderbilt",
       "address": [
         "165 Vanderbilt Avenue",
@@ -2724,8 +2833,10 @@
         "lng": -74.0687077
       },
       "context": [
-        "Monday – Sunday, 9 a.m. – 7 p.m.",
-        "We will be CLOSED on December 31st and January 1st",
+        "Monday – Thursday, 9 a.m. – 7 p.m.",
+        "Friday, 9 a.m. – 2 p.m.",
+        "Sunday, 9 a.m. – 6 p.m.",
+        "We will be CLOSED on January 1st",
         "Pre-register for your visit"
       ]
     },
@@ -2777,24 +2888,6 @@
         "Monday – Thursday, 8:30 p.m. – 4:30 p.m.",
         "Dates: Dec 27 – 30",
         "Rapid Antigen Testing Available Here",
-        "4 years old and above"
-      ]
-    },
-    {
-      "name": "Port Richmond High School",
-      "address": [
-        "85 St. Joseph’s Ave.",
-        "Staten Island, NY 10302"
-      ],
-      "coordinates": {
-        "lat": 40.6351288,
-        "lng": -74.142217
-      },
-      "context": [
-        "December 27th – December 30th: 7:30 a.m. – 7 p.m.",
-        "December 31st: 7:30 a.m. – 4 p.m.",
-        "Closed January 1st",
-        "PCR Testing Available Here",
         "4 years old and above"
       ]
     },
