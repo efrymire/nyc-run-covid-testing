@@ -1,5 +1,5 @@
 {
-  "timestamp": "2021-12-30T21:24:06.831Z",
+  "timestamp": "2021-12-31T17:30:06.727Z",
   "centers": [
     {
       "name": "Entrance to Crotona Pool//Adjacent to Bathgate Playground",
@@ -758,8 +758,8 @@
         "Brooklyn, NY 11221"
       ],
       "coordinates": {
-        "lat": 40.66467919999999,
-        "lng": -73.9111008
+        "lat": 40.6855549,
+        "lng": -73.9411715
       },
       "context": [
         "Monday – Thursday, 8:30 a.m. – 6 p.m.",
@@ -1789,6 +1789,22 @@
       ]
     },
     {
+      "name": "Masaryk Towers",
+      "address": [
+        "75 Columbia Street,",
+        "New York, NY 10002"
+      ],
+      "coordinates": {
+        "lat": 40.717163,
+        "lng": -73.9804611
+      },
+      "context": [
+        "Saturday, 8 a.m. – 7 p.m.",
+        "Dates: Jan 1",
+        "4 years old and above"
+      ]
+    },
+    {
       "name": "Times Square Testing Site",
       "address": [
         "701 Seventh Avenue (between W 47th and W 48th Street) aka 20 Times Square",
@@ -2066,8 +2082,8 @@
         "Queens, NY 11430"
       ],
       "coordinates": {
-        "lat": 40.6433507,
-        "lng": -73.7889689
+        "lat": 40.6474925,
+        "lng": -73.7799744
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -2082,8 +2098,8 @@
         "Queens, NY 11430"
       ],
       "coordinates": {
-        "lat": 40.6433507,
-        "lng": -73.7889689
+        "lat": 40.6474925,
+        "lng": -73.7799744
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -2630,8 +2646,8 @@
         "Queens, NY 11411"
       ],
       "coordinates": {
-        "lat": 40.6969444,
-        "lng": -73.74694439999999
+        "lat": 40.6971053,
+        "lng": -73.7468535
       },
       "context": [
         "Friday, 8:30 a.m. – 1:30 p.m.",
@@ -2690,23 +2706,6 @@
       ]
     },
     {
-      "name": "Woodhaven BID",
-      "address": [
-        "89-07 Jamaica Ave,",
-        "Queens, NY 11421"
-      ],
-      "coordinates": {
-        "lat": 40.692924,
-        "lng": -73.8554207
-      },
-      "context": [
-        "Friday, 8:30am-1:30pm",
-        "Sunday, 11:30am-6:30pm",
-        "Dates: Dec 31, Jan 2",
-        "4 years old and above"
-      ]
-    },
-    {
       "name": "Promise Church",
       "address": [
         "130-30 31st Ave,",
@@ -2719,6 +2718,54 @@
       "context": [
         "Sunday, 9:30am-5:00 p.m.",
         "Dates: Jan 2",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Gurdwara Sikh Cultural Society",
+      "address": [
+        "95-30 118th St,",
+        "Queens, NY 11419"
+      ],
+      "coordinates": {
+        "lat": 40.6911066,
+        "lng": -73.8280284
+      },
+      "context": [
+        "Friday, 9:30 a.m. – 4:30 p.m.",
+        "Dates: Dec 31",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "CM Holden Office",
+      "address": [
+        "64-69 Dry Harbor Road,",
+        "Queens, NY 11379"
+      ],
+      "coordinates": {
+        "lat": 40.7181235,
+        "lng": -73.872349
+      },
+      "context": [
+        "Friday, 10:30 a.m. – 5:30 p.m.",
+        "Dates: Dec 31",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "NYS Assembly- Brian Barnwell",
+      "address": [
+        "55-19 69th St,",
+        "Queens, NY 11378"
+      ],
+      "coordinates": {
+        "lat": 40.727262,
+        "lng": -73.89513099999999
+      },
+      "context": [
+        "Friday, 10:30 a.m. – 5:30 p.m.",
+        "Dates: Dec 31",
         "4 years old and above"
       ]
     },
