@@ -1,5 +1,5 @@
 {
-  "timestamp": "2021-12-31T17:30:06.727Z",
+  "timestamp": "2022-01-02T18:56:21.464Z",
   "centers": [
     {
       "name": "Entrance to Crotona Pool//Adjacent to Bathgate Playground",
@@ -12,8 +12,10 @@
         "lng": -73.8979971
       },
       "context": [
-        "Monday – Sunday, 8 a.m. – 7 p.m.",
-        "Dates: Dec 27 – Jan 2",
+        "Monday – Thursday, Sunday, 8 a.m. – 7 p.m.",
+        "Friday, 8 a.m. – 2 p.m.",
+        "Dates: Dec 27 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -28,8 +30,10 @@
         "lng": -73.8750973
       },
       "context": [
-        "Monday – Sunday, 8 a.m. – 7 p.m.",
-        "Dates: Dec 27 – Jan 2",
+        "Monday – Thursday, Sunday, 8 a.m. – 7 p.m.",
+        "Friday, 8 a.m. – 2 p.m.",
+        "Dates: Dec 27 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -44,24 +48,10 @@
         "lng": -73.8610815
       },
       "context": [
-        "Monday – Sunday, 8 a.m. – 7 p.m.",
-        "Dates: Dec 27 – Jan 2",
-        "4 years old and above"
-      ]
-    },
-    {
-      "name": "St. James Park",
-      "address": [
-        "2550 Jerome Ave,",
-        "Bronx, NY 10468"
-      ],
-      "coordinates": {
-        "lat": 40.86502369999999,
-        "lng": -73.89777269999999
-      },
-      "context": [
-        "Monday – Sunday, 8 a.m. – 7 p.m.",
-        "Dates: Dec 27 – Jan 2",
+        "Monday – Thursday, Sunday, 8 a.m. – 7 p.m.",
+        "Friday, 8 a.m. – 2 p.m.",
+        "Dates: Dec 27 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -108,24 +98,10 @@
         "lng": -73.82911109999999
       },
       "context": [
-        "Friday – Sunday, 8 a.m. – 7 p.m.",
-        "Dates: Dec 31 – Jan 2",
-        "4 years old and above"
-      ]
-    },
-    {
-      "name": "Soundview Park",
-      "address": [
-        "Corner of Lafayette Avenue and Morrison Avenue",
-        "Bronx, NY 10473"
-      ],
-      "coordinates": {
-        "lat": 40.8171726,
-        "lng": -73.8750973
-      },
-      "context": [
-        "Monday – Sunday, 8 a.m. – 7 p.m.",
-        "Dates: Dec 27 – Jan 2",
+        "Friday, 8 a.m. – 2 p.m.",
+        "Sunday, 8 a.m. – 7 p.m.",
+        "Dates: Dec 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -136,8 +112,8 @@
         "Bronx, NY 10451"
       ],
       "coordinates": {
-        "lat": 40.6767396,
-        "lng": -73.9905441
+        "lat": 40.8247503,
+        "lng": -73.9149145
       },
       "context": [
         "Monday, 8 a.m. – 6 p.m.",
@@ -156,8 +132,10 @@
         "lng": -73.85949099999999
       },
       "context": [
-        "Monday – Thursday, 8 a.m. – 7 p.m.",
-        "Dates: Dec 27 –  Dec 30",
+        "Monday – Thursday, Sunday, 8 a.m. – 7 p.m.",
+        "Friday, 8 a.m. – 2 p.m.",
+        "Dates: Dec 27 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -355,8 +333,10 @@
         "lng": -73.89777269999999
       },
       "context": [
-        "Sunday, 9 a.m. – 5 p.m.",
-        "Dates: Jan 2",
+        "Monday – Thursday, Sunday, 8 a.m. – 7 p.m.",
+        "Friday, 8 a.m. – 2 p.m.",
+        "Dates: Dec 27 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -586,8 +566,10 @@
         "lng": -74.0046194
       },
       "context": [
-        "Monday – Sunday, 8 a.m. – 7 p.m.",
-        "Dates: Dec 27 – Jan 2",
+        "Monday – Thursday, Sunday, 8 a.m. – 7 p.m.",
+        "Friday, 8 a.m. – 2 p.m.",
+        "Dates: Dec 27 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -602,8 +584,10 @@
         "lng": -73.9350389
       },
       "context": [
-        "Monday – Sunday, 8 a.m. – 7 p.m.",
-        "Dates: Dec 27 – Jan 2",
+        "Monday – Thursday, Sunday, 8 a.m. – 7 p.m.",
+        "Friday, 8 a.m. – 2 p.m.",
+        "Dates: Dec 27 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -618,8 +602,10 @@
         "lng": -73.9283483
       },
       "context": [
-        "Monday – Sunday, 8 a.m. – 7 p.m.",
-        "Dates: Dec 27 – Jan 2",
+        "Monday – Thursday, Sunday, 8 a.m. – 7 p.m.",
+        "Friday, 8 a.m. – 2 p.m.",
+        "Dates: Dec 27 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -634,8 +620,10 @@
         "lng": -73.9139151
       },
       "context": [
-        "Monday – Sunday, 8 a.m. – 7 p.m.",
-        "Dates: Dec 27 – Jan 2",
+        "Monday – Thursday, Sunday, 8 a.m. – 7 p.m.",
+        "Friday, 8 a.m. – 2 p.m.",
+        "Dates: Dec 27 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -650,8 +638,10 @@
         "lng": -73.9461432
       },
       "context": [
-        "Monday – Sunday, 8 a.m. – 7 p.m.",
-        "Dates: Dec 27 – Jan 2",
+        "Monday – Thursday, Sunday, 8 a.m. – 7 p.m.",
+        "Friday, 8 a.m. – 2 p.m.",
+        "Dates: Dec 27 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -666,8 +656,10 @@
         "lng": -74.0072107
       },
       "context": [
-        "Monday – Wednesday, Friday – Sunday, 8 a.m. – 7 p.m.",
-        "Dates: Dec 27 – 29, 31 – Jan 2",
+        "Monday – Thursday, Sunday, 8 a.m. – 7 p.m.",
+        "Friday, 8 a.m. – 2 p.m.",
+        "Dates: Dec 27 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -698,8 +690,10 @@
         "lng": -73.9830629
       },
       "context": [
-        "Monday – Sunday, 8 a.m. – 7 p.m.",
-        "Dates: Dec 27 – Jan 2",
+        "Monday – Thursday, Sunday, 8 a.m. – 7 p.m.",
+        "Friday, 8 a.m. – 2 p.m.",
+        "Dates: Dec 27 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -714,8 +708,10 @@
         "lng": -73.9355487
       },
       "context": [
-        "Monday – Sunday, 8 a.m. – 4 p.m.",
-        "Dates: Dec 27 – Jan 2",
+        "Monday – Thursday, Sunday, 8 a.m. – 7 p.m.",
+        "Friday, 8 a.m. – 2 p.m.",
+        "Dates: Dec 27 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -778,8 +774,10 @@
         "lng": -73.8860973
       },
       "context": [
-        "Monday – Sunday, 8 a.m. – 7 p.m.",
-        "Dates: Dec 27 – Jan 2",
+        "Monday – Thursday, Sunday, 8 a.m. – 7 p.m.",
+        "Friday, 8 a.m. – 2 p.m.",
+        "Dates: Dec 27 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -794,24 +792,10 @@
         "lng": -73.946732
       },
       "context": [
-        "Tuesday – Sunday, 8 a.m. – 7 p.m.",
-        "Dates: Dec 28 – Jan 2",
-        "4 years old and above"
-      ]
-    },
-    {
-      "name": "New Hope Family Worship Center",
-      "address": [
-        "817 Livonia Avenue",
-        "Brooklyn, NY 11207"
-      ],
-      "coordinates": {
-        "lat": 40.6660724,
-        "lng": -73.8860973
-      },
-      "context": [
-        "Monday – Sunday, 8 a.m. – 7 p.m.",
-        "Dates: Dec 27 – Jan 2",
+        "Tuesday – Thursday, Sunday, 8 a.m. – 7 p.m.",
+        "Friday, 8 a.m. – 2 p.m.",
+        "Dates: Dec 28 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -1498,8 +1482,10 @@
         "lng": -73.9313288
       },
       "context": [
-        "Monday – Sunday, 8 a.m. – 7 p.m.",
-        "Dates: Dec 27 – Jan 2",
+        "Monday – Thursday, Sunday, 8 a.m. – 7 p.m.",
+        "Friday, 8 a.m. – 2 p.m.",
+        "Dates: Dec 27 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -1514,8 +1500,10 @@
         "lng": -73.9539246
       },
       "context": [
-        "Monday – Sunday, 8 a.m. – 7 p.m.",
-        "Dates: Dec 27 – Jan 2",
+        "Monday – Thursday, Sunday, 8 a.m. – 7 p.m.",
+        "Friday, 8 a.m. – 2 p.m.",
+        "Dates: Dec 27 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -1974,8 +1962,10 @@
         "lng": -73.7566284
       },
       "context": [
-        "Monday – Sunday, 8 a.m. – 7 p.m.",
-        "Dates: Dec 27 – Jan 2",
+        "Monday – Thursday, Sunday, 8 a.m. – 7 p.m.",
+        "Friday, 8 a.m. – 2 p.m.",
+        "Dates: Dec 27 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -1990,8 +1980,10 @@
         "lng": -73.8632981
       },
       "context": [
-        "Monday – Sunday, 8 a.m. – 7 p.m.",
-        "Dates: Dec 27 – Jan 2",
+        "Monday – Thursday, Sunday, 8 a.m. – 7 p.m.",
+        "Friday, 8 a.m. – 2 p.m.",
+        "Dates: Dec 27 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -2022,8 +2014,10 @@
         "lng": -73.7955024
       },
       "context": [
-        "Monday – Sunday, 8 a.m. – 7 p.m.",
-        "Dates: Dec 27 – Jan 2",
+        "Monday – Thursday, Sunday, 8 a.m. – 7 p.m.",
+        "Friday, 8 a.m. – 2 p.m.",
+        "Dates: Dec 27 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -2038,8 +2032,10 @@
         "lng": -73.8619406
       },
       "context": [
-        "Monday – Sunday, 8 a.m. – 7 p.m.",
-        "Dates: Dec 27 – Jan 2",
+        "Monday – Thursday, Sunday, 8 a.m. – 7 p.m.",
+        "Friday, 8 a.m. – 2 p.m.",
+        "Dates: Dec 27 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -2050,12 +2046,14 @@
         "Queens NY 11371"
       ],
       "coordinates": {
-        "lat": 40.7702565,
-        "lng": -73.8694107
+        "lat": 40.7728753,
+        "lng": -73.87524020000001
       },
       "context": [
-        "Monday – Sunday, 8 a.m. – 7 p.m.",
-        "Dates: Dec 27 – Jan 2",
+        "Monday – Thursday, Sunday, 8 a.m. – 7 p.m.",
+        "Friday, 8 a.m. – 2 p.m.",
+        "Dates: Dec 27 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -2070,8 +2068,10 @@
         "lng": -73.762102
       },
       "context": [
-        "Monday – Sunday, 8 a.m. – 7 p.m.",
-        "Dates: Dec 27 – Jan 2",
+        "Monday – Thursday, Sunday, 8 a.m. – 7 p.m.",
+        "Friday, 8 a.m. – 2 p.m.",
+        "Dates: Dec 27 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -2086,24 +2086,10 @@
         "lng": -73.7799744
       },
       "context": [
-        "Monday – Sunday, 8 a.m. – 7 p.m.",
-        "Dates: Dec 27 – Jan 2",
-        "4 years old and above"
-      ]
-    },
-    {
-      "name": "John F. Kennedy Airport",
-      "address": [
-        "Located next to Terminal 5 Airtrain Station,",
-        "Queens, NY 11430"
-      ],
-      "coordinates": {
-        "lat": 40.6474925,
-        "lng": -73.7799744
-      },
-      "context": [
-        "Monday – Sunday, 8 a.m. – 7 p.m.",
-        "Dates: Dec 27 – Jan 2",
+        "Monday – Thursday, Sunday, 8 a.m. – 7 p.m.",
+        "Friday, 8 a.m. – 2 p.m.",
+        "Dates: Dec 27 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -2118,8 +2104,10 @@
         "lng": -73.9104811
       },
       "context": [
-        "Monday – Sunday, 8 a.m. – 7 p.m.",
-        "Dates: Dec 27 – Jan 2",
+        "Monday – Thursday, Sunday, 8 a.m. – 7 p.m.",
+        "Friday, 8 a.m. – 2 p.m.",
+        "Dates: Dec 27 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -2150,8 +2138,10 @@
         "lng": -73.7779017
       },
       "context": [
-        "Monday – Sunday, 8 a.m. – 7 p.m.",
-        "Dates: Dec 27 – Jan 2",
+        "Monday – Thursday, Sunday, 8 a.m. – 7 p.m.",
+        "Friday, 8 a.m. – 2 p.m.",
+        "Dates: Dec 27 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -2182,8 +2172,10 @@
         "lng": -73.74694439999999
       },
       "context": [
-        "Friday – Sunday, 8 a.m. – 6 p.m.",
-        "Dates: Dec 31 – Jan 2",
+        "Friday, 8 a.m. – 2 p.m.",
+        "Sunday, 8 a.m. – 6 p.m.",
+        "Dates: Dec 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -2486,8 +2478,8 @@
         "Jamaica, New York 11432"
       ],
       "coordinates": {
-        "lat": 40.717309,
-        "lng": -73.80440469999999
+        "lat": 40.7169282,
+        "lng": -73.8045894
       },
       "context": [
         "Monday – Thursday, Sunday, 7 a.m. – 7 p.m.",
@@ -2764,8 +2756,8 @@
         "lng": -73.89513099999999
       },
       "context": [
-        "Friday, 10:30 a.m. – 5:30 p.m.",
-        "Dates: Dec 31",
+        "Friday – Sunday, 10:30 a.m. – 5:30 p.m.",
+        "Dates: Dec 31 – Jan 2",
         "4 years old and above"
       ]
     },
@@ -2780,8 +2772,10 @@
         "lng": -74.1900464
       },
       "context": [
-        "Monday – Sunday, 8 a.m. – 7 p.m.",
-        "Dates: Dec 27 – Jan 2",
+        "Monday – Thursday, Sunday, 8 a.m. – 7 p.m.",
+        "Friday, 8 a.m. – 2 p.m.",
+        "Dates: Dec 27 – 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -2812,8 +2806,10 @@
         "lng": -74.11077379999999
       },
       "context": [
-        "Friday – Sunday, 8 a.m. – 7 p.m.",
-        "Dates: Dec 31 – Jan 2",
+        "Friday, 8 a.m. – 2 p.m.",
+        "Sunday, 8 a.m. – 7 p.m.",
+        "Dates: Dec 31, Jan 2",
+        "We will be CLOSED on New Year’s Day",
         "4 years old and above"
       ]
     },
@@ -2915,7 +2911,7 @@
         "lng": -74.0725489
       },
       "context": [
-        "Monday – Sunday, 9 a.m. – 7 p.m.",
+        "Monday – Thursday, Sunday, 9 a.m. – 7 p.m.",
         "We will be CLOSED on December 31st and January 1st",
         "Rapid Molecular Testing Available Here",
         "Pre-register for your visit"
