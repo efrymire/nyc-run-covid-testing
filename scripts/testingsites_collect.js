@@ -1,9 +1,11 @@
 const axios = require("axios");
 const cheerio = require("cheerio");
+const cliProgress = require('cli-progress');
 const fs = require("fs")
 require('dotenv').config();
 
 const url = "https://www.nychealthandhospitals.org/covid-19-testing-sites/";
+let progress;
 
 async function scrapeData() {
   try {
@@ -13,25 +15,23 @@ async function scrapeData() {
     const $ = cheerio.load(data);
     // Select all the list items in plainlist class
     const elements = $("p.m-b-20");
-    // console.log('elements :>> ', elements);
 
-    Promise.all(
-      elements.map((_, el) => {
-        return formatLocReturnPromise($(el))
+    console.log(`LOG | Scraping ${elements.length} items...`)
+    Promise.all(elements.map((_, el) => $(el).text())) // asynchronously scrape details
+      .then((data) => synchronousPromiseAll(data, geocodeLocation)) // synchronously get coordinates to stay under query limit (rather than asynchronous)
+      .then((centers) => {  // write all data to a file
+        const data = ({
+          timestamp: new Date(),
+          centers,
+        })
+        fs.writeFile("data/centers.json", JSON.stringify(data, null, 2), (err) => {
+          if (err) {
+            console.error(err);
+            return;
+          }
+          console.log("LOG | Successfully written data to file");
+        });
       })
-    ).then((centers) => {
-      const data = ({
-        timestamp: new Date(),
-        centers,
-      })
-      fs.writeFile("data/centers.json", JSON.stringify(data, null, 2), (err) => {
-        if (err) {
-          console.error(err);
-          return;
-        }
-        console.log("Successfully written data to file");
-      });
-    })
 
   } catch (err) {
     console.error(err);
@@ -40,9 +40,33 @@ async function scrapeData() {
 // Invoke the above function
 scrapeData();
 
-function formatLocReturnPromise(el) {
+// src: https://stackoverflow.com/questions/29880715/how-to-synchronize-a-sequence-of-promises
+function synchronousPromiseAll(array, fn) {
 
-  const location = el.text().trim()
+  console.log(`LOG | Beginning geocode of ${array.length} items...`)
+  progress = new cliProgress.SingleBar({}, cliProgress.Presets.shades_classic);
+  progress.start(array.length, 1)
+
+  let results = [];
+  return array.reduce(function(p, item, i, all) {
+      return p.then(function() {
+          return fn(item, i, all).then(function(data) {
+              results.push(data);
+              return results;
+          });
+      });
+  }, Promise.resolve());
+}
+
+function geocodeLocation(item, index, all) {
+  
+  const num = index + 1
+  progress.update(num);
+  if (num === all.length) {
+    progress.stop();
+  } 
+
+  const location = item.trim()
     .replace(/\t/g, '')
     .split(/\n/g);
 
@@ -60,7 +84,7 @@ function formatLocReturnPromise(el) {
     .then(res => res.data)
     .then(json => {
       if (json.results.length === 0) {
-        console.log("error:", json)
+        console.log("ERROR | ", json)
         return null
       } else {
       }
