@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-01-03T17:13:03.969Z",
+  "timestamp": "2022-01-04T23:32:43.920Z",
   "centers": [
     {
       "name": "Stars and Stripes Playground",
@@ -248,8 +248,8 @@
         "Bronx, NY 10466"
       ],
       "coordinates": {
-        "lat": 40.8876756,
-        "lng": -73.8586301
+        "lat": 40.8880563,
+        "lng": -73.8586368
       },
       "context": [
         "Sunday, 8 a.m. – 7 p.m.",
@@ -483,6 +483,23 @@
       ]
     },
     {
+      "name": "South Bronx",
+      "address": [
+        "Corner of 147th & Willis Ave",
+        "Bronx, NY 10455"
+      ],
+      "coordinates": {
+        "lat": 40.8447819,
+        "lng": -73.8648268
+      },
+      "context": [
+        "Tuesday – Wednesday, 11 a.m. – 7 p.m.",
+        "Dates: Jan 4 – 5",
+        "PCR and Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
       "name": "NYC Health + Hospitals/Gotham Health, Belvis",
       "address": [
         "545 East 142nd Street",
@@ -493,8 +510,7 @@
         "lng": -73.9157383
       },
       "context": [
-        "Monday – Thursday, Sunday, 7 a.m. – 7 p.m.",
-        "Friday, 7 a.m. – 1 p.m.",
+        "Monday – Sunday, 7 a.m. – 7 p.m.",
         "844-NYC-4NYC",
         "COVID-19 Testing and Antibody Testing Offered Here",
         "Pre-register for your visit"
@@ -546,8 +562,7 @@
         "lng": -73.9202294
       },
       "context": [
-        "Monday – Thursday, Sunday, 7 a.m. – 7 p.m.",
-        "Friday, 7 a.m. – 1 p.m.",
+        "Monday – Sunday, 7 a.m. – 7 p.m.",
         "844-NYC-4NYC",
         "COVID-19 Testing and Antibody Testing Offered Here",
         "Pre-register for your visit"
@@ -584,26 +599,23 @@
       },
       "context": [
         "Appointments:",
-        "Monday – Thursday, 7 a.m. – 7 p.m.",
-        "Friday, 7 a.m. – 1 p.m.",
+        "Monday – Friday, 7 a.m. – 7 p.m.",
         "COVID-19 Testing and Antibody Testing Offered Here"
       ]
     },
     {
       "name": "Walton Educational School",
       "address": [
-        "2780 Reservoir Ave",
-        "Bronx, NY 10468"
+        "(Testing on 196th & Jerome Avenue)",
+        "2780 Reservoir Ave"
       ],
       "coordinates": {
         "lat": 40.8706673,
         "lng": -73.897646
       },
       "context": [
-        "Sunday – Thursday, 7:30 a.m. – 7 p.m.",
-        "Friday, 7:30 a.m. – 4 p.m.",
-        "Closed Saturday",
-        "Dates: Dec 24; Dec 26 – 31",
+        "Bronx, NY 10468",
+        "Sunday – Monday, 7:30 a.m. – 7 p.m.",
         "PCR Testing Available Here",
         "4 years old and above"
       ]
@@ -619,8 +631,8 @@
         "lng": -73.8284493
       },
       "context": [
-        "Monday – Thursday, 11 a.m. – 7 p.m.",
-        "Dates: Dec 27 – 30",
+        "Monday – Friday, 11 a.m. – 7 p.m.",
+        "Saturday – Sunday, 11 a.m. – 6 p.m.",
         "Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -638,9 +650,121 @@
       "context": [
         "Monday – Friday, 8:30 a.m. – 8:30 p.m.",
         "Saturday, 8:30 a.m. – 3:30 p.m.",
-        "Closed Sundays. Closed December 31st and January 1st",
+        "Closed Sundays",
         "PCR Testing Available Here",
         "4 years old and above"
+      ]
+    },
+    {
+      "name": "Andrew Jackson Senior Center",
+      "address": [
+        "325 E 156th Street",
+        "Bronx, NY 10451"
+      ],
+      "coordinates": {
+        "lat": 40.8215263,
+        "lng": -73.9176497
+      },
+      "context": [
+        "Monday – Friday, 8 a.m. – 4 p.m.",
+        "PCR Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Immaculate Conception",
+      "address": [
+        "378 East 151st Street",
+        "Bronx, NY 10455"
+      ],
+      "coordinates": {
+        "lat": 40.8176118,
+        "lng": -73.91789829999999
+      },
+      "context": [
+        "Monday – Friday, 9 a.m. – 2 p.m.",
+        "PCR Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "St Anthony of Padua",
+      "address": [
+        "832 E 166th Street",
+        "Bronx, NY 10459"
+      ],
+      "coordinates": {
+        "lat": 40.8256342,
+        "lng": -73.8997215
+      },
+      "context": [
+        "Monday – Friday, 9 a.m. – 2 p.m.",
+        "PCR Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Caridad Restaurant",
+      "address": [
+        "135 W Kingsbridge Rd",
+        "Bronx, NY 10468"
+      ],
+      "coordinates": {
+        "lat": 40.8694029,
+        "lng": -73.9030902
+      },
+      "context": [
+        "Monday – Friday, 9 a.m. – 2 p.m.",
+        "PCR Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "White Plains Road",
+      "address": [
+        "2184 White plains Rd",
+        "Bronx, NY 10462"
+      ],
+      "coordinates": {
+        "lat": 40.8560005,
+        "lng": -73.86731309999999
+      },
+      "context": [
+        "Friday, Sunday, 10 a.m. – 7 p.m.",
+        "PCR Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Jerome Ave",
+      "address": [
+        "3445 Jerome Ave",
+        "Bronx, NY 10467"
+      ],
+      "coordinates": {
+        "lat": 40.8814568,
+        "lng": -73.883093
+      },
+      "context": [
+        "Friday, Sunday, 10 a.m. – 7 p.m.",
+        "PCR Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Crossbronx Expwy",
+      "address": [
+        "1878 Crossbronx Expwy",
+        "Bronx, NY 10472"
+      ],
+      "coordinates": {
+        "lat": 40.8335777,
+        "lng": -73.8631095
+      },
+      "context": [
+        "Monday – Sunday, 8 a.m. – 8 p.m.",
+        "PCR Testing Available Here",
+        "All Ages"
       ]
     },
     {
@@ -1182,8 +1306,8 @@
         "lng": -73.9979369
       },
       "context": [
-        "Monday – Sunday, 9 a.m. – 6 p.m.",
-        "Dates: Jan 3 – 9",
+        "Tuesday – Sunday, 9 a.m. – 6 p.m.",
+        "Dates: Jan 4 – 9",
         "2 years old and above"
       ]
     },
@@ -1254,6 +1378,126 @@
       ]
     },
     {
+      "name": "Lt. Jospeh Petrosino Playground",
+      "address": [
+        "Intersection of 70th St. and New Utrecht Ave.",
+        "Brooklyn, NY 11228"
+      ],
+      "coordinates": {
+        "lat": 40.6191399,
+        "lng": -73.998498
+      },
+      "context": [
+        "Tuesday – Sunday, 9 a.m. – 6 p.m.",
+        "Dates: Jan 4 – 9",
+        "Rapid Antigen Testing Available Here",
+        "2 years old and above"
+      ]
+    },
+    {
+      "name": "Rappaport Playground",
+      "address": [
+        "Intersection of 53rd St. and Fort Hamilton Pkwy",
+        "Brooklyn, NY 11219"
+      ],
+      "coordinates": {
+        "lat": 40.636919,
+        "lng": -74.00067899999999
+      },
+      "context": [
+        "Tuesday – Sunday, 9 a.m. – 6 p.m.",
+        "Dates: Jan 4 – 9",
+        "Rapid Antigen Testing Available Here",
+        "2 years old and above"
+      ]
+    },
+    {
+      "name": "Harmony Park",
+      "address": [
+        "Intersection of Troy Ave. and Atlantic Ave.",
+        "Brooklyn, NY 11213"
+      ],
+      "coordinates": {
+        "lat": 40.67781799999999,
+        "lng": -73.93443990000002
+      },
+      "context": [
+        "Tuesday – Sunday, 9 a.m. – 6 p.m.",
+        "Dates: Jan 4 – 9",
+        "Rapid Antigen Testing Available Here",
+        "2 years old and above"
+      ]
+    },
+    {
+      "name": "Clarkson Ave. Hub",
+      "address": [
+        "490 Clarkson Ave.",
+        "Brooklyn, NY 11203"
+      ],
+      "coordinates": {
+        "lat": 40.6555296,
+        "lng": -73.9438557
+      },
+      "context": [
+        "Tuesday – Sunday, 9 a.m. – 6 p.m.",
+        "Dates: Jan 4 – 9",
+        "Rapid Antigen Testing Available Here",
+        "2 years old and above"
+      ]
+    },
+    {
+      "name": "Fort Greene Park",
+      "address": [
+        "CTS Mobile Testing Unit",
+        "121 Dekalb ave"
+      ],
+      "coordinates": {
+        "lat": 40.6914322,
+        "lng": -73.975246
+      },
+      "context": [
+        "Brooklyn, NY 11201",
+        "Tuesday – Friday, 9 a.m. – 6 p.m.",
+        "Dates: Jan 4 – 7",
+        "Rapid Antigen Testing Available Here",
+        "2 years old and above"
+      ]
+    },
+    {
+      "name": "Samuel N. Bennerson 2nd Playground",
+      "address": [
+        "200 W 64th St.",
+        "Brooklyn, NY 10023"
+      ],
+      "coordinates": {
+        "lat": 40.7737924,
+        "lng": -73.986955
+      },
+      "context": [
+        "Tuesday – Sunday, 9 a.m. – 6 p.m.",
+        "Dates: Jan 4 – 9",
+        "Rapid Antigen Testing Available Here",
+        "2 years old and above"
+      ]
+    },
+    {
+      "name": "Morningside Park",
+      "address": [
+        "Intersection of 113th and Morningside Drive",
+        "Brooklyn, NY 10026"
+      ],
+      "coordinates": {
+        "lat": 40.8060712,
+        "lng": -73.9585391
+      },
+      "context": [
+        "Wednesday – Sunday, 9 a.m. – 6 p.m.",
+        "Dates: Jan 5 – 9",
+        "Rapid Antigen Testing Available Here",
+        "2 years old and above"
+      ]
+    },
+    {
       "name": "NYC Health + Hospitals/Coney Island",
       "address": [
         "2601 Ocean Parkway",
@@ -1286,8 +1530,7 @@
         "lng": -73.9764879
       },
       "context": [
-        "Monday – Thursday, Sunday, 7 a.m. – 7 p.m.",
-        "Friday, 7 a.m. – 1 p.m.",
+        "Monday – Sunday, 7 a.m. – 7 p.m.",
         "844-NYC-4NYC",
         "COVID-19 Testing and Antibody Testing Offered Here",
         "Pre-register for your visit"
@@ -1304,8 +1547,7 @@
         "lng": -73.8952429
       },
       "context": [
-        "Monday – Thursday, Sunday, 7 a.m. – 7 p.m.",
-        "Friday, 7 a.m. – 1 p.m.",
+        "Monday – Sunday, 7 a.m. – 7 p.m.",
         "844-NYC-4NYC",
         "COVID-19 Testing and Antibody Testing Offered Here",
         "Pre-register for your visit"
@@ -1318,8 +1560,8 @@
         "451 Clarkson Avenue"
       ],
       "coordinates": {
-        "lat": 40.6565443,
-        "lng": -73.9430201
+        "lat": 40.6568816,
+        "lng": -73.94470749999999
       },
       "context": [
         "Brooklyn, New York 11203",
@@ -1407,8 +1649,7 @@
         "lng": -73.9655327
       },
       "context": [
-        "Monday – Thursday, Sunday, 7 a.m. – 7 p.m.",
-        "Friday, 7 a.m. – 1 p.m.",
+        "Monday – Sunday, 7 a.m. – 7 p.m.",
         "844-NYC-4NYC",
         "Rapid Molecular Testing Available Here",
         "Pre-register for your visit"
@@ -1431,24 +1672,6 @@
       ]
     },
     {
-      "name": "Bushwick Educational Campus",
-      "address": [
-        "400 Irving Avenue,",
-        "Brooklyn NY 11237"
-      ],
-      "coordinates": {
-        "lat": 40.696834,
-        "lng": -73.91170079999999
-      },
-      "context": [
-        "Sunday – Thursday, 7 a.m. – 7 p.m.",
-        "Friday, 7 a.m. – 4 p.m.",
-        "Dates: Dec 26 – 31",
-        "PCR Testing Available Here",
-        "4 years old and above"
-      ]
-    },
-    {
       "name": "Brooklyn Public Library – Central Branch",
       "address": [
         "10 Grand Army Plaza (Testing entrance on Eastern parkway side between Grand Army Plaza and Mount Prospect Park)",
@@ -1460,7 +1683,7 @@
       },
       "context": [
         "Monday – Thursday, 11 a.m. – 7 p.m.",
-        "Dates:  Dec 27 – 30",
+        "Friday – Saturday, 10 a.m. -5 p.m.",
         "Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -1476,8 +1699,7 @@
         "lng": -73.8987798
       },
       "context": [
-        "December 27th – December 30th: 7:30 a.m. – 7 p.m.",
-        "December 31st: 7:30 a.m. – 4 p.m.",
+        "Monday – Sunday, 7:30 a.m. – 7 p.m.",
         "PCR Testing Available Here",
         "4 years old and above"
       ]
@@ -1494,7 +1716,6 @@
       },
       "context": [
         "Monday – Friday, 8:30 a.m. – 8:30 p.m.",
-        "Saturday, 8:30 a.m. – 3:30 p.m.",
         "Closed Sundays",
         "PCR Testing Available Here",
         "4 years old and above"
@@ -1511,9 +1732,155 @@
         "lng": -73.9218519
       },
       "context": [
-        "Monday – Thursday, 12 p.m. – 8 p.m.",
-        "Dates: Dec 27 – 30",
+        "Monday – Friday, 12 p.m. – 8 p.m.",
+        "Saturday – Sunday: 12 p.m. – 6 p.m.",
         "Rapid Antigen Testing Available Here"
+      ]
+    },
+    {
+      "name": "Blessed Sacrament",
+      "address": [
+        "198 Euclid Ave,",
+        "Brooklyn, NY 11208"
+      ],
+      "coordinates": {
+        "lat": 40.6837322,
+        "lng": -73.87475529999999
+      },
+      "context": [
+        "Monday – Friday, 9 a.m. – 2 p.m.",
+        "PCR Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "376 Bedford Ave",
+      "address": [
+        "376 Bedford Ave,",
+        "Brooklyn, NY 11249"
+      ],
+      "coordinates": {
+        "lat": 40.7115139,
+        "lng": -73.9633841
+      },
+      "context": [
+        "Monday – Friday, Sunday, 10 a.m. – 7 p.m.",
+        "Closed Saturdays",
+        "PCR Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "10 Montieth Street",
+      "address": [
+        "10 Montieth Street,",
+        "Brooklyn, NY 11206"
+      ],
+      "coordinates": {
+        "lat": 40.7012005,
+        "lng": -73.9357079
+      },
+      "context": [
+        "Monday – Friday, Sunday, 10 a.m. – 7 p.m.",
+        "Closed Saturdays",
+        "PCR Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Barclays Center (Former Modell’s Space)",
+      "address": [
+        "620 Atlantic Avenue",
+        "Brooklyn, NY 11217"
+      ],
+      "coordinates": {
+        "lat": 40.6826465,
+        "lng": -73.97541559999999
+      },
+      "context": [
+        "Monday – Sunday, 11 a.m. – 7 p.m.",
+        "Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "8th Ave",
+      "address": [
+        "5921 8th Ave",
+        "Brooklyn, NY 11220"
+      ],
+      "coordinates": {
+        "lat": 40.6355475,
+        "lng": -74.0092087
+      },
+      "context": [
+        "Monday – Sunday, 8 a.m. – 8 p.m.",
+        "PCR Testing Available Here",
+        "All Ages"
+      ]
+    },
+    {
+      "name": "Flatbush",
+      "address": [
+        "5002 Flatlands Ave",
+        "Brooklyn, NY 11234"
+      ],
+      "coordinates": {
+        "lat": 40.6197853,
+        "lng": -73.9331807
+      },
+      "context": [
+        "Monday – Sunday, 8 a.m. – 8 p.m.",
+        "PCR Testing Available Here",
+        "All Ages"
+      ]
+    },
+    {
+      "name": "Jamaica Avenue",
+      "address": [
+        "43 Jamaica Ave",
+        "Brooklyn, NY 11207"
+      ],
+      "coordinates": {
+        "lat": 40.6781286,
+        "lng": -73.8983416
+      },
+      "context": [
+        "Monday – Sunday, 8 a.m. – 8 p.m.",
+        "PCR Testing Available Here",
+        "All Ages"
+      ]
+    },
+    {
+      "name": "Knickerbocker Ave",
+      "address": [
+        "331 Knickerbocker Ave",
+        "Brooklyn, NY 11237"
+      ],
+      "coordinates": {
+        "lat": 40.7013794,
+        "lng": -73.9223492
+      },
+      "context": [
+        "Monday – Sunday, 8 a.m. – 8 p.m.",
+        "PCR Testing Available Here",
+        "All Ages"
+      ]
+    },
+    {
+      "name": "Eastern Parkway",
+      "address": [
+        "391 Eastern Parkway",
+        "Brooklyn, NY 11216"
+      ],
+      "coordinates": {
+        "lat": 40.6705568,
+        "lng": -73.9554211
+      },
+      "context": [
+        "Monday – Sunday, 8 a.m. – 8 p.m.",
+        "PCR Testing Available Here",
+        "All Ages"
       ]
     },
     {
@@ -1771,11 +2138,11 @@
       "name": "Highbridge Park",
       "address": [
         "On Dyckman St. across from 175 Nagle Ave.",
-        "New York, NY10034"
+        "New York, NY 10034"
       ],
       "coordinates": {
-        "lat": 40.8537599,
-        "lng": -73.9257492
+        "lat": 40.86140109999999,
+        "lng": -73.9242916
       },
       "context": [
         "Monday – Sunday,  8 a.m. – 6 p.m.",
@@ -1788,7 +2155,7 @@
       "name": "J.Hood Wright Park",
       "address": [
         "W. 174th St. and Fort Washington Ave.",
-        "New York, NY"
+        "New York, NY 10033"
       ],
       "coordinates": {
         "lat": 40.8463679,
@@ -1822,7 +2189,7 @@
       "name": "Day of Action: Office of Council Member Diana Ayala",
       "address": [
         "105 E 116th Street",
-        "New York, NY10029"
+        "New York, NY 10029"
       ],
       "coordinates": {
         "lat": 40.7992563,
@@ -1839,7 +2206,7 @@
       "name": "Samuel N. Bennerson 2nd Playground",
       "address": [
         "200 W 64th St.",
-        "New York, NY10023"
+        "New York, NY 10023"
       ],
       "coordinates": {
         "lat": 40.7737924,
@@ -1855,7 +2222,7 @@
     {
       "name": "216 East 14th Street",
       "address": [
-        "New York, NY10003",
+        "New York, NY 10003",
         "Monday – Friday, Sunday,  9 a.m. – 6 p.m."
       ],
       "coordinates": {
@@ -1871,7 +2238,7 @@
     {
       "name": "80 West 125th Street",
       "address": [
-        "New York, NY10027",
+        "New York, NY 10027",
         "Monday – Friday, Sunday,  9 a.m. – 6 p.m."
       ],
       "coordinates": {
@@ -1887,7 +2254,7 @@
     {
       "name": "400 East 23rd Street",
       "address": [
-        "New York, NY10016",
+        "New York, NY 10016",
         "Monday – Friday, Sunday,  9 a.m. – 6 p.m."
       ],
       "coordinates": {
@@ -1903,15 +2270,15 @@
     {
       "name": "45 Beekman Street,",
       "address": [
-        "New York, NY10038",
-        "Monday – Friday, Sunday,  9 a.m. – 6 p.m."
+        "New York, NY 10038",
+        "Tuesday – Friday, Sunday,  9 a.m. – 6 p.m."
       ],
       "coordinates": {
         "lat": 40.7101561,
         "lng": -74.00549579999999
       },
       "context": [
-        "Dates: Jan 3 – 7, 9",
+        "Dates: Jan 4 – 7, 9",
         "Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -1919,7 +2286,7 @@
     {
       "name": "952 2nd Ave",
       "address": [
-        "New York, NY10022",
+        "New York, NY 10022",
         "Monday – Friday, Sunday,  9 a.m. – 6 p.m."
       ],
       "coordinates": {
@@ -1945,6 +2312,74 @@
       "context": [
         "Dates: Jan 3 – 7, 9",
         "Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Penn Station",
+      "address": [
+        "Corner of 8th Avenue & 35th/36th Street",
+        "New York, NY 10018"
+      ],
+      "coordinates": {
+        "lat": 40.750568,
+        "lng": -73.993519
+      },
+      "context": [
+        "Tuesday – Wednesday, 11 a.m. – 7 p.m.",
+        "Dates: Jan 4 – 5",
+        "PCR and Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Port Authority",
+      "address": [
+        "Corner of 42nd St & 8th/9th Avenue",
+        "New York, NY 10036"
+      ],
+      "coordinates": {
+        "lat": 40.7569006,
+        "lng": -73.9902798
+      },
+      "context": [
+        "Tuesday – Wednesday, 11 a.m. – 7 p.m.",
+        "Dates: Jan 4 – 5",
+        "PCR and Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Harlem",
+      "address": [
+        "Corner of 125th & Lexington Ave/Park Ave",
+        "New York, NY 10035"
+      ],
+      "coordinates": {
+        "lat": 40.8043863,
+        "lng": -73.9374292
+      },
+      "context": [
+        "Tuesday – Wednesday, 11 a.m. – 7 p.m.",
+        "Dates: Jan 4 – 5",
+        "PCR and Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Washington Heights",
+      "address": [
+        "Corner of W 180th & Amsterdam Avenue",
+        "New York, NY 10033"
+      ],
+      "coordinates": {
+        "lat": 40.8475035,
+        "lng": -73.9318339
+      },
+      "context": [
+        "Tuesday – Wednesday, 11 a.m. – 7 p.m.",
+        "Dates: Jan 4 – 5",
+        "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
     },
@@ -1994,8 +2429,7 @@
         "lng": -73.98770329999999
       },
       "context": [
-        "Monday – Thursday, Sunday, 7 a.m. – 7 p.m.",
-        "Friday, 7 a.m. – 1 p.m.",
+        "Monday – Sunday, 7 a.m. – 7 p.m.",
         "844-NYC-4NYC",
         "COVID-19 Testing and Antibody Testing Offered Here",
         "Pre-register for your visit"
@@ -2037,21 +2471,150 @@
       ]
     },
     {
-      "name": "Marta Valle Secondary School",
+      "name": "St Elizabeth",
       "address": [
-        "145 Stanton Street",
-        "New York, NY 10002"
+        "268 Wadsworth Ave",
+        "New York, NY 10033"
       ],
       "coordinates": {
-        "lat": 40.7201995,
-        "lng": -73.9860534
+        "lat": 40.8534537,
+        "lng": -73.93270590000002
       },
       "context": [
-        "December 27th – December 30th: 7:30 a.m. – 7 p.m.",
-        "December 31st: 7:30 a.m. – 4 p.m.",
-        "Closed January 1st",
+        "Monday – Friday, 9 a.m. – 2 p.m.",
         "PCR Testing Available Here",
         "4 years old and above"
+      ]
+    },
+    {
+      "name": "St. Jude",
+      "address": [
+        "439 West 204th",
+        "New York, NY 10034"
+      ],
+      "coordinates": {
+        "lat": 40.8628088,
+        "lng": -73.9197698
+      },
+      "context": [
+        "Monday – Friday, 9 a.m. – 2 p.m.",
+        "PCR Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "St. Rose of Lima",
+      "address": [
+        "510 West 165th St",
+        "New York, NY 10032"
+      ],
+      "coordinates": {
+        "lat": 40.8379329,
+        "lng": -73.9392084
+      },
+      "context": [
+        "Monday – Friday, 9 a.m. – 2 p.m.",
+        "PCR Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Congressman Espaillat’s Office",
+      "address": [
+        "720 West 181st St",
+        "New York, NY 10033"
+      ],
+      "coordinates": {
+        "lat": 40.8502935,
+        "lng": -73.9368293
+      },
+      "context": [
+        "Monday – Friday, 9 a.m. – 2 p.m.",
+        "PCR Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "St. Catherine of Genoa Church",
+      "address": [
+        "506 W 153 St",
+        "New York, NY 10031"
+      ],
+      "coordinates": {
+        "lat": 40.8304315,
+        "lng": -73.9445637
+      },
+      "context": [
+        "Monday – Friday, 9 a.m. – 2 p.m.",
+        "PCR Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "3547 Broadway",
+      "address": [
+        "3547 Broadway",
+        "New York, NY 10031"
+      ],
+      "coordinates": {
+        "lat": 40.8268827,
+        "lng": -73.95065439999999
+      },
+      "context": [
+        "Monday – Friday, Sunday, 10 a.m. – 7 p.m.",
+        "Closed Saturdays",
+        "PCR Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Highbridge Rec Center",
+      "address": [
+        "2301 Amsterdam Ave.",
+        "New York, NY 10033"
+      ],
+      "coordinates": {
+        "lat": 40.842804,
+        "lng": -73.93419
+      },
+      "context": [
+        "Tuesday – Friday, 11 a.m. – 7 p.m.",
+        "Saturday, 9:30 a.m. – 2:30 p.m.",
+        "Closed Sundays",
+        "Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "St. Nicholas Ave",
+      "address": [
+        "1314 St. Nicholas Ave,",
+        "New York NY 10033"
+      ],
+      "coordinates": {
+        "lat": 40.84581,
+        "lng": -73.935873
+      },
+      "context": [
+        "Friday, Sunday, 10 a.m. – 7 p.m.",
+        "PCR Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "4257 Broadway",
+      "address": [
+        "4257 Broadway,",
+        "New York NY 10033"
+      ],
+      "coordinates": {
+        "lat": 40.8501086,
+        "lng": -73.93608859999999
+      },
+      "context": [
+        "Monday – Sunday, 8 a.m. – 8 p.m.",
+        "PCR Testing Available Here",
+        "All Ages"
       ]
     },
     {
@@ -2222,8 +2785,8 @@
         "Queens, NY 11368"
       ],
       "coordinates": {
-        "lat": 40.7475054,
-        "lng": -73.8512228
+        "lat": 40.74805509999999,
+        "lng": -73.88282389999999
       },
       "context": [
         "Saturday, 8 a.m. – 6 p.m.",
@@ -2647,21 +3210,6 @@
       ]
     },
     {
-      "name": "Queens Valley Playground",
-      "address": [
-        "Corner of 137 Street & 77 Avenue,",
-        "Flushing NY 11367"
-      ],
-      "coordinates": {
-        "lat": 40.721806,
-        "lng": -73.8238026
-      },
-      "context": [
-        "Monday – Sunday, 7 a.m. – 5 p.m.",
-        "Dates: Jan 3 – 9"
-      ]
-    },
-    {
       "name": "Helen Marshall Playground",
       "address": [
         "100 St & 24th Ave,",
@@ -2695,14 +3243,14 @@
       "name": "22-48 31st Street",
       "address": [
         "Queens, NY 11105",
-        "Monday – Friday, Sunday, 9 a.m. – 6 p.m."
+        "Tuesday – Friday, Sunday, 9 a.m. – 6 p.m."
       ],
       "coordinates": {
         "lat": 40.775315,
         "lng": -73.9122378
       },
       "context": [
-        "Dates: Jan 3 – 8, 9",
+        "Dates: Jan 4 – 8, 9",
         "4 years old and above"
       ]
     },
@@ -2784,14 +3332,66 @@
       ]
     },
     {
+      "name": "Van Alst Playground",
+      "address": [
+        "Intersection of 30th Ave. and 21st St.",
+        "Queens, NY 11102"
+      ],
+      "coordinates": {
+        "lat": 40.7705541,
+        "lng": -73.9283585
+      },
+      "context": [
+        "Tuesday – Sunday, 9 a.m. – 6 p.m.",
+        "Dates: Jan 4 – 9",
+        "Rapid Antigen Testing Available Here",
+        "2 years old and above"
+      ]
+    },
+    {
+      "name": "Queens Hospital",
+      "address": [
+        "CTS Mobile Testing Unit",
+        "82-37 164th street"
+      ],
+      "coordinates": {
+        "lat": 40.7182708,
+        "lng": -73.8033512
+      },
+      "context": [
+        "Queens, NY 11432",
+        "Tuesday – Friday, 9 a.m. – 6 p.m.",
+        "Dates: Jan 4 – 7",
+        "Rapid Antigen Testing Available Here",
+        "2 years old and above"
+      ]
+    },
+    {
+      "name": "Jamaica",
+      "address": [
+        "Corner of Archer Av/Jamaica Av & Sutphin Blvd",
+        "Queens, NY 11435"
+      ],
+      "coordinates": {
+        "lat": 40.700822,
+        "lng": -73.8079243
+      },
+      "context": [
+        "Tuesday – Wednesday, 11 a.m. – 7 p.m.",
+        "Dates: Jan 4 – 5",
+        "PCR and Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
       "name": "NYC Health + Hospitals/Elmhurst",
       "address": [
         "77-04 41st Avenue",
         "Elmhurst, New York 11373"
       ],
       "coordinates": {
-        "lat": 40.7446774,
-        "lng": -73.8860322
+        "lat": 40.7455757,
+        "lng": -73.8866528
       },
       "context": [
         "Monday – Thursday, 7 a.m. – 7 p.m.",
@@ -2832,7 +3432,6 @@
       },
       "context": [
         "Monday – Sunday, 9 a.m. – 7 p.m.",
-        "We will be CLOSED on December 31st and January 1st",
         "Rapid Molecular Testing Available Here",
         "Pre-register for your visit"
       ]
@@ -2848,10 +3447,8 @@
         "lng": -73.87396629999999
       },
       "context": [
-        "Sunday – Thursday, 7 a.m. – 7 p.m.",
-        "Friday, 7 a.m. – 4 p.m.",
-        "Closed Saturday",
-        "Dates: Dec 24; Dec 26 – 31",
+        "(Testing at the Athletic Field at 92-20 56th Ave)",
+        "Monday – Sunday, 7:30 a.m. – 7 p.m.",
         "PCR Testing Available Here",
         "4 years old and above"
       ]
@@ -2867,9 +3464,7 @@
         "lng": -73.8226608
       },
       "context": [
-        "December 27th – December 30th: 7:30 a.m. – 7 p.m.",
-        "December 31st: 7:30 a.m. – 4 p.m.",
-        "Closed January 1st",
+        "Monday – Sunday, 7:30 a.m. – 7 p.m.",
         "PCR Testing Available Here",
         "4 years old and above"
       ]
@@ -2887,9 +3482,88 @@
       "context": [
         "Monday – Wednesday, 8 a.m. – 7 p.m.",
         "Thursday – Sunday 8 a.m. – 4 p.m.",
-        "Closed January 1st",
         "PCR Testing Available Here",
         "4 years old and above"
+      ]
+    },
+    {
+      "name": "Blessed Sacrament",
+      "address": [
+        "34-43 93rd Street",
+        "Queens, NY 11372"
+      ],
+      "coordinates": {
+        "lat": 40.7533088,
+        "lng": -73.87429589999999
+      },
+      "context": [
+        "Tuesday – Friday, 9 a.m. – 2 p.m.",
+        "PCR Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Aliento de Vida",
+      "address": [
+        "1103-12 Roosevelt Ave",
+        "Queens, NY 11368"
+      ],
+      "coordinates": {
+        "lat": 40.7494785,
+        "lng": -73.8622087
+      },
+      "context": [
+        "Monday – Friday, 9 a.m. – 2 p.m.",
+        "PCR Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Assemblywoman Catalina Cruz’s Office",
+      "address": [
+        "4140 Junction Boulevard",
+        "Queens, NY 11368"
+      ],
+      "coordinates": {
+        "lat": 40.746378,
+        "lng": -73.868517
+      },
+      "context": [
+        "Monday – Friday, 9 a.m. – 2 p.m.",
+        "PCR Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Queens Blvd.",
+      "address": [
+        "47-21 Queens Blvd.",
+        "Queens, NY 11104"
+      ],
+      "coordinates": {
+        "lat": 40.743363,
+        "lng": -73.9170202
+      },
+      "context": [
+        "Friday – Sunday, 10 a.m. – 7 p.m.",
+        "PCR Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Sutphin Blvd.",
+      "address": [
+        "90-53 Sutphin Blvd.",
+        "Queens, NY 11435"
+      ],
+      "coordinates": {
+        "lat": 40.7015418,
+        "lng": -73.80767329999999
+      },
+      "context": [
+        "Monday – Sunday, 8 a.m. – 8 p.m.",
+        "PCR Testing Available Here",
+        "All Ages"
       ]
     },
     {
@@ -3142,8 +3816,7 @@
         "lng": -74.0768895
       },
       "context": [
-        "Monday – Thursday, Sunday, 7 a.m. – 7 p.m.",
-        "Friday, 7 a.m. – 1 p.m.",
+        "Monday – Sunday, 7 a.m. – 7 p.m.",
         "844-NYC-4NYC",
         "COVID-19 Testing and Antibody Testing Offered Here",
         "Pre-register for your visit"
@@ -3160,9 +3833,7 @@
         "lng": -74.0687077
       },
       "context": [
-        "Monday – Thursday, 9 a.m. – 7 p.m.",
-        "Friday, 9 a.m. – 2 p.m.",
-        "Sunday, 9 a.m. – 6 p.m.",
+        "Monday – Sunday, 9 a.m. – 7 p.m.",
         "Pre-register for your visit"
       ]
     },
@@ -3209,9 +3880,40 @@
         "lng": -74.13255970000002
       },
       "context": [
-        "Monday – Thursday, 8:30 p.m. – 4:30 p.m.",
-        "Dates: Dec 27 – 30",
+        "Monday – Friday, 8:30 p.m. – 4:30 p.m.",
         "Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Cassidy-Lafayette Senior Center",
+      "address": [
+        "125 Cassidy Place",
+        "Staten Island, NY 10451"
+      ],
+      "coordinates": {
+        "lat": 40.6422563,
+        "lng": -74.0964201
+      },
+      "context": [
+        "Monday – Friday, 8 a.m. – 4 p.m.",
+        "PCR Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Port Richmond High School",
+      "address": [
+        "85 St. Joseph’s Avenue",
+        "Staten Island, NY 10302"
+      ],
+      "coordinates": {
+        "lat": 40.6351288,
+        "lng": -74.142217
+      },
+      "context": [
+        "Monday – Sunday, 7:30 a.m. – 7 p.m.",
+        "PCR Testing Available Here",
         "4 years old and above"
       ]
     },
