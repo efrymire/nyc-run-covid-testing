@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-01-06T15:42:11.662Z",
+  "timestamp": "2022-01-07T14:48:32.253Z",
   "centers": [
     {
       "name": "Stars and Stripes Playground",
@@ -88,8 +88,8 @@
         "Bronx, NY 10456"
       ],
       "coordinates": {
-        "lat": 40.8291252,
-        "lng": -73.9031205
+        "lat": 40.828712,
+        "lng": -73.90346749999999
       },
       "context": [
         "Thursday, 11 a.m. – 9 p.m.",
@@ -152,8 +152,8 @@
         "Bronx, NY 10473"
       ],
       "coordinates": {
-        "lat": 40.8164824,
-        "lng": -73.8443645
+        "lat": 40.8164714,
+        "lng": -73.84435049999999
       },
       "context": [
         "Monday, 5 a.m. – 2 p.m.",
@@ -444,7 +444,8 @@
         "lng": -73.89777269999999
       },
       "context": [
-        "Sunday – Friday, 10a.m. -7p.m.",
+        "Sunday – Friday, 10 a.m. – 7 p.m.",
+        "Wednesday, 12:00 p.m – 5:00 p.m.",
         "Closed Saturday",
         "Dates: Jan 3 – 7, Jan 9",
         "All ages"
@@ -462,6 +463,7 @@
       },
       "context": [
         "Monday – Wedenesday, Friday, Sunday, 7 a.m. – 5 p.m.",
+        "Wednesday, 12:00 p.m – 5:00 p.m.",
         "Closed Thursday",
         "Dates: Jan 3 – 7, Jan 9",
         "All ages"
@@ -548,8 +550,42 @@
         "lng": -73.88913409999999
       },
       "context": [
-        "Monday – Sunday, 9:00am to 6p.m.",
+        "Monday – Sunday, 9:00 a.m to 6 p.m.",
         "Dates: Jan. 6 – 16",
+        "Antigen Testing Available Here",
+        "2 years old and above"
+      ]
+    },
+    {
+      "name": "Bufano Park",
+      "address": [
+        "Intersection of Waterbury and Bradford",
+        "Bronx, NY10461"
+      ],
+      "coordinates": {
+        "lat": 40.8381348,
+        "lng": -73.83106269999999
+      },
+      "context": [
+        "Monday – Sunday, 9 a.m – 6 p.m",
+        "Dates: Jan. 6 – 9",
+        "Antigen Testing Available Here",
+        "2 years old and above"
+      ]
+    },
+    {
+      "name": "Joyce Kilmer Park",
+      "address": [
+        "Intersection of Grand Concourse and E 161st",
+        "Bronx, NY10452"
+      ],
+      "coordinates": {
+        "lat": 40.8286949,
+        "lng": -73.9224792
+      },
+      "context": [
+        "Monday – Sunday, 9 a.m – 6 p.m",
+        "Dates: Jan. 6 – 9",
         "Antigen Testing Available Here",
         "2 years old and above"
       ]
@@ -768,7 +804,8 @@
         "lng": -73.86731309999999
       },
       "context": [
-        "Sunday – Friday, 10a.m. -7p.m.",
+        "Sunday – Friday, 10 a.m. – 7 p.m.",
+        "Wednesday, 11:00 p.m – 7:00 p.m.",
         "Closed Saturday",
         "PCR Testing Available Here",
         "4 years old and above"
@@ -785,6 +822,7 @@
         "lng": -73.883093
       },
       "context": [
+        "Wednesday, 11:00 p.m – 7:00 p.m.",
         "Friday, Sunday, 10 a.m. – 7 p.m.",
         "PCR Testing Available Here",
         "4 years old and above"
@@ -942,8 +980,8 @@
         "Brooklyn, NY 11216"
       ],
       "coordinates": {
-        "lat": 40.6804226,
-        "lng": -73.945996
+        "lat": 40.6803995,
+        "lng": -73.9461432
       },
       "context": [
         "Monday – Sunday, 8 a.m. – 7 p.m.",
@@ -1674,6 +1712,57 @@
       ]
     },
     {
+      "name": "PFC Norton Playground",
+      "address": [
+        "Intersection Nostrand Ave. and Marine Pkwy",
+        "Brooklyn11229"
+      ],
+      "coordinates": {
+        "lat": 40.6147023,
+        "lng": -73.944969
+      },
+      "context": [
+        "Monday – Sunday,  9 a.m – 6 p.m",
+        "Dates: Jan. 6 – 9",
+        "Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Osborn Playground",
+      "address": [
+        "Intersection of Hegeman Ave. and Osborn St.",
+        "Brooklyn, NY11212"
+      ],
+      "coordinates": {
+        "lat": 40.655635,
+        "lng": -73.9059821
+      },
+      "context": [
+        "Monday – Sunday, 9 a.m – 6 p.m",
+        "Dates: Jan. 6 – 9",
+        "Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Stroud Playground",
+      "address": [
+        "On Park Pl, between Grand and Glasson Ave.",
+        "Brooklyn, NY11238"
+      ],
+      "coordinates": {
+        "lat": 40.6750757,
+        "lng": -73.9621417
+      },
+      "context": [
+        "Monday – Sunday, 9 a.m – 6 p.m",
+        "Dates: Jan. 6 – 9",
+        "Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
       "name": "NYC Health + Hospitals/Coney Island",
       "address": [
         "2601 Ocean Parkway",
@@ -1941,6 +2030,7 @@
       },
       "context": [
         "Sunday – Friday, 10 a.m. – 7 p.m.",
+        "Wednesday, 11:00 p.m – 7:00 p.m.",
         "Closed Saturdays",
         "PCR Testing Available Here",
         "4 years old and above"
@@ -1958,6 +2048,7 @@
       },
       "context": [
         "Sunday – Friday, 10 a.m. – 7 p.m.",
+        "Wednesday, 11:00 p.m – 7:00 p.m.",
         "Closed Saturdays",
         "PCR Testing Available Here",
         "4 years old and above"
@@ -2071,6 +2162,7 @@
       },
       "context": [
         "Sunday – Friday, 10 a.m. – 7 p.m.",
+        "Wednesday, 11:00 p.m – 7:00 p.m.",
         "Closed Saturday",
         "PCR Testing Available Here",
         "4 years old and above"
@@ -2137,6 +2229,23 @@
       "context": [
         "Monday, 8 a.m. – 4 p.m.",
         "Dates: Jan 3",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Antioch Baptist Church",
+      "address": [
+        "826 Greene Ave",
+        "Brooklyn, NY 11221"
+      ],
+      "coordinates": {
+        "lat": 40.6900555,
+        "lng": -73.93506359999999
+      },
+      "context": [
+        "Sunday, 10:30am-5:30pm",
+        "Dates: Jan 9",
+        "PCR Testing Available Here",
         "4 years old and above"
       ]
     },
@@ -2368,11 +2477,12 @@
         "New York, NY"
       ],
       "coordinates": {
-        "lat": 40.8174689,
-        "lng": -73.94874759999999
+        "lat": 40.8137413,
+        "lng": -73.9508867
       },
       "context": [
         "Tuesday – Sunday,  9 a.m. – 6 p.m.",
+        "Wednesday, 11:00 p.m – 7:00 p.m.",
         "Dates: Jan 4 – 9",
         "Rapid Antigen Testing Available Here",
         "4 years old and above"
@@ -2460,22 +2570,6 @@
         "Friday,  8 a.m. – 3 p.m.",
         "Dates: Jan 3 – 7",
         "PCR, Rapid Antigen and Flu Testing Available Here",
-        "4 years old and above"
-      ]
-    },
-    {
-      "name": "45 Beekman Street,",
-      "address": [
-        "New York, NY 10038",
-        "Tuesday – Friday, Sunday,  9 a.m. – 6 p.m."
-      ],
-      "coordinates": {
-        "lat": 40.7101561,
-        "lng": -74.00549579999999
-      },
-      "context": [
-        "Dates: Jan 4 – 7, 9",
-        "Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
     },
@@ -2648,6 +2742,57 @@
         "Friday 8:00 a.m. – 3:00 p.m.",
         "Dates: Jan 6-7",
         "PCR, Rapid Antigen, & Flu Testing Available Here",
+        "2 years old and above"
+      ]
+    },
+    {
+      "name": "Randalls IslandIcahn",
+      "address": [
+        "Stadium Parking Lot",
+        "Manhattan, NY10035"
+      ],
+      "coordinates": {
+        "lat": 40.7932271,
+        "lng": -73.92128579999999
+      },
+      "context": [
+        "Monday – Sunday, 9 a.m – 6 p.m",
+        "Dates: Jan 6 – 9",
+        "Rapid Antigen Testing Available Here",
+        "2 years old and above"
+      ]
+    },
+    {
+      "name": "Howard Bennett Playground",
+      "address": [
+        "On W. 135th between 5th ave. and Malcolm X Blvd",
+        "Manhattan, NY10037"
+      ],
+      "coordinates": {
+        "lat": 40.8135525,
+        "lng": -73.93861559999999
+      },
+      "context": [
+        "Monday – Sunday, 9 a.m – 6 p.m",
+        "Dates: Jan 6 – 9",
+        "Rapid Antigen Testing Available Here",
+        "2 years old and above"
+      ]
+    },
+    {
+      "name": "Mae Grant Playground",
+      "address": [
+        "On E. 104th St. between Madison and Park Ave.",
+        "Manhattan, NY10029"
+      ],
+      "coordinates": {
+        "lat": 40.8140538,
+        "lng": -73.9348394
+      },
+      "context": [
+        "Monday – Sunday, 9am – 6pm",
+        "Dates: Jan 6 – 9",
+        "Rapid Antigen Testing Available Here",
         "2 years old and above"
       ]
     },
@@ -2831,6 +2976,7 @@
       },
       "context": [
         "Sunday – Friday, 10 a.m. – 7 p.m.",
+        "Wednesday, 11:00 p.m – 7:00 p.m.",
         "Closed Saturdays",
         "PCR Testing Available Here",
         "4 years old and above"
@@ -2899,6 +3045,7 @@
       },
       "context": [
         "Sunday – Friday, 10 a.m. – 7 p.m.",
+        "Wednesday, 11:00 p.m – 7:00 p.m.",
         "Closed Saturday",
         "PCR Testing Available Here",
         "4 years old and above"
@@ -2916,6 +3063,7 @@
       },
       "context": [
         "Sunday – Friday, 10a.m. -7p.m.",
+        "Wednesday, 11:00 p.m – 7:00 p.m.",
         "Closed Saturday",
         "PCR Testing Available Here",
         "4 years old and above"
@@ -3526,6 +3674,7 @@
       },
       "context": [
         "Monday – Friday, Sunday, 7 a.m. – 5 p.m.",
+        "Wednesday, 12:00 p.m – 5:00 p.m.",
         "Dates: Jan 3 – 7, Jan 9",
         "All Ages"
       ]
@@ -3542,6 +3691,7 @@
       },
       "context": [
         "Monday – Friday, Sunday, 7 a.m. – 5 p.m.",
+        "Wednesday, 12:00 p.m – 5:00 p.m.",
         "Dates: Jan 3 – 7, Jan 9",
         "All Ages"
       ]
@@ -3558,23 +3708,9 @@
       },
       "context": [
         "Monday – Friday, Sunday, 7 a.m. – 5 p.m.",
+        "Wednesday, 12:00 p.m – 5:00 p.m.",
         "Dates: Jan 3 – 7, Jan 9",
         "All Ages"
-      ]
-    },
-    {
-      "name": "22-48 31st Street",
-      "address": [
-        "Queens, NY 11105",
-        "Tuesday – Friday, Sunday, 9 a.m. – 6 p.m."
-      ],
-      "coordinates": {
-        "lat": 40.775315,
-        "lng": -73.9122378
-      },
-      "context": [
-        "Dates: Jan 4 – 8, 9",
-        "4 years old and above"
       ]
     },
     {
@@ -3789,7 +3925,8 @@
         "lng": -73.8238026
       },
       "context": [
-        "Wednesday – Friday, 7 a.m. – 5 p.m.",
+        "Wednesday, 12:00 p.m – 5:00 p.m.",
+        "Thursday – Friday, 7 a.m. – 5 p.m.",
         "Dates: Jan 5 – 7",
         "PCR Testing Available Here",
         "All Ages"
@@ -3826,6 +3963,40 @@
       "context": [
         "Monday – Sunday 9:00am to 6p.m.",
         "Dates: Jan. 6 – 16",
+        "Rapid Antigen Testing Available Here",
+        "2 years old and above"
+      ]
+    },
+    {
+      "name": "Howard Van Dohlen Skate Park",
+      "address": [
+        "Intersection of 91st Ave. and 138th St.",
+        "Queens, NY11435"
+      ],
+      "coordinates": {
+        "lat": 40.6996426,
+        "lng": -73.8130718
+      },
+      "context": [
+        "Monday – Sunday, 9 a.m. – 6 p.m.",
+        "Dates: Jan. 6 – 9",
+        "Rapid Antigen Testing Available Here",
+        "2 years old and above"
+      ]
+    },
+    {
+      "name": "Forrest Park – Sobelsohn",
+      "address": [
+        "PlaygroundIntersection of Union Turnpike and Park Lane South",
+        "Queens, NY11418"
+      ],
+      "coordinates": {
+        "lat": 40.7094983,
+        "lng": -73.8360962
+      },
+      "context": [
+        "Monday – Sunday, 9 a.m. – 6 p.m.",
+        "Dates: Jan. 6 – 9",
         "Rapid Antigen Testing Available Here",
         "2 years old and above"
       ]
@@ -3993,6 +4164,7 @@
       },
       "context": [
         "Sunday – Friday, 10 a.m. – 7 p.m.",
+        "Wednesday, 11:00 p.m – 7:00 p.m.",
         "Closed Saturday",
         "PCR Testing Available Here",
         "4 years old and above"
