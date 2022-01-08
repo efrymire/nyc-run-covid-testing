@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-01-07T14:48:32.253Z",
+  "timestamp": "2022-01-08T18:23:29.814Z",
   "centers": [
     {
       "name": "Stars and Stripes Playground",
@@ -88,8 +88,8 @@
         "Bronx, NY 10456"
       ],
       "coordinates": {
-        "lat": 40.828712,
-        "lng": -73.90346749999999
+        "lat": 40.8291252,
+        "lng": -73.9031205
       },
       "context": [
         "Thursday, 11 a.m. – 9 p.m.",
@@ -481,8 +481,8 @@
       },
       "context": [
         "Monday – Thursday,  9 a.m. – 6 p.m.",
-        "Friday,  8 a.m. – 3 p.m.",
-        "Dates: Jan 3 – 7",
+        "Dates: Jan 3 – 6",
+        "Closed Friday",
         "PCR, Rapid Antigen and Flu Testing Available Here",
         "4 years old and above"
       ]
@@ -516,8 +516,8 @@
       },
       "context": [
         "Monday – Thursday, 9 a.m. – 6 p.m.",
-        "Friday, 8 a.m. – 3 p.m.",
-        "Dates: Jan 3 – 7",
+        "Dates: Jan 3 – 6",
+        "Closed Friday",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -740,8 +740,8 @@
         "lng": -73.9176497
       },
       "context": [
-        "Monday – Friday, 8 a.m. – 4 p.m.",
-        "PCR Testing Available Here",
+        "Monday – Friday, 8:30 a.m. – 4 p.m.",
+        "Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
     },
@@ -788,7 +788,8 @@
         "lng": -73.9030902
       },
       "context": [
-        "Monday – Friday, 9 a.m. – 2 p.m.",
+        "Monday – Thursday, 9 a.m. – 2 p.m.",
+        "Closed Friday",
         "PCR Testing Available Here",
         "4 years old and above"
       ]
@@ -855,7 +856,8 @@
         "lng": -73.84963669999999
       },
       "context": [
-        "Monday – Friday,  9:00a.m. -2:00p.m.",
+        "Monday – Thursday,  9:00a.m. -2:00p.m.",
+        "Closed Friday",
         "PCR Testing Available Here",
         "4 years old and above"
       ]
@@ -883,8 +885,8 @@
         "Bronx, NY 10457"
       ],
       "coordinates": {
-        "lat": 40.84188820000001,
-        "lng": -73.8984396
+        "lat": 40.8420144,
+        "lng": -73.8982913
       },
       "context": [
         "Monday, 10 a.m. – 5 p.m.",
@@ -1481,8 +1483,8 @@
       },
       "context": [
         "Monday – Thursday,  9 a.m. – 6 p.m.",
-        "Friday,  8 a.m. – 3 p.m.",
-        "Dates: Jan 3 – 7",
+        "Dates: Jan 3 – 6",
+        "Closed Friday",
         "PCR, Rapid Antigen and Flu Testing Available Here",
         "4 years old and above"
       ]
@@ -1572,25 +1574,7 @@
         "2 years old and above"
       ]
     },
-    {
-      "name": "Fort Greene Park",
-      "address": [
-        "CTS Mobile Testing Unit",
-        "121 Dekalb ave"
-      ],
-      "coordinates": {
-        "lat": 40.6914322,
-        "lng": -73.975246
-      },
-      "context": [
-        "Brooklyn, NY 11201",
-        "Monday – Thursday,  9 a.m. – 6 p.m.",
-        "Friday,  8 a.m. – 3 p.m.",
-        "Dates: Jan 3 – 7",
-        "PCR, Rapid Antigen and Flu Testing Available Here",
-        "4 years old and above"
-      ]
-    },
+    null,
     {
       "name": "Samuel N. Bennerson 2nd Playground",
       "address": [
@@ -1653,8 +1637,8 @@
       },
       "context": [
         "Monday – Thursday, 9 a.m. – 6 p.m.",
-        "Friday, 8 a.m. – 3 p.m.",
-        "Dates: Jan 5 – 7",
+        "Dates: Jan 5 – 6",
+        "Closed Friday",
         "PCR, Rapid Antigen and Flu Testing Available Here",
         "4 years old and above"
       ]
@@ -1671,8 +1655,8 @@
       },
       "context": [
         "Monday – Thursday, 9 a.m. – 6 p.m.",
-        "Friday, 8 a.m. – 3 p.m.",
-        "Dates: Jan 5 – 7",
+        "Dates: Jan 5 – 6",
+        "Closed Friday",
         "PCR, Rapid Antigen and Flu Testing Available Here",
         "4 years old and above"
       ]
@@ -1916,6 +1900,7 @@
       "context": [
         "Monday – Sunday, 7 a.m. – 7 p.m.",
         "844-NYC-4NYC",
+        "Opens at 11 a.m. on Friday",
         "Rapid Molecular Testing Available Here",
         "Pre-register for your visit"
       ]
@@ -1948,7 +1933,9 @@
       },
       "context": [
         "Monday – Thursday, 11 a.m. – 7 p.m.",
-        "Friday – Saturday, 10 a.m. -5 p.m.",
+        "Friday, 12 p.m – 5 p.m.",
+        "Saturday, 10 a.m. -5 p.m.",
+        "Opens at 12 p.m. on Friday",
         "Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -2169,14 +2156,30 @@
       ]
     },
     {
+      "name": "Church Avenue",
+      "address": [
+        "49-20 Church Avenue",
+        "Brooklyn, NY 11203"
+      ],
+      "coordinates": {
+        "lat": 40.6515479,
+        "lng": -73.93069129999999
+      },
+      "context": [
+        "Monday – Sunday, 8 a.m. – 8 p.m.",
+        "PCR Testing Available Here",
+        "All Ages"
+      ]
+    },
+    {
       "name": "Family Services Network of New York Access Center",
       "address": [
         "1721 Pitkin Ave,",
         "Brooklyn, NY 11212"
       ],
       "coordinates": {
-        "lat": 40.66920959999999,
-        "lng": -73.9068951
+        "lat": 40.6699749,
+        "lng": -73.90963980000001
       },
       "context": [
         "Monday, 11:30 a.m. – 7:30 p.m.",
@@ -2270,15 +2273,16 @@
       "name": "Quisqueya Playground",
       "address": [
         "2405 Amsterdam Ave",
-        "New York, NY10033"
+        "New York, NY 10033"
       ],
       "coordinates": {
         "lat": 40.8471006,
         "lng": -73.9313288
       },
       "context": [
-        "Monday – Sunday,  8 a.m. – 7 p.m.",
-        "Dates: Jan 3 – 9",
+        "Monday – Thursday, Saturday – Sunday,  8 a.m. – 7 p.m.",
+        "Dates: Jan 3 – 6, Jan 8 – 9",
+        "Closed Friday",
         "Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -2533,8 +2537,8 @@
         "lng": -73.9866134
       },
       "context": [
-        "Friday,  8 a.m. – 3 p.m.",
-        "Dates: Jan 3 – 7",
+        "Dates: Jan 3 – 6",
+        "Closed Friday",
         "PCR, Rapid Antigen and Flu Testing Available Here",
         "4 years old and above"
       ]
@@ -2550,8 +2554,8 @@
         "lng": -73.9451897
       },
       "context": [
-        "Friday,  8 a.m. – 3 p.m.",
-        "Dates: Jan 3 – 7",
+        "Dates: Jan 3 – 6",
+        "Closed Friday",
         "PCR, Rapid Antigen and Flu Testing Available Here",
         "4 years old and above"
       ]
@@ -2567,8 +2571,8 @@
         "lng": -73.97837129999999
       },
       "context": [
-        "Friday,  8 a.m. – 3 p.m.",
-        "Dates: Jan 3 – 7",
+        "Dates: Jan 3 – 6",
+        "Closed Friday",
         "PCR, Rapid Antigen and Flu Testing Available Here",
         "4 years old and above"
       ]
@@ -2584,8 +2588,8 @@
         "lng": -73.96804999999999
       },
       "context": [
-        "Friday,  8 a.m. – 3 p.m.",
-        "Dates: Jan 3 – 7",
+        "Dates: Jan 3 – 6",
+        "Closed Friday",
         "PCR, Rapid Antigen and Flu Testing Available Here",
         "4 years old and above"
       ]
@@ -2601,8 +2605,8 @@
         "lng": -73.9865612
       },
       "context": [
-        "Friday,  8 a.m. – 3 p.m.",
-        "Dates: Jan 3 – 7",
+        "Dates: Jan 3 – 6",
+        "Closed Friday",
         "PCR, Rapid Antigen and Flu Testing Available Here",
         "4 years old and above"
       ]
@@ -2687,8 +2691,8 @@
       },
       "context": [
         "Monday – Thursday, 9 a.m. – 6 p.m.",
-        "Friday, 8 a.m. – 3 p.m.",
-        "Dates: Jan 3 – 7",
+        "Dates: Jan 3 – 6",
+        "Closed Friday",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -2739,8 +2743,7 @@
       },
       "context": [
         "Thursday 9:00 a.m. – 6:00 p.m.",
-        "Friday 8:00 a.m. – 3:00 p.m.",
-        "Dates: Jan 6-7",
+        "Dates: Jan 6",
         "PCR, Rapid Antigen, & Flu Testing Available Here",
         "2 years old and above"
       ]
@@ -2752,12 +2755,12 @@
         "Manhattan, NY10035"
       ],
       "coordinates": {
-        "lat": 40.7932271,
-        "lng": -73.92128579999999
+        "lat": 40.7947075,
+        "lng": -73.92072759999999
       },
       "context": [
-        "Monday – Sunday, 9 a.m – 6 p.m",
-        "Dates: Jan 6 – 9",
+        "Monday, Wednesday, Friday, Saturday, 9 a.m – 6 p.m",
+        "Dates: Jan 7 – 16",
         "Rapid Antigen Testing Available Here",
         "2 years old and above"
       ]
@@ -2943,7 +2946,8 @@
         "lng": -73.9368293
       },
       "context": [
-        "Monday – Friday, 9 a.m. – 2 p.m.",
+        "Monday – Thursday, 9 a.m. – 2 p.m.",
+        "Closed Friday",
         "PCR Testing Available Here",
         "4 years old and above"
       ]
@@ -2959,7 +2963,8 @@
         "lng": -73.9445637
       },
       "context": [
-        "Monday – Friday, 9 a.m. – 2 p.m.",
+        "Monday – Thursday, 9 a.m. – 2 p.m.",
+        "Closed Friday",
         "PCR Testing Available Here",
         "4 years old and above"
       ]
@@ -3080,7 +3085,8 @@
         "lng": -73.9229515
       },
       "context": [
-        "Monday – Friday 9:00a.m. -2:00p.m.",
+        "Monday – Thursday 9:00a.m. -2:00p.m.",
+        "Closed Friday",
         "PCR Testing Available Here",
         "4 years old and above"
       ]
@@ -3717,14 +3723,15 @@
       "name": "79-01 Broadway",
       "address": [
         "Queens, NY11373",
-        "Monday – Friday, Sunday, 9 a.m. – 6 p.m."
+        "Monday – Thursday, Sunday, 9 a.m. – 6 p.m."
       ],
       "coordinates": {
         "lat": 40.7450814,
         "lng": -73.8857797
       },
       "context": [
-        "Dates: Jan 3 – 8, 9",
+        "Dates: Jan 3 – 6, 9",
+        "Closed Friday",
         "4 years old and above"
       ]
     },
@@ -3739,8 +3746,8 @@
         "lng": -73.85350799999999
       },
       "context": [
-        "Friday,  8 a.m. – 3 p.m.",
-        "Dates: Jan 3 – 7",
+        "Dates: Jan 3 – 6",
+        "Closed Friday",
         "PCR, Rapid Antigen and Flu Testing Available Here",
         "4 years old and above"
       ]
@@ -3756,8 +3763,8 @@
         "lng": -73.8707154
       },
       "context": [
-        "Friday,  8 a.m. – 3 p.m.",
-        "Dates: Jan 3 – 7",
+        "Dates: Jan 3 – 6",
+        "Closed Friday",
         "PCR, Rapid Antigen and Flu Testing Available Here",
         "4 years old and above"
       ]
@@ -3823,8 +3830,9 @@
       },
       "context": [
         "Queens, NY 11432",
-        "Tuesday – Friday, 9 a.m. – 6 p.m.",
-        "Dates: Jan 4 – 7",
+        "Tuesday – Thursday, 9 a.m. – 6 p.m.",
+        "Dates: Jan 4 – 6",
+        "Closed Friday",
         "Rapid Antigen Testing Available Here",
         "2 years old and above"
       ]
@@ -4027,8 +4035,8 @@
         "Jamaica, New York 11432"
       ],
       "coordinates": {
-        "lat": 40.717309,
-        "lng": -73.80440469999999
+        "lat": 40.7171931,
+        "lng": -73.80348169999999
       },
       "context": [
         "Monday – Thursday, Sunday, 7 a.m. – 7 p.m.",
@@ -4100,7 +4108,7 @@
       "context": [
         "Monday – Wednesday, 8 a.m. – 7 p.m.",
         "Thursday – Friday, Sunday 8 a.m. – 4 p.m.",
-        "PCR Testing Available Here",
+        "Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
     },
@@ -4147,7 +4155,8 @@
         "lng": -73.868517
       },
       "context": [
-        "Monday – Friday, 10:00am to 2:00p.m.",
+        "Monday – Thursday, 10:00 a.m. to 2:00 p.m.",
+        "Closed Friday",
         "PCR Testing Available Here",
         "4 years old and above"
       ]
@@ -4241,8 +4250,8 @@
         "Queens, NY 11367"
       ],
       "coordinates": {
-        "lat": 40.7342647,
-        "lng": -73.8160195
+        "lat": 40.73664369999999,
+        "lng": -73.8200894
       },
       "context": [
         "Monday – Friday,  10 a.m. – 5 p.m.",
@@ -4315,6 +4324,23 @@
       ]
     },
     {
+      "name": "CM Holden Office",
+      "address": [
+        "64-69 Dry Harbor Road,",
+        "Queens, NY 11379"
+      ],
+      "coordinates": {
+        "lat": 40.7181235,
+        "lng": -73.872349
+      },
+      "context": [
+        "Saturday,  10:30 a.m. – 5:30 p.m.",
+        "Dates: Jan 8",
+        "PCR Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
       "name": "Wolfe’s Pond Park (Parking Lot)",
       "address": [
         "Wolfe’s Pond Park Chester St,",
@@ -4346,22 +4372,6 @@
       ]
     },
     {
-      "name": "NYPL – Richmondtown Library",
-      "address": [
-        "200 Clarke Ave,",
-        "Staten Island, NY 10306"
-      ],
-      "coordinates": {
-        "lat": 40.5665074,
-        "lng": -74.1384473
-      },
-      "context": [
-        "Monday – Thursday, 8 a.m. – 7 p.m.",
-        "Dates: Jan 3 – 6",
-        "4 years old and above"
-      ]
-    },
-    {
       "name": "Gerard P. Dugan Playground",
       "address": [
         "280 Mill Rd, Staten Island, NY 10306",
@@ -4372,8 +4382,9 @@
         "lng": -74.11077379999999
       },
       "context": [
-        "Friday – Sunday, 8 a.m. – 7 p.m.",
-        "Dates: Jan 7 – 9",
+        "Saturday – Sunday, 8 a.m. – 7 p.m.",
+        "Dates: Jan 8 – 9",
+        "Closed Friday",
         "4 years old and above"
       ]
     },
@@ -4456,6 +4467,23 @@
         "Wednesday – Sunday, 8 a.m. – 7 p.m.",
         "Dates: Jan 5 – 9",
         "PCR and Rapid Antigen Testing Offered Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Port Richmond High School",
+      "address": [
+        "85 St. Joseph’s Avenue",
+        "Staten Island, NY 10302"
+      ],
+      "coordinates": {
+        "lat": 40.6351288,
+        "lng": -74.142217
+      },
+      "context": [
+        "Wednesday – Sunday, 8 a.m. – 7 p.m.",
+        "Dates: Jan 5 – 9",
+        "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
     },
@@ -4550,24 +4578,8 @@
         "lng": -74.0964201
       },
       "context": [
-        "Monday – Friday, 8 a.m. – 4 p.m.",
-        "PCR Testing Available Here",
-        "4 years old and above"
-      ]
-    },
-    {
-      "name": "Port Richmond High School",
-      "address": [
-        "85 St. Joseph’s Avenue",
-        "Staten Island, NY 10302"
-      ],
-      "coordinates": {
-        "lat": 40.6351288,
-        "lng": -74.142217
-      },
-      "context": [
-        "Monday – Sunday, 7:30 a.m. – 7 p.m.",
-        "PCR Testing Available Here",
+        "Monday – Friday, 8:30 a.m. – 4 p.m.",
+        "Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
     },
