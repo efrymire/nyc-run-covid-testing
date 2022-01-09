@@ -4,7 +4,7 @@ import csv from 'csvtojson';
 import Mapbox from './map';
 import Info from './info.js';
 
-const timesURL = "https://gist.githubusercontent.com/ctbarna/98b660129b01a5a2c050f3bab78aad70/raw/8ed0a23d8c0853e3886407e9a30b4c1b83fd8457/wait.csv"
+const timesURL = "https://gist.githubusercontent.com/ctbarna/98b660129b01a5a2c050f3bab78aad70/raw/wait.csv"
 let map, info;
 
 let state = {
