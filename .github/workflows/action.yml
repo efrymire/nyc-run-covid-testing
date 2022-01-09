@@ -16,3 +16,15 @@ jobs:
         run: npm run scrape
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+      - uses: actions/upload-artifact@v2
+        with:
+          name: locations
+          path: data/centers.json
+      - uses: exuanbo/actions-deploy-gist@v1
+        if: github.ref == 'refs/heads/master'
+        with:
+          token: ${{ secrets.GIST_TOKEN }}
+          gist_id: 8f43d2f7997bdd6cd561bf925a5c0a81
+          gist_description: "JSON of city run COVID-19 testing sites"
+          gist_file_name: nyc-run-covid-testing-sites.json
+          file_path: ./nyc-run-covid-testing-sites.json
