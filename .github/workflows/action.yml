@@ -1,0 +1,18 @@
+on:
+  push:
+  schedule:
+    - cron: "0 5,10,15,20,22 1-31 * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '12.x'
+      - run: npm install
+      - name: Run script
+        run: npm run scrape
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
