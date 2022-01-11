@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-01-11T19:56:22.571Z",
+  "timestamp": "2022-01-11T23:32:51.761Z",
   "centers": [
     {
       "name": "NYCHA Forest",
@@ -25,8 +25,8 @@
         "Bronx, NY 10474"
       ],
       "coordinates": {
-        "lat": 40.8130478,
-        "lng": -73.87866009999999
+        "lat": 40.8150088,
+        "lng": -73.8821858
       },
       "context": [
         "Sunday, 8am-6pm",
@@ -1817,8 +1817,8 @@
         "Brooklyn, NY 11232"
       ],
       "coordinates": {
-        "lat": 40.647142,
-        "lng": -74.0046194
+        "lat": 40.7561518,
+        "lng": -73.98316369999999
       },
       "context": [
         "Monday – Sunday, 8AM – 7PM",
@@ -2435,6 +2435,57 @@
         "Sunday, 8am to 6pm",
         "Dates: Jan. 16",
         "PCR and Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "435 Knickerbocker Ave",
+      "address": [
+        "Brooklyn, NY 11237",
+        "Monday to Thursday 9am – 6pm,"
+      ],
+      "coordinates": {
+        "lat": 40.6995404,
+        "lng": -73.9189434
+      },
+      "context": [
+        "Friday 8am – 3pm",
+        "Dates: Jan. 10 – 14",
+        "PCR, Rapid Antigen and Flu Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "315 Wyckoff Ave",
+      "address": [
+        "Brooklyn, NY 11237",
+        "Monday to Thursday 9am – 6pm,"
+      ],
+      "coordinates": {
+        "lat": 40.7001958,
+        "lng": -73.9117555
+      },
+      "context": [
+        "Friday 8am – 3pm",
+        "Dates: Jan. 10 – 14",
+        "PCR, Rapid Antigen and Flu Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "386 Knickerbocker Ave",
+      "address": [
+        "Brooklyn, NY 11237",
+        "Monday to Thursday 9am – 6pm,"
+      ],
+      "coordinates": {
+        "lat": 40.6999924,
+        "lng": -73.92089539999999
+      },
+      "context": [
+        "Friday 8am – 3pm",
+        "Dates: Jan. 10 – 14",
+        "PCR, Rapid Antigen and Flu Testing Available Here",
         "4 years old and above"
       ]
     },
@@ -3370,8 +3421,8 @@
         "New York, NY10032"
       ],
       "coordinates": {
-        "lat": 40.8402964,
-        "lng": -73.9401036
+        "lat": 40.8401417,
+        "lng": -73.93998719999999
       },
       "context": [
         "Monday – Sunday, 9am – 6pm",
@@ -3614,6 +3665,40 @@
       ]
     },
     {
+      "name": "808 Columbus Ave",
+      "address": [
+        "New York, NY 10025",
+        "Monday – Thursday 9am – 6pm,"
+      ],
+      "coordinates": {
+        "lat": 40.7950057,
+        "lng": -73.966278
+      },
+      "context": [
+        "Friday 8am – 3pm",
+        "Dates: Jan. 10 – 14",
+        "PCR, Rapid Antigen, & Flu Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "5 Washington Square N",
+      "address": [
+        "New York, NY 10003",
+        "Monday – Thursday 9am – 6pm,"
+      ],
+      "coordinates": {
+        "lat": 40.7311336,
+        "lng": -73.9959066
+      },
+      "context": [
+        "Friday 8am – 3pm",
+        "Dates: Jan. 10 – 14",
+        "PCR, Rapid Antigen, & Flu Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
       "name": "Times Square Testing Site",
       "address": [
         "701 Seventh Avenue (between W 47th and W 48th Street) aka 20 Times Square",
@@ -3755,8 +3840,8 @@
         "New York, NY 10033"
       ],
       "coordinates": {
-        "lat": 40.8801687,
-        "lng": -73.9064806
+        "lat": 40.8502935,
+        "lng": -73.9368293
       },
       "context": [
         "Monday – Thursday, 9 a.m. – 2 p.m.",
@@ -3918,14 +4003,14 @@
       ]
     },
     {
-      "name": "SOMOS – Office of Manhattan Borough President Mark Levine",
+      "name": "SOMOS-NYC Council Member Diana Ayala",
       "address": [
-        "431 W 125th Street",
-        "Manhattan10026"
+        "105 E 116th Street",
+        "New York, NY 10029"
       ],
       "coordinates": {
-        "lat": 40.8096172,
-        "lng": -73.94749879999999
+        "lat": 40.7992563,
+        "lng": -73.9425284
       },
       "context": [
         "Monday  – Friday, 9am-2pm",
@@ -4498,8 +4583,8 @@
         "Far Rockaway, NY 11691"
       ],
       "coordinates": {
-        "lat": 40.6051369,
-        "lng": -73.75492009999999
+        "lat": 40.6042178,
+        "lng": -73.7549998
       },
       "context": [
         "Monday – Sunday, 8AM – 7PM",
@@ -5029,8 +5114,8 @@
         "Jamaica, New York 11432"
       ],
       "coordinates": {
-        "lat": 40.7169282,
-        "lng": -73.8045894
+        "lat": 40.7171931,
+        "lng": -73.80348169999999
       },
       "context": [
         "Monday – Thursday, Sunday, 7 a.m. – 7 p.m.",
@@ -5314,6 +5399,22 @@
       "context": [
         "Monday, 10:00am-4:30pm",
         "Dates: Jan. 10",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "HAUP Jamaica (Haitian Americans United For Progress)",
+      "address": [
+        "209-05 Jamaica Avenue,",
+        "Queens, NY 11428"
+      ],
+      "coordinates": {
+        "lat": 40.7148632,
+        "lng": -73.7511482
+      },
+      "context": [
+        "Thursday, 10:30am-6:00pm",
+        "Dates: Jan. 13",
         "4 years old and above"
       ]
     },
