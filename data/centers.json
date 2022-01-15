@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-01-14T15:36:04.120Z",
+  "timestamp": "2022-01-15T22:03:26.484Z",
   "centers": [
     {
       "name": "NYCHA Forest",
@@ -805,23 +805,6 @@
       ]
     },
     {
-      "name": "1400 Pelham Parkway S",
-      "address": [
-        "Bronx, NY 10461",
-        "Monday – Thursday, 9am – 6pm,"
-      ],
-      "coordinates": {
-        "lat": 40.8557535,
-        "lng": -73.8464133
-      },
-      "context": [
-        "Friday, 8am – 3pm",
-        "Dates: Jan. 12 – 14",
-        "PCR and Rapid Antigen Testing Available Here",
-        "4 years old and above"
-      ]
-    },
-    {
       "name": "NYC Health + Hospitals/Gotham Health, Belvis",
       "address": [
         "545 East 142nd Street",
@@ -832,12 +815,9 @@
         "lng": -73.9157383
       },
       "context": [
-        "Monday – Friday, 7 a.m. – 7 p.m.",
-        "Saturday – Sunday, 7 a.m. – 4 p.m.",
-        "Closes at 5pm on Monday 1/17/2022",
+        "Monday – Sunday, 7 a.m. – 7 p.m.",
         "844-NYC-4NYC",
-        "Antibody Testing is Suspended Here",
-        "COVID-19 Testing Offered Here",
+        "COVID-19 Testing and Antibody Testing Offered Here",
         "Pre-register for your visit"
       ]
     },
@@ -887,12 +867,9 @@
         "lng": -73.9202294
       },
       "context": [
-        "Monday – Friday, 7 a.m. – 7 p.m.",
-        "Saturday – Sunday, 7 a.m. – 4 p.m.",
-        "Closes at 5pm on Monday 1/17/2022",
+        "Monday – Sunday, 7 a.m. – 7 p.m.",
         "844-NYC-4NYC",
-        "Antibody Testing is Suspended Here",
-        "COVID-19 Testing Offered Here",
+        "COVID-19 Testing and Antibody Testing Offered Here",
         "Pre-register for your visit"
       ]
     },
@@ -928,9 +905,7 @@
       "context": [
         "Appointments:",
         "Monday – Friday, 7 a.m. – 7 p.m.",
-        "Closes at 5pm on Monday 1/17/2022",
-        "Antibody Testing is Suspended Here",
-        "COVID-19 Testing Offered Here"
+        "COVID-19 Testing and Antibody Testing Offered Here"
       ]
     },
     {
@@ -979,6 +954,7 @@
       },
       "context": [
         "Monday – Friday, 8:30 a.m. – 4 p.m.",
+        "This location will be closed on Monday, January 17th",
         "Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -1123,6 +1099,23 @@
       "coordinates": {
         "lat": 40.8302967,
         "lng": -73.9103745
+      },
+      "context": [
+        "Monday – Friday, 9am-2pm",
+        "This location will be closed on Monday, January 17th",
+        "PCR Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "SOMOS – St Nicholas of Tolentine",
+      "address": [
+        "2345 Univeristy Ave",
+        "Bronx, NY 10468"
+      ],
+      "coordinates": {
+        "lat": 40.8622354,
+        "lng": -73.9056978
       },
       "context": [
         "Monday – Friday, 9am-2pm",
@@ -1842,8 +1835,8 @@
         "Brooklyn, NY 11232"
       ],
       "coordinates": {
-        "lat": 40.7561518,
-        "lng": -73.98316369999999
+        "lat": 40.647142,
+        "lng": -74.0046194
       },
       "context": [
         "Monday – Sunday, 8AM – 7PM",
@@ -1961,8 +1954,8 @@
         "Brooklyn, 11216"
       ],
       "coordinates": {
-        "lat": 40.6803995,
-        "lng": -73.9461432
+        "lat": 40.6804226,
+        "lng": -73.945996
       },
       "context": [
         "Monday – Sunday, 8AM – 7PM",
@@ -2249,8 +2242,8 @@
         "Brooklyn, NY11215"
       ],
       "coordinates": {
-        "lat": 40.664314,
-        "lng": -73.97719599999999
+        "lat": 40.6602037,
+        "lng": -73.9689558
       },
       "context": [
         "Monday – Sunday, 9am – 6pm",
@@ -2487,8 +2480,8 @@
         "Monday to Thursday 9am – 6pm,"
       ],
       "coordinates": {
-        "lat": 40.7001592,
-        "lng": -73.91194999999999
+        "lat": 40.7001958,
+        "lng": -73.9117555
       },
       "context": [
         "Friday 8am – 3pm",
@@ -2548,12 +2541,9 @@
         "lng": -73.9764879
       },
       "context": [
-        "Monday – Friday, 7 a.m. – 7 p.m.",
-        "Saturday – Sunday, 7 a.m. – 4 p.m.",
-        "Closes at 5pm on Monday 1/17/2022",
+        "Monday – Sunday, 7 a.m. – 7 p.m.",
         "844-NYC-4NYC",
-        "Antibody Testing is Suspended Here",
-        "COVID-19 Testing Offered Here",
+        "COVID-19 Testing and Antibody Testing Offered Here",
         "Pre-register for your visit"
       ]
     },
@@ -2568,12 +2558,9 @@
         "lng": -73.8952429
       },
       "context": [
-        "Monday – Friday, 7 a.m. – 7 p.m.",
-        "Saturday – Sunday, 7 a.m. – 4 p.m.",
-        "Closes at 5pm on Monday 1/17/2022",
+        "Monday – Sunday, 7 a.m. – 7 p.m.",
         "844-NYC-4NYC",
-        "Antibody Testing is Suspended Here",
-        "COVID-19 Testing Offered Here",
+        "COVID-19 Testing and Antibody Testing Offered Here",
         "Pre-register for your visit"
       ]
     },
@@ -2674,8 +2661,7 @@
         "lng": -73.9655327
       },
       "context": [
-        "Monday – Friday, 7 a.m. – 7 p.m.",
-        "Saturday – Sunday, 7 a.m. – 4 p.m.",
+        "Monday – Sunday, 7 a.m. – 7 p.m.",
         "844-NYC-4NYC",
         "Opens at 11 a.m. on Friday",
         "Rapid Molecular Testing Available Here",
@@ -2709,8 +2695,10 @@
         "lng": -73.9682
       },
       "context": [
-        "Monday – Wednesday, 11 a.m. – 7 p.m.",
-        "Thursday – Friday, 10 p.m – 3 p.m.",
+        "Monday – Thursday, 11 a.m. – 7 p.m.",
+        "Friday, 12 p.m – 5 p.m.",
+        "Saturday, 10 a.m. -5 p.m.",
+        "Opens at 12 p.m. on Friday",
         "Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -2760,6 +2748,7 @@
       },
       "context": [
         "Monday – Friday, 9 a.m. – 2 p.m.",
+        "This location will be closed on Monday, January 17th",
         "PCR Testing Available Here",
         "4 years old and above"
       ]
@@ -2928,22 +2917,6 @@
       ]
     },
     {
-      "name": "469 Fulton St.",
-      "address": [
-        "Brooklyn, NY 11201",
-        "Sunday – Friday, 10 a.m. – 7 p.m."
-      ],
-      "coordinates": {
-        "lat": 40.69051899999999,
-        "lng": -73.984579
-      },
-      "context": [
-        "Closed Saturdays",
-        "PCR Testing Available Here",
-        "4 years old and above"
-      ]
-    },
-    {
       "name": "Amalgamated Warbasse Houses",
       "address": [
         "2770 West 5th Street,",
@@ -3005,6 +2978,22 @@
       "context": [
         "Monday – Sunday, 8:30am-4:30pm",
         "Dates: Jan. 10 – 16",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Clarendon Road Church",
+      "address": [
+        "3304 Clarendon Road ,",
+        "Brooklyn, NY 11203"
+      ],
+      "coordinates": {
+        "lat": 40.6432784,
+        "lng": -73.9455225
+      },
+      "context": [
+        "Sunday, 8:30am-3:30pm",
+        "Dates: Jan. 16",
         "4 years old and above"
       ]
     },
@@ -3085,22 +3074,6 @@
       "context": [
         "Wednesday, 9:30am-4:30pm",
         "Dates: Jan. 12",
-        "4 years old and above"
-      ]
-    },
-    {
-      "name": "Bayridge Storefront",
-      "address": [
-        "448 86th Street ,",
-        "Brooklyn, NY 11209"
-      ],
-      "coordinates": {
-        "lat": 40.6220933,
-        "lng": -74.0276287
-      },
-      "context": [
-        "Saturday – Sunday, 9:30am – 4:30pm",
-        "Dates: Jan. 15 – 16",
         "4 years old and above"
       ]
     },
@@ -3365,8 +3338,8 @@
         "New York, NY10034"
       ],
       "coordinates": {
-        "lat": 40.86140109999999,
-        "lng": -73.9242916
+        "lat": 40.836916,
+        "lng": -73.9271294
       },
       "context": [
         "Monday – Sunday, 9AM – 6PM",
@@ -3651,8 +3624,8 @@
         "Friday – 9am to 3pm"
       ],
       "coordinates": {
-        "lat": 40.7538151,
-        "lng": -73.9867124
+        "lat": 40.7541042,
+        "lng": -73.9867166
       },
       "context": [
         "Dates: Jan. 10 – 14",
@@ -3745,23 +3718,6 @@
       ]
     },
     {
-      "name": "1468 Madison Ave",
-      "address": [
-        "New York, NY 10029",
-        "Thursday 9:00am – 5:00 PM"
-      ],
-      "coordinates": {
-        "lat": 40.7899484,
-        "lng": -73.9524454
-      },
-      "context": [
-        "Friday 8:00 AM – 3:00 PM",
-        "Dates: Jan. 13 – 14",
-        "PCR, Rapid Antigen, & Flu Testing Available Here",
-        "4 years old and above"
-      ]
-    },
-    {
       "name": "Times Square Testing Site",
       "address": [
         "701 Seventh Avenue (between W 47th and W 48th Street) aka 20 Times Square",
@@ -3773,7 +3729,6 @@
       },
       "context": [
         "Monday – Sunday, 9 a.m. – 7 p.m.",
-        "This site will be permanently closing and transitioning to mobile testing nearby beginning on Sunday, January 23rd.  On January 22nd, rapid testing will end at 5pm and PCR testing will end at 7pm.",
         "Rapid Molecular Testing Available Here",
         "Pre-register for your visit"
       ]
@@ -3807,9 +3762,7 @@
         "lng": -73.98770329999999
       },
       "context": [
-        "Monday – Friday, 7 a.m. – 7 p.m.",
-        "Saturday – Sunday, 7 a.m. – 4 p.m.",
-        "Closes at 5pm on Monday 1/17/2022",
+        "Monday – Sunday, 7 a.m. – 7 p.m.",
         "844-NYC-4NYC",
         "Antibody Testing is Suspended Here",
         "COVID-19 Testing and Offered Here",
@@ -3858,11 +3811,12 @@
         "New York, NY 10033"
       ],
       "coordinates": {
-        "lat": 40.8534929,
-        "lng": -73.9327558
+        "lat": 40.8534537,
+        "lng": -73.93270590000002
       },
       "context": [
         "Monday – Friday, 9 a.m. – 2 p.m.",
+        "This location will be closed on Monday, January 17th",
         "PCR Testing Available Here",
         "4 years old and above"
       ]
@@ -4053,22 +4007,6 @@
       ]
     },
     {
-      "name": "SOMOS – Assembly Member Harvey Epstein",
-      "address": [
-        "107 Avenue B,",
-        "New York, NY 10009"
-      ],
-      "coordinates": {
-        "lat": 40.7248513,
-        "lng": -73.9810062
-      },
-      "context": [
-        "Monday – Friday, 9am – 2pm",
-        "PCR Testing Available Here",
-        "4 years old and above"
-      ]
-    },
-    {
       "name": "SOMOS-NYC Council Member Diana Ayala",
       "address": [
         "105 E 116th Street",
@@ -4095,6 +4033,22 @@
         "lng": -73.98899449999999
       },
       "context": [
+        "PCR Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "SOMOS – 809 Restaurant",
+      "address": [
+        "112 DyckmanMahattan",
+        "New York, NY 10040"
+      ],
+      "coordinates": {
+        "lat": 40.8620411,
+        "lng": -73.9252154
+      },
+      "context": [
+        "Monday – Friday, 9am-2pm",
         "PCR Testing Available Here",
         "4 years old and above"
       ]
@@ -4138,8 +4092,8 @@
         "Queens, NY11433"
       ],
       "coordinates": {
-        "lat": 40.67325,
-        "lng": -73.760345
+        "lat": 40.6982751,
+        "lng": -73.7926983
       },
       "context": [
         "Monday – Friday, 9AM-5PM",
@@ -4664,8 +4618,8 @@
         "Far Rockaway, NY 11691"
       ],
       "coordinates": {
-        "lat": 40.6051369,
-        "lng": -73.75492009999999
+        "lat": 40.6042178,
+        "lng": -73.7549998
       },
       "context": [
         "Monday – Sunday, 8AM – 7PM",
@@ -5156,17 +5110,32 @@
     {
       "name": "Gotham Clinic Ridgewood",
       "address": [
-        "769 Onderdonk Ave,",
-        "Queens, NY 11385"
+        "769 Onderdonk Ave, Queens, NY 11385",
+        "Monday – Wednesday, 8am-6pm"
       ],
       "coordinates": {
         "lat": 40.703129,
         "lng": -73.9054902
       },
       "context": [
-        "Monday – Wednesday, 8am-6pm",
         "Dates: Jan. 10 – Jan. 12",
         "Rapid Antigen Testing Offered Here"
+      ]
+    },
+    {
+      "name": "Rochdale Village Mall",
+      "address": [
+        "169-65 137th Ave",
+        "Queens11434"
+      ],
+      "coordinates": {
+        "lat": 40.6730123,
+        "lng": -73.7705739
+      },
+      "context": [
+        "Monday – Sunday 8AM, 6PM",
+        "Dates: Jan 17 – Jan 23rd",
+        "PCR & Rapid Antigen Testing Offered Here"
       ]
     },
     {
@@ -5284,6 +5253,7 @@
       },
       "context": [
         "Monday – Thursday, 10:00 a.m. to 2:00 p.m.",
+        "This location will be closed on Monday, January 17th",
         "Closed Friday",
         "PCR Testing Available Here",
         "4 years old and above"
@@ -5421,6 +5391,22 @@
       ]
     },
     {
+      "name": "Queens Museum",
+      "address": [
+        "New York City Building,",
+        "Queens, NY 11368"
+      ],
+      "coordinates": {
+        "lat": 40.745914,
+        "lng": -73.8467247
+      },
+      "context": [
+        "Wednesday, Sunday, 9:00am-5:00pm",
+        "Dates: Jan. 12, 16",
+        "4 years old and above"
+      ]
+    },
+    {
       "name": "Robert Ross Johnson Family Life Center (St. Albans Congregational Church)",
       "address": [
         "172-17 Linden Blvd,",
@@ -5513,22 +5499,6 @@
       "context": [
         "Sunday, 10:00am-5:30pm",
         "Dates: Jan 16",
-        "4 years old and above"
-      ]
-    },
-    {
-      "name": "CM Holden Office",
-      "address": [
-        "64-69 Dry Harbor Road,",
-        "Queens, NY 11379"
-      ],
-      "coordinates": {
-        "lat": 40.7181235,
-        "lng": -73.872349
-      },
-      "context": [
-        "Sunday, 10:30am – 5:30pm",
-        "Dates: Jan. 16",
         "4 years old and above"
       ]
     },
@@ -5832,7 +5802,6 @@
       },
       "context": [
         "Dates: Jan. 10 – 14",
-        "This location will be closed on Monday, January 17th.",
         "Rapid Antigen Testing Available Here",
         "2 years old and above"
       ]
@@ -5848,12 +5817,9 @@
         "lng": -74.0768895
       },
       "context": [
-        "Monday – Friday, 7 a.m. – 7 p.m.",
-        "Saturday – Sunday, 7 a.m. – 4 p.m.",
-        "Closes at 5pm on Monday 1/17/2022",
+        "Monday – Sunday, 7 a.m. – 7 p.m.",
         "844-NYC-4NYC",
-        "Antibody Testing is Suspended Here",
-        "COVID-19 Testing Offered Here",
+        "COVID-19 Testing and Antibody Testing Offered Here",
         "Pre-register for your visit"
       ]
     },
