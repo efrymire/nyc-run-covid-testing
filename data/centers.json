@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-01-17T21:12:33.584Z",
+  "timestamp": "2022-01-18T14:16:34.047Z",
   "centers": [
     {
       "name": "Benjamin Gladstone Square",
@@ -286,40 +286,6 @@
       "context": [
         "Friday, 8am-3pm",
         "Dates: Jan. 17 – 21",
-        "PCR and Rapid Antigen Testing Available Here",
-        "4 years old and above"
-      ]
-    },
-    {
-      "name": "315 Wyckoff Ave",
-      "address": [
-        "Bronx, NY10451",
-        "Monday – Thursday, 9am-6pm"
-      ],
-      "coordinates": {
-        "lat": 40.7001958,
-        "lng": -73.9117555
-      },
-      "context": [
-        "Friday, 8am-3pm",
-        "Dates: Jan. 17 – 21",
-        "PCR and Rapid Antigen Testing Available Here",
-        "4 years old and above"
-      ]
-    },
-    {
-      "name": "37-26 Junction Blvd",
-      "address": [
-        "Bronx, NY10467",
-        "Monday – Thursday, 9am-6pm"
-      ],
-      "coordinates": {
-        "lat": 40.75073829999999,
-        "lng": -73.8707154
-      },
-      "context": [
-        "Friday, 8am-3pm",
-        "Dates: Jan. 21",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -781,6 +747,40 @@
         "Dates: Jan. 17 – 21",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
+      ]
+    },
+    {
+      "name": "3425 Kossuth Ave",
+      "address": [
+        "Bronx, NY10467",
+        "Monday – Thursday, 9am-6pm"
+      ],
+      "coordinates": {
+        "lat": 40.8805771,
+        "lng": -73.8819216
+      },
+      "context": [
+        "Friday, 8am-3pm",
+        "Dates: Jan. 17 – 21",
+        "PCR and Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Claremont Park",
+      "address": [
+        "Intersection of Morris Ave. and E. Mt. Eden Ave.",
+        "Bronx, NY10456"
+      ],
+      "coordinates": {
+        "lat": 40.8409,
+        "lng": -73.9075506
+      },
+      "context": [
+        "Monday – Sunday, 9am to 6pm",
+        "Dates: Jan. 17 – 23",
+        "Rapid Antigen Testing Available Here",
+        "2 years old and above"
       ]
     },
     {
@@ -1423,8 +1423,8 @@
         "Brooklyn, NY11215"
       ],
       "coordinates": {
-        "lat": 40.6602037,
-        "lng": -73.9689558
+        "lat": 40.664314,
+        "lng": -73.97719599999999
       },
       "context": [
         "Monday – Sunday, 9am – 6pm",
@@ -1536,23 +1536,6 @@
       ]
     },
     {
-      "name": "3425 Kossuth Ave",
-      "address": [
-        "Brooklyn, NY11237",
-        "Monday – Thursday, 9am-6pm"
-      ],
-      "coordinates": {
-        "lat": 40.8805771,
-        "lng": -73.8819216
-      },
-      "context": [
-        "Friday, 8am-3pm",
-        "Dates: Jan. 17 – 21",
-        "PCR and Rapid Antigen Testing Available Here",
-        "4 years old and above"
-      ]
-    },
-    {
       "name": "435 Knickerbocker Ave",
       "address": [
         "Brooklyn, NY11237",
@@ -1561,40 +1544,6 @@
       "coordinates": {
         "lat": 40.6995404,
         "lng": -73.9189434
-      },
-      "context": [
-        "Friday, 8am-3pm",
-        "Dates: Jan. 17 – 21",
-        "PCR and Rapid Antigen Testing Available Here",
-        "4 years old and above"
-      ]
-    },
-    {
-      "name": "45 Beekman Street",
-      "address": [
-        "Brooklyn, NY11237",
-        "Monday – Thursday, 9am-6pm"
-      ],
-      "coordinates": {
-        "lat": 40.7101561,
-        "lng": -74.00549579999999
-      },
-      "context": [
-        "Friday, 8am-3pm",
-        "Dates: Jan. 17 – 21",
-        "PCR and Rapid Antigen Testing Available Here",
-        "4 years old and above"
-      ]
-    },
-    {
-      "name": "67 West 137th Street",
-      "address": [
-        "Brooklyn, NY11203",
-        "Monday – Thursday, 9am-6pm"
-      ],
-      "coordinates": {
-        "lat": 40.81537429999999,
-        "lng": -73.9391279
       },
       "context": [
         "Friday, 8am-3pm",
@@ -1800,8 +1749,8 @@
         "lng": -73.97775589999999
       },
       "context": [
-        "Wednesday –  Friday, 8am-6pm",
-        "Dates: Jan. 19 – 21",
+        "Wednesday, 8am-6pm",
+        "Dates: Jan. 19",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -2381,6 +2330,91 @@
         "Wednesday – Thursday, 8am-6pm",
         "Friday  – Saturday, 8am-5pm",
         "Dates: Jan. 19 – 22",
+        "PCR and Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "315 Wyckoff Ave",
+      "address": [
+        "Brooklyn, NY 11237",
+        "Monday – Thursday, 9am-6pm"
+      ],
+      "coordinates": {
+        "lat": 40.7001592,
+        "lng": -73.91194999999999
+      },
+      "context": [
+        "Friday, 8am-3pm",
+        "Dates: Jan. 17 – 21",
+        "PCR and Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "37-26 Junction Blvd",
+      "address": [
+        "Brooklyn, NY 11237",
+        "Monday – Thursday, 9am-6pm"
+      ],
+      "coordinates": {
+        "lat": 40.75073829999999,
+        "lng": -73.8707154
+      },
+      "context": [
+        "Friday, 8am-3pm",
+        "Dates: Jan. 21",
+        "PCR and Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "502 Clarkson Ave",
+      "address": [
+        "Brooklyn, NY11203",
+        "Monday – Thursday, 9am-6pm"
+      ],
+      "coordinates": {
+        "lat": 40.6557444,
+        "lng": -73.9427486
+      },
+      "context": [
+        "Friday, 8am-3pm",
+        "Dates: Jan. 17 – 21",
+        "PCR and Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "386 Knickerbocker Ave",
+      "address": [
+        "Brooklyn, NY11237",
+        "Monday – Thursday, 9am-6pm"
+      ],
+      "coordinates": {
+        "lat": 40.6999924,
+        "lng": -73.92089539999999
+      },
+      "context": [
+        "Friday, 8am-3pm",
+        "Dates: Jan. 17 – 21",
+        "PCR and Rapid Antigen Testing Offered Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "BlocPower",
+      "address": [
+        "601 Lafayette Ave",
+        "Brooklyn, NY 11216"
+      ],
+      "coordinates": {
+        "lat": 40.6901809,
+        "lng": -73.9504529
+      },
+      "context": [
+        "Friday, 8am-6pm",
+        "Dates: Jan. 21",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -2974,23 +3008,6 @@
       ]
     },
     {
-      "name": "Claremont Park",
-      "address": [
-        "Intersection of Morris Ave. and E. Mt. Eden Ave.",
-        "Manhattan, NY10456"
-      ],
-      "coordinates": {
-        "lat": 40.8409,
-        "lng": -73.9075506
-      },
-      "context": [
-        "Monday – Sunday, 9am to 6pm",
-        "Dates: Jan. 17 – 23",
-        "Rapid Antigen Testing Available Here",
-        "2 years old and above"
-      ]
-    },
-    {
       "name": "Highbridge Park",
       "address": [
         "On Dyckman St. across from 175 Nagle Ave.",
@@ -3303,23 +3320,6 @@
       "coordinates": {
         "lat": 40.7311336,
         "lng": -73.9959066
-      },
-      "context": [
-        "Friday, 8am-3pm",
-        "Dates: Jan. 17 – 21",
-        "PCR and Rapid Antigen Testing Available Here",
-        "4 years old and above"
-      ]
-    },
-    {
-      "name": "502 Clarkson Ave",
-      "address": [
-        "Manhattan, NY10003",
-        "Monday – Thursday, 9am-6pm"
-      ],
-      "coordinates": {
-        "lat": 40.6557444,
-        "lng": -73.9427486
       },
       "context": [
         "Friday, 8am-3pm",
@@ -3771,6 +3771,40 @@
         "Monday, 8am-6pm",
         "Saturday, 8am-6pm,",
         "Dates: Jan. 17, 22",
+        "PCR and Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "45 Beekman Street",
+      "address": [
+        "Manhattan, NY10038",
+        "Monday – Thursday, 9am-6pm"
+      ],
+      "coordinates": {
+        "lat": 40.7101561,
+        "lng": -74.00549579999999
+      },
+      "context": [
+        "Friday, 8am-3pm",
+        "Dates: Jan. 17 – 21",
+        "PCR and Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "67 West 137th Street",
+      "address": [
+        "Manhattan, NY 10037",
+        "Monday – Thursday, 9am-6pm"
+      ],
+      "coordinates": {
+        "lat": 40.81537429999999,
+        "lng": -73.9391279
+      },
+      "context": [
+        "Friday, 8am-3pm",
+        "Dates: Jan. 17 – 21",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -4381,23 +4415,6 @@
       ]
     },
     {
-      "name": "386 Knickerbocker Ave",
-      "address": [
-        "Queens, NY11368",
-        "Monday – Thursday, 9am-6pm"
-      ],
-      "coordinates": {
-        "lat": 40.6999924,
-        "lng": -73.92089539999999
-      },
-      "context": [
-        "Friday, 8am-3pm",
-        "Dates: Jan. 17 – 21",
-        "PCR and Rapid Antigen Testing Offered Here",
-        "4 years old and above"
-      ]
-    },
-    {
       "name": "78-08 Broadway",
       "address": [
         "Queens, NY11373",
@@ -4540,8 +4557,8 @@
         "Rosedale, NY 11422"
       ],
       "coordinates": {
-        "lat": 40.6571597,
-        "lng": -73.7453305
+        "lat": 40.6567116,
+        "lng": -73.74509429999999
       },
       "context": [
         "Monday – Friday, Sunday, 8:30 am- 4pm",
