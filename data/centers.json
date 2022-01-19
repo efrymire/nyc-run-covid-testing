@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-01-18T14:16:34.047Z",
+  "timestamp": "2022-01-19T15:29:45.517Z",
   "centers": [
     {
       "name": "Benjamin Gladstone Square",
@@ -1168,16 +1168,16 @@
     {
       "name": "Mt. Gilead Baptist Church",
       "address": [
-        "489 East 169th Street,",
-        "Bronx, NY 10456Bronx10457"
+        "1682 Morris Ave,",
+        "Bronx, NY 10457,"
       ],
       "coordinates": {
         "lat": 40.8438655,
         "lng": -73.9092591
       },
       "context": [
-        "Friday – Sunday, 10:30am-4:30pm",
-        "Dates: Jan. 21 – 23",
+        "Sunday, 10:30am-4:30pm",
+        "Dates: Jan. 23",
         "4 years old and above"
       ]
     },
@@ -1457,8 +1457,8 @@
         "Brooklyn, NY11237"
       ],
       "coordinates": {
-        "lat": 40.7012261,
-        "lng": -73.9202057
+        "lat": 40.7046398,
+        "lng": -73.9163441
       },
       "context": [
         "Monday – Sunday, 9am – 6pm",
@@ -1542,8 +1542,8 @@
         "Monday – Thursday, 9am-6pm"
       ],
       "coordinates": {
-        "lat": 40.6995404,
-        "lng": -73.9189434
+        "lat": 40.6995544,
+        "lng": -73.9188842
       },
       "context": [
         "Friday, 8am-3pm",
@@ -1814,8 +1814,8 @@
         "Tuesday – Wednesday, 8am-6pm"
       ],
       "coordinates": {
-        "lat": 40.6508037,
-        "lng": -73.94958439999999
+        "lat": 40.6515642,
+        "lng": -73.9342705
       },
       "context": [
         "Dates: Jan. 18 – 19",
@@ -1932,8 +1932,8 @@
         "Brooklyn, NY11225"
       ],
       "coordinates": {
-        "lat": 40.7006363,
-        "lng": -73.941951
+        "lat": 40.6648033,
+        "lng": -73.9504018
       },
       "context": [
         "Friday, 8am-6pm",
@@ -2017,8 +2017,8 @@
         "Brooklyn, NY 11216"
       ],
       "coordinates": {
-        "lat": 40.6803995,
-        "lng": -73.9461432
+        "lat": 40.6906928,
+        "lng": -73.9481496
       },
       "context": [
         "Monday – Sunday, 8am – 7pm",
@@ -2607,10 +2607,7 @@
         "lng": -73.9682
       },
       "context": [
-        "Monday – Thursday, 11 a.m. – 7 p.m.",
-        "Friday, 12 p.m – 5 p.m.",
-        "Saturday, 10 a.m. -5 p.m.",
-        "Opens at 12 p.m. on Friday",
+        "Monday – Friday, 10am to 3pm",
         "Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -2829,6 +2826,36 @@
       ]
     },
     {
+      "name": "2846 Church Ave",
+      "address": [
+        "Brooklyn, NY11226",
+        "Sunday – Friday, 10am – 7pm"
+      ],
+      "coordinates": {
+        "lat": 40.65053899999999,
+        "lng": -73.94989699999999
+      },
+      "context": [
+        "PCR Testing Available Here",
+        "All Ages"
+      ]
+    },
+    {
+      "name": "3331 Fulton St.",
+      "address": [
+        "Brooklyn, NY11208",
+        "Sunday – Friday, 10am – 7pm"
+      ],
+      "coordinates": {
+        "lat": 40.6836864,
+        "lng": -73.8727455
+      },
+      "context": [
+        "PCR Testing Available Here",
+        "All Ages"
+      ]
+    },
+    {
       "name": "Amalgamated Warbasse Houses",
       "address": [
         "2770 West 5th Street,",
@@ -2994,16 +3021,48 @@
     {
       "name": "Bay Ridge Storefront",
       "address": [
-        "448 86th Street ,",
-        "Brooklyn , NY 11209"
+        "448 86th Street,",
+        "Brooklyn, NY 11209"
       ],
       "coordinates": {
         "lat": 40.6220933,
         "lng": -74.0276287
       },
       "context": [
-        "Sunday, 9:30am-4:30pm",
+        "Sarurday, 9:30am – 4:30pm",
+        "Dates: Jan. 22",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Antioch Baptist Church",
+      "address": [
+        "826 Greene Ave,",
+        "Brooklyn, NY 11221"
+      ],
+      "coordinates": {
+        "lat": 40.6900555,
+        "lng": -73.93506359999999
+      },
+      "context": [
+        "Sunday, 10:30am – 4:30pm",
         "Dates: Jan. 23",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Hope Christian Church",
+      "address": [
+        "369 New Lots Ave",
+        "Brooklyn, NY11207"
+      ],
+      "coordinates": {
+        "lat": 40.66174600000001,
+        "lng": -73.8935913
+      },
+      "context": [
+        "Thursday, 12:00pm-7:00pm",
+        "Dates: Jan. 20",
         "4 years old and above"
       ]
     },
@@ -4268,8 +4327,8 @@
         "Woodside, NY 11377"
       ],
       "coordinates": {
-        "lat": 40.7411816,
-        "lng": -73.9222065
+        "lat": 40.7412558,
+        "lng": -73.9225823
       },
       "context": [
         "Monday – Sunday, 9am – 6pm",
@@ -4557,8 +4616,8 @@
         "Rosedale, NY 11422"
       ],
       "coordinates": {
-        "lat": 40.6567116,
-        "lng": -73.74509429999999
+        "lat": 40.6571597,
+        "lng": -73.7453305
       },
       "context": [
         "Monday – Friday, Sunday, 8:30 am- 4pm",
@@ -5317,6 +5376,21 @@
       ]
     },
     {
+      "name": "74-02 Grand Avenue, #1B, #1C",
+      "address": [
+        "Queens, NY11373",
+        "Sunday – Friday, 10am – 7pm"
+      ],
+      "coordinates": {
+        "lat": 40.72985180000001,
+        "lng": -73.8877734
+      },
+      "context": [
+        "PCR Testing Available Here",
+        "All Ages"
+      ]
+    },
+    {
       "name": "CM Holden Office",
       "address": [
         "64-69 Dry Harbor Road, Middle Village ,",
@@ -5427,6 +5501,22 @@
       "context": [
         "Wednesday – Sunday, 9:00am-5:00pm",
         "Dates: Jan. 19 – 23",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Museum of Moving Images (MoMI)",
+      "address": [
+        "36-01 35th Ave,",
+        "Queens, NY 11106"
+      ],
+      "coordinates": {
+        "lat": 40.7563454,
+        "lng": -73.9239496
+      },
+      "context": [
+        "Saturday, 10:30am – 5:30pm",
+        "Dates: Jan. 22",
         "4 years old and above"
       ]
     },
