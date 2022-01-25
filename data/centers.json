@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-01-24T16:03:55.090Z",
+  "timestamp": "2022-01-25T01:49:28.119Z",
   "centers": [
     {
       "name": "Benjamin Gladstone Square",
@@ -280,8 +280,8 @@
         "Monday – Thursday, 9am-6pm,"
       ],
       "coordinates": {
-        "lat": 40.8814305,
-        "lng": -73.88117629999999
+        "lat": 40.8805771,
+        "lng": -73.8819216
       },
       "context": [
         "Friday, 8am-3pm",
@@ -413,8 +413,8 @@
         "Bronx, NY10452"
       ],
       "coordinates": {
-        "lat": 40.8389325,
-        "lng": -73.91492509999999
+        "lat": 40.8389053,
+        "lng": -73.9149358
       },
       "context": [
         "Monday – Sunday, 8am-6pm",
@@ -650,6 +650,57 @@
         "Dates: Jan. 28 – 30",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
+      ]
+    },
+    {
+      "name": "CDC – D’Auria-Murphy Triangle",
+      "address": [
+        "Intersection of Aruther Ave. and Crescent Ave,",
+        "Bronx, NY 10458"
+      ],
+      "coordinates": {
+        "lat": 40.8531982,
+        "lng": -73.88913409999999
+      },
+      "context": [
+        "Monday – Sunday, 7am – 5pm",
+        "Dates: Jan. 24 – 30",
+        "PCR Testing Offered Here",
+        "All ages"
+      ]
+    },
+    {
+      "name": "CDC – St. James Park",
+      "address": [
+        "2550 Jerome Ave,",
+        "Bronx, NY 10468"
+      ],
+      "coordinates": {
+        "lat": 40.86502369999999,
+        "lng": -73.89777269999999
+      },
+      "context": [
+        "Monday – Sunday, 7am – 5pm",
+        "Dates: Jan. 24 – 30",
+        "PCR Testing Offered Here",
+        "All ages"
+      ]
+    },
+    {
+      "name": "CDC – Crotona Pool",
+      "address": [
+        "Corner of Fulton Ave and East 173rd St,",
+        "Bronx, NY 10457"
+      ],
+      "coordinates": {
+        "lat": 40.8401124,
+        "lng": -73.8979971
+      },
+      "context": [
+        "Monday – Sunday, 7am – 5pm",
+        "Dates: Jan. 24 – 30",
+        "PCR Testing Offered Here",
+        "All ages"
       ]
     },
     {
@@ -1074,11 +1125,43 @@
         "Monday Only, 8:30am-3:30pm"
       ],
       "coordinates": {
-        "lat": 40.8400444,
-        "lng": -73.91821780000001
+        "lat": 40.840605,
+        "lng": -73.918249
       },
       "context": [
         "Dates: Jan. 24",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Riverdale Neighborhood House",
+      "address": [
+        "5521 Mosholu Avenue,",
+        "Bronx, NY 10471"
+      ],
+      "coordinates": {
+        "lat": 40.9033739,
+        "lng": -73.903842
+      },
+      "context": [
+        "Friday, 9:00am – 2:00pm",
+        "Dates: Jan. 28",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Butler Cornerstone Community Center (NYCHA Butler Houses)",
+      "address": [
+        "1368 Webster Avenue,",
+        "Bronx, NY 10456"
+      ],
+      "coordinates": {
+        "lat": 40.8356278,
+        "lng": -73.9071578
+      },
+      "context": [
+        "Thursday, 10:30am – 5:30pm",
+        "Dates: Jan. 27",
         "4 years old and above"
       ]
     },
@@ -1089,8 +1172,8 @@
         "Brooklyn, NY11209"
       ],
       "coordinates": {
-        "lat": 40.6217205,
-        "lng": -74.0258617
+        "lat": 40.6215669,
+        "lng": -74.0259145
       },
       "context": [
         "Monday – Sunday, 9am-6pm",
@@ -1123,8 +1206,8 @@
         "Brooklyn, NY11236"
       ],
       "coordinates": {
-        "lat": 40.6463659,
-        "lng": -73.902605
+        "lat": 40.6470919,
+        "lng": -73.9020985
       },
       "context": [
         "Monday – Sunday, 9am-6pm",
@@ -1844,6 +1927,57 @@
       ]
     },
     {
+      "name": "CDC – Maria Hernandez Park",
+      "address": [
+        "Intersection of Suydam St. and Irving Ave.,",
+        "Brooklyn, NY 11237"
+      ],
+      "coordinates": {
+        "lat": 40.70312819999999,
+        "lng": -73.9238611
+      },
+      "context": [
+        "Monday – Sunday, 7am – 5pm",
+        "Dates: Jan. 24 – 30",
+        "PCR Testing Available Here",
+        "All ages"
+      ]
+    },
+    {
+      "name": "CDC – Rappaport Playground",
+      "address": [
+        "Intersection of 53rd St. and Fort Hamilton Pkwy,",
+        "Brooklyn, NY 11219"
+      ],
+      "coordinates": {
+        "lat": 40.636919,
+        "lng": -74.00067899999999
+      },
+      "context": [
+        "Monday – Sunday, 7am – 5pm",
+        "Dates: Jan. 24 – 30",
+        "PCR Testing Available Here",
+        "All ages"
+      ]
+    },
+    {
+      "name": "God’s Battalion of Prayer Church",
+      "address": [
+        "661 Linden Blvd,",
+        "Brooklyn, NY 11203"
+      ],
+      "coordinates": {
+        "lat": 40.6537438,
+        "lng": -73.93402360000002
+      },
+      "context": [
+        "Saturday, 9am – 5pm",
+        "Dates: Jan. 29",
+        "PCR and Rapid Testing Available Here",
+        "4 years and older"
+      ]
+    },
+    {
       "name": "NYC Health + Hospitals/Coney Island",
       "address": [
         "2601 Ocean Parkway",
@@ -1907,8 +2041,8 @@
         "451 Clarkson Avenue"
       ],
       "coordinates": {
-        "lat": 40.6564542,
-        "lng": -73.94686589999999
+        "lat": 40.6568816,
+        "lng": -73.94470749999999
       },
       "context": [
         "Brooklyn, New York 11203",
@@ -2925,6 +3059,23 @@
       ]
     },
     {
+      "name": "CDC – Morning Side Park Intersetion",
+      "address": [
+        "Intersection of 113th and Morningside Drive,",
+        "New York, NY 11026"
+      ],
+      "coordinates": {
+        "lat": 40.8060712,
+        "lng": -73.9585391
+      },
+      "context": [
+        "Monday – Sunday, 7am – 5pm",
+        "Dates: Jan. 24 – 30",
+        "PCR Testing Available Here",
+        "All ages"
+      ]
+    },
+    {
       "name": "NYC Health + Hospitals/Bellevue",
       "address": [
         "462 First Avenue",
@@ -3242,22 +3393,6 @@
       "context": [
         "Monday – Friday, 9am-2pm",
         "PCR Testing Available Here",
-        "4 years old and above"
-      ]
-    },
-    {
-      "name": "Harlem Congregations for Community Improvement, Inc. (Dinkins)",
-      "address": [
-        "263 West 153rd Street, Community Space,",
-        "Manhattan, NY 10039"
-      ],
-      "coordinates": {
-        "lat": 40.8275197,
-        "lng": -73.9370878
-      },
-      "context": [
-        "Thursday Only, 10:00am-6:00pm",
-        "Dates: Jan. 27",
         "4 years old and above"
       ]
     },
@@ -3606,8 +3741,8 @@
         "Oakland Gardens, NY 11364"
       ],
       "coordinates": {
-        "lat": 40.74239470000001,
-        "lng": -73.73843409999999
+        "lat": 40.7387346,
+        "lng": -73.7566284
       },
       "context": [
         "Monday – Sunday, 8am-7pm",
@@ -3760,8 +3895,8 @@
         "Queens, NY 11418"
       ],
       "coordinates": {
-        "lat": 40.7094983,
-        "lng": -73.8360962
+        "lat": 40.7040481,
+        "lng": -73.8460063
       },
       "context": [
         "Monday – Sunday, 8am-7pm",
@@ -4176,6 +4311,108 @@
         "Dates: Jan. 24 – 30",
         "PCR and Rapid Antigen Testing Offered Here",
         "4 years old and above"
+      ]
+    },
+    {
+      "name": "CDC – Travers Park",
+      "address": [
+        "76-9 34th Ave,",
+        "Queens, NY 11372"
+      ],
+      "coordinates": {
+        "lat": 40.7539534,
+        "lng": -73.88936199999999
+      },
+      "context": [
+        "Monday – Sunday, 7am – 5pm",
+        "Dates: Jan. 24 – 30",
+        "PCR Testing Offered Here",
+        "All ages"
+      ]
+    },
+    {
+      "name": "CDC – Queens Valley Playground",
+      "address": [
+        "Corner of 137 Street & 77 Avenue,",
+        "Flushing NY 11367"
+      ],
+      "coordinates": {
+        "lat": 40.721806,
+        "lng": -73.8238026
+      },
+      "context": [
+        "Monday – Sunday, 7am – 5pm",
+        "Dates: Jan. 24 – 30",
+        "PCR Testing Offered Here",
+        "All ages"
+      ]
+    },
+    {
+      "name": "CDC – Helen Marshall Playground",
+      "address": [
+        "100 St & 24th Ave,",
+        "East Elmhurst, NY 11369"
+      ],
+      "coordinates": {
+        "lat": 40.7657488,
+        "lng": -73.8707687
+      },
+      "context": [
+        "Monday – Sunday, 7am – 5pm",
+        "Dates: Jan. 24 – 30",
+        "PCR Testing Offered Here",
+        "All ages"
+      ]
+    },
+    {
+      "name": "CDC – Van Alst Playground",
+      "address": [
+        "Intersction of 30th Ave. and 21st St.,",
+        "Queens, NY 11102"
+      ],
+      "coordinates": {
+        "lat": 40.7705541,
+        "lng": -73.9283585
+      },
+      "context": [
+        "Monday – Sunday, 7am – 5pm",
+        "Dates: Jan. 24 – 30",
+        "PCR Testing Offered Here",
+        "All ages"
+      ]
+    },
+    {
+      "name": "CDC – Hart Playground",
+      "address": [
+        "Corner of 65th Street & Broadway,",
+        "Queens NY 11377"
+      ],
+      "coordinates": {
+        "lat": 40.7488224,
+        "lng": -73.8974478
+      },
+      "context": [
+        "Monday – Sunday, 7am – 5pm",
+        "Dates: Jan. 24 – 30",
+        "PCR Testing Offered Here",
+        "All ages"
+      ]
+    },
+    {
+      "name": "CDC – Kissena Corridor Park",
+      "address": [
+        "Intersection of 56th Ave. and 141st.,",
+        "Queens NY 11365"
+      ],
+      "coordinates": {
+        "lat": 40.7472926,
+        "lng": -73.8205452
+      },
+      "context": [
+        "Monday – Sunday, 7am – 5pm",
+        "Dates: Jan. 24 – 30",
+        "PCR Testing Offered Here",
+        "All ages"
       ]
     },
     {
