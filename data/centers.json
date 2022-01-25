@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-01-25T01:49:28.119Z",
+  "timestamp": "2022-01-25T15:56:34.788Z",
   "centers": [
     {
       "name": "Benjamin Gladstone Square",
@@ -212,8 +212,8 @@
         "Bronx, NY10461"
       ],
       "coordinates": {
-        "lat": 40.8810784,
-        "lng": -73.8784955
+        "lat": 40.880273,
+        "lng": -73.8791698
       },
       "context": [
         "Monday – Sunday, 9am to 6pm",
@@ -280,8 +280,8 @@
         "Monday – Thursday, 9am-6pm,"
       ],
       "coordinates": {
-        "lat": 40.8805771,
-        "lng": -73.8819216
+        "lat": 40.8814305,
+        "lng": -73.88117629999999
       },
       "context": [
         "Friday, 8am-3pm",
@@ -1125,8 +1125,8 @@
         "Monday Only, 8:30am-3:30pm"
       ],
       "coordinates": {
-        "lat": 40.840605,
-        "lng": -73.918249
+        "lat": 40.8400444,
+        "lng": -73.91821780000001
       },
       "context": [
         "Dates: Jan. 24",
@@ -1495,8 +1495,8 @@
         "Monday – Thursday, 9am-6pm,"
       ],
       "coordinates": {
-        "lat": 40.6994152,
-        "lng": -73.9430003
+        "lat": 40.7000538,
+        "lng": -73.9417768
       },
       "context": [
         "Friday, 8am-3pm",
@@ -1973,6 +1973,23 @@
       "context": [
         "Saturday, 9am – 5pm",
         "Dates: Jan. 29",
+        "PCR and Rapid Testing Available Here",
+        "4 years and older"
+      ]
+    },
+    {
+      "name": "Power Playground",
+      "address": [
+        "E. 49th St. and Avenue N.",
+        "Brooklyn11234"
+      ],
+      "coordinates": {
+        "lat": 40.6181428,
+        "lng": -73.9273481
+      },
+      "context": [
+        "Tuesday, 9am to 6pm",
+        "Dates: Jan. 25 – 30",
         "PCR and Rapid Testing Available Here",
         "4 years and older"
       ]
@@ -2574,22 +2591,6 @@
       ]
     },
     {
-      "name": "Ida G. Israel Health Center",
-      "address": [
-        "2925 W 19th St,",
-        "Brooklyn, NY 11224"
-      ],
-      "coordinates": {
-        "lat": 40.5758659,
-        "lng": -73.9855927
-      },
-      "context": [
-        "Monday – Friday, 8:00am-4:00pm",
-        "Dates: Jan. 24 – 28",
-        "4 years old and above"
-      ]
-    },
-    {
       "name": "Claremont Park",
       "address": [
         "Intersection of Morris Ave. and E. Mt. Eden Ave.",
@@ -3087,8 +3088,7 @@
       },
       "context": [
         "212-562-5555",
-        "Monday – Friday, Walk Ins: 7 a.m. – 7 p.m.",
-        "Saturday, Walk Ins: 7 a.m. – 4 p.m.",
+        "Monday – Saturday, Walk Ins: 7 a.m. – 4 p.m.",
         "Sunday, CLOSED",
         "PCR Testing Offered Here",
         "*Walk-in hours maybe subject to change depending on patient volume.",
@@ -3435,8 +3435,8 @@
         "Queens, NY11368"
       ],
       "coordinates": {
-        "lat": 40.7474938,
-        "lng": -73.8549547
+        "lat": 40.7539366,
+        "lng": -73.85843109999999
       },
       "context": [
         "Monday – Sunday, 9am – 6pm",
@@ -3469,8 +3469,8 @@
         "Queens, NY11435"
       ],
       "coordinates": {
-        "lat": 40.6996426,
-        "lng": -73.8130718
+        "lat": 40.6995455,
+        "lng": -73.8128036
       },
       "context": [
         "Monday – Sunday, 9am to 6pm",
@@ -3573,23 +3573,6 @@
       "coordinates": {
         "lat": 40.7717621,
         "lng": -73.77936040000002
-      },
-      "context": [
-        "Monday – Sunday, 9AM – 6PM",
-        "Dates: Jan. 24 – 30",
-        "Rapid Antigen Testing Offered Here",
-        "2 years old and above"
-      ]
-    },
-    {
-      "name": "Sorrentino Rec Center",
-      "address": [
-        "18-48 Cornaga Avenue",
-        "Queens, NY11691"
-      ],
-      "coordinates": {
-        "lat": 40.6025037,
-        "lng": -73.7513574
       },
       "context": [
         "Monday – Sunday, 9AM – 6PM",
@@ -3741,8 +3724,8 @@
         "Oakland Gardens, NY 11364"
       ],
       "coordinates": {
-        "lat": 40.7387346,
-        "lng": -73.7566284
+        "lat": 40.74239470000001,
+        "lng": -73.73843409999999
       },
       "context": [
         "Monday – Sunday, 8am-7pm",
@@ -4358,8 +4341,8 @@
         "lng": -73.8707687
       },
       "context": [
-        "Monday – Sunday, 7am – 5pm",
-        "Dates: Jan. 24 – 30",
+        "Wednesday – Sunday, 7am-5pm",
+        "Dates: Jan. 26 – 30",
         "PCR Testing Offered Here",
         "All ages"
       ]
@@ -4906,8 +4889,8 @@
         "Staten Island, NY10305"
       ],
       "coordinates": {
-        "lat": 40.6128824,
-        "lng": -74.0619114
+        "lat": 40.6128939,
+        "lng": -74.0619545
       },
       "context": [
         "Monday – Friday, 8am-4pm",
