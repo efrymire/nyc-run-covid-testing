@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-01-26T04:25:35.421Z",
+  "timestamp": "2022-01-26T17:06:27.246Z",
   "centers": [
     {
       "name": "Benjamin Gladstone Square",
@@ -212,8 +212,8 @@
         "Bronx, NY10461"
       ],
       "coordinates": {
-        "lat": 40.880273,
-        "lng": -73.8791698
+        "lat": 40.8810784,
+        "lng": -73.8784955
       },
       "context": [
         "Monday – Sunday, 9am to 6pm",
@@ -260,15 +260,15 @@
       "name": "1400 Pelham Pkwy S",
       "address": [
         "Bronx, NY",
-        "Monday – Thursday, 9am-6pm,"
+        "Monday – Tuesday, Thursday 9am-6pm,"
       ],
       "coordinates": {
-        "lat": 40.8557535,
-        "lng": -73.8464133
+        "lat": 40.8550347,
+        "lng": -73.8442026
       },
       "context": [
         "Friday, 8am-3pm",
-        "Dates: Jan. 24 – 28",
+        "Dates: Jan. 24, 26 – 28",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -1018,7 +1018,7 @@
       },
       "context": [
         "Monday – Wednesday, 9am-2pm",
-        "This site is closed 1/25/22 and 1/26/22",
+        "This site is closed 1/25/22",
         "PCR Testing Available Here",
         "4 years old and above"
       ]
@@ -1479,8 +1479,8 @@
         "Monday – Thursday, 9am-6pm,"
       ],
       "coordinates": {
-        "lat": 40.6995404,
-        "lng": -73.9189434
+        "lat": 40.6995544,
+        "lng": -73.9188842
       },
       "context": [
         "Friday, 8am-3pm",
@@ -1496,8 +1496,8 @@
         "Monday – Thursday, 9am-6pm,"
       ],
       "coordinates": {
-        "lat": 40.7000538,
-        "lng": -73.9417768
+        "lat": 40.6994152,
+        "lng": -73.9430003
       },
       "context": [
         "Friday, 8am-3pm",
@@ -1546,8 +1546,8 @@
         "Saturday – Sunday, 8am-7pm"
       ],
       "coordinates": {
-        "lat": 40.5952949,
-        "lng": -73.9931036
+        "lat": 40.6005012,
+        "lng": -74.0001618
       },
       "context": [
         "Dates: Jan. 29 – 30",
@@ -1741,8 +1741,8 @@
         "Brooklyn, 11216"
       ],
       "coordinates": {
-        "lat": 40.6804226,
-        "lng": -73.945996
+        "lat": 40.6803995,
+        "lng": -73.9461432
       },
       "context": [
         "Monday – Sunday, 8am-7pm",
@@ -2421,8 +2421,8 @@
         "Sunday – Friday, 10am – 7pm"
       ],
       "coordinates": {
-        "lat": 40.6836864,
-        "lng": -73.8727455
+        "lat": 40.6837498,
+        "lng": -73.872378
       },
       "context": [
         "PCR Testing Available Here",
@@ -2604,6 +2604,22 @@
       "context": [
         "Saturday, 10:30am – 4:30pm",
         "Dates: Jan. 29",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Hope Christian Church",
+      "address": [
+        "369 New Lots Ave",
+        "Brooklyn, NY11207"
+      ],
+      "coordinates": {
+        "lat": 40.66174600000001,
+        "lng": -73.8935913
+      },
+      "context": [
+        "Thursday, 11am-7pm",
+        "Dates: Jan. 27",
         "4 years old and above"
       ]
     },
@@ -3193,6 +3209,7 @@
       },
       "context": [
         "Monday – Friday, 9 a.m. – 2 p.m.",
+        "This location will be closed on Wednesday & Thursday, January 26th and 27th",
         "PCR Testing Available Here",
         "4 years old and above"
       ]
@@ -4708,8 +4725,8 @@
         "Queens, NY 11411"
       ],
       "coordinates": {
-        "lat": 40.6971053,
-        "lng": -73.7468535
+        "lat": 40.6969444,
+        "lng": -73.74694439999999
       },
       "context": [
         "Sunday Only, 11:00am-5:30pm",
@@ -4923,8 +4940,8 @@
         "Staten Island, NY10305"
       ],
       "coordinates": {
-        "lat": 40.6130034,
-        "lng": -74.062179
+        "lat": 40.6128824,
+        "lng": -74.0619114
       },
       "context": [
         "Monday – Friday, 8am-4pm",
@@ -5157,8 +5174,8 @@
         "Staten Island, NY 10301"
       ],
       "coordinates": {
-        "lat": 40.64409819999999,
-        "lng": -74.0725489
+        "lat": 40.6440515,
+        "lng": -74.0725126
       },
       "context": [
         "Monday – Thursday, Sunday, 9 a.m. – 7 p.m.",
@@ -5221,8 +5238,8 @@
         "Staten Island, NY 10302"
       ],
       "coordinates": {
-        "lat": 40.637165,
-        "lng": -74.134333
+        "lat": 40.6401964,
+        "lng": -74.13431539999999
       },
       "context": [
         "Monday, Thursday, 9:30am-3:30pm",
