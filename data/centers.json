@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-01-25T15:56:34.788Z",
+  "timestamp": "2022-01-26T04:25:35.421Z",
   "centers": [
     {
       "name": "Benjamin Gladstone Square",
@@ -280,8 +280,8 @@
         "Monday – Thursday, 9am-6pm,"
       ],
       "coordinates": {
-        "lat": 40.8814305,
-        "lng": -73.88117629999999
+        "lat": 40.8805771,
+        "lng": -73.8819216
       },
       "context": [
         "Friday, 8am-3pm",
@@ -1017,7 +1017,8 @@
         "lng": -73.9056978
       },
       "context": [
-        "Monday – Friday, 9am-2pm",
+        "Monday – Wednesday, 9am-2pm",
+        "This site is closed 1/25/22 and 1/26/22",
         "PCR Testing Available Here",
         "4 years old and above"
       ]
@@ -1545,8 +1546,8 @@
         "Saturday – Sunday, 8am-7pm"
       ],
       "coordinates": {
-        "lat": 40.6005012,
-        "lng": -74.0001618
+        "lat": 40.5952949,
+        "lng": -73.9931036
       },
       "context": [
         "Dates: Jan. 29 – 30",
@@ -2209,8 +2210,8 @@
         "Brooklyn, NY 11237"
       ],
       "coordinates": {
-        "lat": 40.7088952,
-        "lng": -73.9218519
+        "lat": 40.7088772,
+        "lng": -73.9218666
       },
       "context": [
         "Monday – Friday, 12 p.m. – 8 p.m.",
@@ -2586,6 +2587,22 @@
       },
       "context": [
         "Saturday Only, 8:30am-3:30pm",
+        "Dates: Jan. 29",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Boulevard CAMBA Community Center (NYCHA Boulevard Houses)",
+      "address": [
+        "726 Stanley Ave,",
+        "Brooklyn, NY 11207"
+      ],
+      "coordinates": {
+        "lat": 40.6599922,
+        "lng": -73.8815765
+      },
+      "context": [
+        "Saturday, 10:30am – 4:30pm",
         "Dates: Jan. 29",
         "4 years old and above"
       ]
@@ -3203,8 +3220,8 @@
         "New York, NY 10033"
       ],
       "coordinates": {
-        "lat": 40.8502935,
-        "lng": -73.9368293
+        "lat": 40.8801687,
+        "lng": -73.9064806
       },
       "context": [
         "Monday – Thursday, 9 a.m. – 2 p.m.",
@@ -3469,8 +3486,8 @@
         "Queens, NY11435"
       ],
       "coordinates": {
-        "lat": 40.6995455,
-        "lng": -73.8128036
+        "lat": 40.6996426,
+        "lng": -73.8130718
       },
       "context": [
         "Monday – Sunday, 9am to 6pm",
@@ -4399,6 +4416,23 @@
       ]
     },
     {
+      "name": "DSI International",
+      "address": [
+        "214-51  Jamaica Avenue,",
+        "Queens NY 11428"
+      ],
+      "coordinates": {
+        "lat": 40.71700390000001,
+        "lng": -73.7421632
+      },
+      "context": [
+        "Thursday – Friday, 8am – 6pm",
+        "Dates: Jan. 27 – 28",
+        "PCR and Rapid Testing Offered Here",
+        "4 years and older"
+      ]
+    },
+    {
       "name": "NYC Health + Hospitals/Elmhurst",
       "address": [
         "77-04 41st Avenue",
@@ -4889,8 +4923,8 @@
         "Staten Island, NY10305"
       ],
       "coordinates": {
-        "lat": 40.6128939,
-        "lng": -74.0619545
+        "lat": 40.6130034,
+        "lng": -74.062179
       },
       "context": [
         "Monday – Friday, 8am-4pm",
@@ -5123,8 +5157,8 @@
         "Staten Island, NY 10301"
       ],
       "coordinates": {
-        "lat": 40.6440515,
-        "lng": -74.0725126
+        "lat": 40.64409819999999,
+        "lng": -74.0725489
       },
       "context": [
         "Monday – Thursday, Sunday, 9 a.m. – 7 p.m.",
