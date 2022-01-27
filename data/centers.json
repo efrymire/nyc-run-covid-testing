@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-01-26T17:06:27.246Z",
+  "timestamp": "2022-01-27T04:06:30.814Z",
   "centers": [
     {
       "name": "Benjamin Gladstone Square",
@@ -263,8 +263,8 @@
         "Monday – Tuesday, Thursday 9am-6pm,"
       ],
       "coordinates": {
-        "lat": 40.8550347,
-        "lng": -73.8442026
+        "lat": 40.8557535,
+        "lng": -73.8464133
       },
       "context": [
         "Friday, 8am-3pm",
@@ -1167,6 +1167,22 @@
       ]
     },
     {
+      "name": "Webster Morrisania Housing Food Distribution Event",
+      "address": [
+        "420 East 169th Street",
+        "Bronx,10456"
+      ],
+      "coordinates": {
+        "lat": 40.8331305,
+        "lng": -73.90676599999999
+      },
+      "context": [
+        "Sunday, 9:30am-4:30pm",
+        "Dates: Jan. 30",
+        "4 years old and above"
+      ]
+    },
+    {
       "name": "Bay Ridge 5th Ave",
       "address": [
         "8511 and 8515 5th Avenue",
@@ -1343,8 +1359,8 @@
         "Brooklyn, NY11215"
       ],
       "coordinates": {
-        "lat": 40.664314,
-        "lng": -73.97719599999999
+        "lat": 40.6602037,
+        "lng": -73.9689558
       },
       "context": [
         "Monday – Sunday, 9am-6pm",
@@ -1428,8 +1444,8 @@
         "Monday – Thursday, 9am-6pm,"
       ],
       "coordinates": {
-        "lat": 40.6909388,
-        "lng": -73.9780268
+        "lat": 40.6912587,
+        "lng": -73.97776879999999
       },
       "context": [
         "Friday, 8am-3pm",
@@ -1479,8 +1495,8 @@
         "Monday – Thursday, 9am-6pm,"
       ],
       "coordinates": {
-        "lat": 40.6995544,
-        "lng": -73.9188842
+        "lat": 40.6995404,
+        "lng": -73.9189434
       },
       "context": [
         "Friday, 8am-3pm",
@@ -1741,8 +1757,8 @@
         "Brooklyn, 11216"
       ],
       "coordinates": {
-        "lat": 40.6803995,
-        "lng": -73.9461432
+        "lat": 40.6804226,
+        "lng": -73.945996
       },
       "context": [
         "Monday – Sunday, 8am-7pm",
@@ -2421,8 +2437,8 @@
         "Sunday – Friday, 10am – 7pm"
       ],
       "coordinates": {
-        "lat": 40.6837498,
-        "lng": -73.872378
+        "lat": 40.6836864,
+        "lng": -73.8727455
       },
       "context": [
         "PCR Testing Available Here",
@@ -2647,8 +2663,8 @@
         "Manhattan, NY10034"
       ],
       "coordinates": {
-        "lat": 40.86140109999999,
-        "lng": -73.9242916
+        "lat": 40.8613688,
+        "lng": -73.9247145
       },
       "context": [
         "Monday – Sunday, 9AM – 6PM",
@@ -3237,8 +3253,8 @@
         "New York, NY 10033"
       ],
       "coordinates": {
-        "lat": 40.8801687,
-        "lng": -73.9064806
+        "lat": 40.8502935,
+        "lng": -73.9368293
       },
       "context": [
         "Monday – Thursday, 9 a.m. – 2 p.m.",
@@ -3754,12 +3770,12 @@
     {
       "name": "Alley Pond Park (Parking Lot)",
       "address": [
-        "216-0-216-98 75th Ave,",
-        "Oakland Gardens, NY 11364"
+        "224-65 76th Ave",
+        "Queens, NY 11364"
       ],
       "coordinates": {
-        "lat": 40.74239470000001,
-        "lng": -73.73843409999999
+        "lat": 40.7402008,
+        "lng": -73.74770749999999
       },
       "context": [
         "Monday – Sunday, 8am-7pm",
@@ -4940,8 +4956,8 @@
         "Staten Island, NY10305"
       ],
       "coordinates": {
-        "lat": 40.6128824,
-        "lng": -74.0619114
+        "lat": 40.6130034,
+        "lng": -74.062179
       },
       "context": [
         "Monday – Friday, 8am-4pm",
@@ -5174,8 +5190,8 @@
         "Staten Island, NY 10301"
       ],
       "coordinates": {
-        "lat": 40.6440515,
-        "lng": -74.0725126
+        "lat": 40.64409819999999,
+        "lng": -74.0725489
       },
       "context": [
         "Monday – Thursday, Sunday, 9 a.m. – 7 p.m.",
@@ -5238,8 +5254,8 @@
         "Staten Island, NY 10302"
       ],
       "coordinates": {
-        "lat": 40.6401964,
-        "lng": -74.13431539999999
+        "lat": 40.637165,
+        "lng": -74.134333
       },
       "context": [
         "Monday, Thursday, 9:30am-3:30pm",
