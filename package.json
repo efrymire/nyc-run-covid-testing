@@ -6,7 +6,8 @@
   "scripts": {
     "start": "parcel serve ./src/index.html --open",
     "build": "parcel build --dist-dir dist src/index.html",
-    "clean": "rm -rf .parcel-cache dist"
+    "clean": "rm -rf .parcel-cache dist",
+    "scrape": "node scripts/testingsites_collect.js"
   },
   "keywords": [],
   "author": "",
