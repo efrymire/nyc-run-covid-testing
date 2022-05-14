@@ -21,6 +21,7 @@
     "csvtojson": "^2.0.10",
     "dotenv": "^10.0.0",
     "geojson": "^0.5.0",
+    "mapbox-gl": "^2.8.2",
     "node-geocoder": "^4.0.0",
     "nominatim-client": "^3.2.1",
     "npm-run-all": "^4.1.5",

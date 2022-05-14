@@ -7,12 +7,8 @@
       name="viewport"
       content="initial-scale=1,maximum-scale=1,user-scalable=no"
     />
-    <link
-      href="https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.css"
-      rel="stylesheet"
-    />
     <link href="input.css" rel="stylesheet" />
-    <script src="https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.js"></script>
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script
       async
@@ -34,15 +30,16 @@
       class="font-sans rounded-md w-auto m-6 p-4 absolute top-0 left-0 z-10 bg-white md:max-w-lg md:w-1/2"
     >
       <div class="flex w-full justify-between">
-        <h3 class="flex-grow-1 text-xl font-bold font-sans">
+        <h1 class="flex-grow-1 text-xl font-bold font-sans">
           City-Run COVID-19 Testing Centers
-        </h3>
-        <img
-          onClick="toggleInfo()"
-          id="arrow"
-          class="w-5 h-5 cursor-pointer open"
-          src="./noun-arrow-2333164.png"
-        />
+        </h1>
+        <button onClick="toggleInfo()">
+          <img
+            id="arrow"
+            class="w-5 h-5 cursor-pointer open"
+            src="./noun-arrow-2333164.png"
+          />
+        </button>
       </div>
       <div id="info" class="pt-2">
         The referenced locations here are free, city-run sites. This map is
