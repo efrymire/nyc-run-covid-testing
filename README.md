@@ -11,7 +11,7 @@ wait times at each location.
 
 The scraper requires a google API token for geolocation, and the mapbox
 component requires a mapbox access token. Add those in your terminal or in an
-`.env` file:
+`.env` file, or make a copy `.env.sample` and save it as `.env`.
 
 ```
 GOOGLE_API_KEY=[token]
@@ -43,3 +43,14 @@ or
 yarn
 yarn start
 ```
+
+## Deployment
+
+For the deploy command on Netlify or other deployment services, use
+`npm run ci-deploy` to trigger a scrape and Parcel build.
+
+### GitHub Actions
+
+The provided GitHub Actions workflow in `scrape.yml` outputs a build artifact
+that contains the scrape data in GeoJSON format. View the repo's action runs and
+look for the Artifacts output.
