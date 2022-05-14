@@ -16,4 +16,5 @@ coverage/
 .parcel-cache/
 dist/
 node_modules/
-data/centers.json
+static/data/centers.json
+static/data/centers.geojson

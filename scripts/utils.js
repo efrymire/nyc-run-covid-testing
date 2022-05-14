@@ -1,6 +1,7 @@
 const fs = require("fs");
 const cliProgress = require("cli-progress");
 const GeoJSON = require("geojson");
+
 // src: https://stackoverflow.com/questions/29880715/how-to-synchronize-a-sequence-of-promises
 function synchronousPromiseAll(array, fn, progress) {
   console.log(`LOG | Beginning geocode of ${array.length} items...`);
@@ -18,14 +19,31 @@ function synchronousPromiseAll(array, fn, progress) {
   }, Promise.resolve());
 }
 
-function convertToGeoJSON(data) {
+function saveGeoJSON(data) {
   let { centers } = data;
-  centers = centers.map(({ coordinates: { lat, lng }, ...d }) => ({
-    ...d,
+  centers = centers.map(({ coordinates: { lat, lng }, ...properties }) => ({
+    ...properties,
     lat,
     lng,
   }));
-  return GeoJSON.parse(centers, { Point: ["lat", "lng"] });
+  const geojson = GeoJSON.parse(centers, { Point: ["lat", "lng"] });
+  fs.mkdir("data", { recursive: true }, (err) => {
+    if (err) {
+      console.error(err);
+    } else {
+      fs.writeFile(
+        "static/data/centers.geojson",
+        JSON.stringify(geojson, null, 2),
+        (err) => {
+          if (err) {
+            console.error(err);
+            return;
+          }
+          console.log("LOG | Successfully written data to file");
+        }
+      );
+    }
+  });
 }
 
 function saveJson(data) {
@@ -34,7 +52,7 @@ function saveJson(data) {
       console.error(err);
     } else {
       fs.writeFile(
-        "data/centers.json",
+        "static/data/centers.json",
         JSON.stringify(data, null, 2),
         (err) => {
           if (err) {
@@ -77,7 +95,7 @@ function parseParams(item) {
 
 module.exports = {
   parseParams,
-  convertToGeoJSON,
+  saveGeoJSON,
   saveJson,
   synchronousPromiseAll,
 };
