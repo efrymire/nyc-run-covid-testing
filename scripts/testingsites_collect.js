@@ -20,7 +20,7 @@ async function scrapeData() {
     const elements = $("p.m-b-20");
 
     console.log(`LOG | Scraping ${elements.length} items...`);
-    Promise.all(elements.slice(0, 2).map((_, el) => $(el).text())) // asynchronously scrape details
+    Promise.all(elements.map((_, el) => $(el).text())) // asynchronously scrape details
       .then((data) => synchronousPromiseAll(data, geocode, progress)) // synchronously get coordinates to stay under query limit (rather than asynchronous)
       .then((centers) => {
         // write all data to a file

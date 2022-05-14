@@ -21,13 +21,16 @@ function synchronousPromiseAll(array, fn, progress) {
 
 function saveGeoJSON(data) {
   let { centers } = data;
-  centers = centers.map(({ coordinates: { lat, lng }, ...properties }) => ({
-    ...properties,
-    lat,
-    lng,
-  }));
+  // Remove null entries
+  centers = centers
+    .filter((d) => d)
+    .map(({ coordinates: { lat, lng }, ...properties }) => ({
+      ...properties,
+      lat,
+      lng,
+    }));
   const geojson = GeoJSON.parse(centers, { Point: ["lat", "lng"] });
-  fs.mkdir("data", { recursive: true }, (err) => {
+  fs.mkdir("static/data", { recursive: true }, (err) => {
     if (err) {
       console.error(err);
     } else {
@@ -47,7 +50,7 @@ function saveGeoJSON(data) {
 }
 
 function saveJson(data) {
-  fs.mkdir("data", { recursive: true }, (err) => {
+  fs.mkdir("static/data", { recursive: true }, (err) => {
     if (err) {
       console.error(err);
     } else {
