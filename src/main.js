@@ -1,7 +1,7 @@
 const { centers, timestamp } = require("../static/data/centers.json");
 import axios from "axios";
 import csv from "csvtojson";
-import Mapbox from "./map";
+import MapFacade from "./MapFacade";
 import Info from "./info.js";
 
 const timesURL =
@@ -13,7 +13,7 @@ let state = {
 };
 
 if (centers) {
-  map = new Mapbox(centers);
+  map = new MapFacade(centers);
   getTimes().then((times) => map.includeTimes(times));
 }
 

@@ -1,7 +1,7 @@
 import mapboxgl from "mapbox-gl";
 import "mapbox-gl/dist/mapbox-gl.css";
 
-class Mapbox {
+class MapFacade {
   constructor(centers) {
     this.centers = centers;
     console.log("this.centers :>> ", this.centers);
@@ -52,4 +52,4 @@ const formatPopup = (location, waitTimeObj) => `
   </div>
 `;
 
-export default Mapbox;
+export default MapFacade;
