@@ -1,11 +1,9 @@
-const axios = require("axios");
-const cheerio = require("cheerio");
-
+import axios from "axios";
+import cheerio from "cheerio";
+import "dotenv/config"; // see https://github.com/motdotla/dotenv#how-do-i-use-dotenv-with-import
+import GeocoderManager from "./GeocoderManager.js";
 // import other submodules
-const { synchronousPromiseAll } = require("./utils.js");
-const GeocoderManager = require("./GeocoderManager");
-
-require("dotenv").config();
+import { synchronousPromiseAll } from "./utils.js";
 
 const NYCHH_URL =
   "https://www.nychealthandhospitals.org/covid-19-testing-sites/";

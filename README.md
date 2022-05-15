@@ -26,7 +26,7 @@ To scrape, from the root directory, run:
 node scripts/testingsites_collect.js
 ```
 
-or `npm run scrape`.
+or `npm run scrape`. All of the scripts within `./scripts` require Node v16+.
 
 ### Visualizing
 

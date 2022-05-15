@@ -1,9 +1,9 @@
 // Modular geocoder library
-const axios = require("axios");
-const NodeGeocoder = require("node-geocoder");
-const fs = require("fs");
-const GeoJSON = require("geojson");
-const nominatim = require("nominatim-client");
+import axios from "axios";
+import fs from "fs";
+import GeoJSON from "geojson";
+import NodeGeocoder from "node-geocoder";
+import nominatim from "nominatim-client";
 
 class GeocoderManager {
   // This is a "facade" class that orchestrates all geocoders.
@@ -210,4 +210,4 @@ class GeocoderManager {
   }
 }
 
-module.exports = GeocoderManager;
+export default GeocoderManager;

@@ -1,7 +1,7 @@
-const cliProgress = require("cli-progress");
+import cliProgress from "cli-progress";
 
 // src: https://stackoverflow.com/questions/29880715/how-to-synchronize-a-sequence-of-promises
-function synchronousPromiseAll(array, fn, progress) {
+export function synchronousPromiseAll(array, fn, progress) {
   console.log(`LOG | Beginning geocode of ${array.length} items...`);
   progress = new cliProgress.SingleBar({}, cliProgress.Presets.shades_classic);
   progress.start(array.length, 1);
@@ -16,7 +16,3 @@ function synchronousPromiseAll(array, fn, progress) {
     });
   }, Promise.resolve());
 }
-
-module.exports = {
-  synchronousPromiseAll,
-};
