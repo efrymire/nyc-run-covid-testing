@@ -2,8 +2,7 @@
 .parcel-cache
 testinglines*
 
-static/data/centers.json
-static/data/centers.geojson
+static/data/
 
 # From parcel-bundlder
 node_modules/

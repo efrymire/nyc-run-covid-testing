@@ -52,7 +52,8 @@ class GeocoderManager {
         coordinates: { lat, lng },
         // Context describes additional info about the test site
         context,
-        geocoderExtraData: item,
+        // Removed to keep data small
+        // geocoderExtraData: item,
       };
     });
   }
