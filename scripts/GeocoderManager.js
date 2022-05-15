@@ -6,6 +6,8 @@ const GeoJSON = require("geojson");
 const nominatim = require("nominatim-client");
 
 class GeocoderManager {
+  // This is a "facade" class that orchestrates all geocoders.
+
   constructor() {
     this.NODE_ENV_MAPBOX_ACCESS_TOKEN =
       process.env.NODE_ENV_MAPBOX_ACCESS_TOKEN;
@@ -193,7 +195,7 @@ class GeocoderManager {
       } else {
         fs.writeFile(
           "static/data/centers.json",
-          JSON.stringify(data, null, 2),
+          JSON.stringify(data),
           (err) => {
             if (err) {
               console.error(err);

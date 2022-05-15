@@ -7,14 +7,16 @@ const GeocoderManager = require("./GeocoderManager");
 
 require("dotenv").config();
 
-const url = "https://www.nychealthandhospitals.org/covid-19-testing-sites/";
+const NYCHH_URL =
+  "https://www.nychealthandhospitals.org/covid-19-testing-sites/";
+
 let progress;
 
 async function scrapeData() {
   try {
     const geocoder = new GeocoderManager();
     // Fetch HTML of the page we want to scrape
-    const { data } = await axios.get(url);
+    const { data } = await axios.get(NYCHH_URL);
     // Load HTML we fetched in the previous line
     const $ = cheerio.load(data);
     // Select all the list items in plainlist class

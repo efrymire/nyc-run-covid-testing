@@ -5,6 +5,7 @@ import mapboxgl from "mapbox-gl";
 import "mapbox-gl/dist/mapbox-gl.css";
 
 class MapManager {
+  // This is a "facade" class that orchestrates the setup of Mapbox.
   constructor() {
     // console.log("this.centers :>> ", this.centers);
     mapboxgl.accessToken = process.env.NODE_ENV_MAPBOX_ACCESS_TOKEN;
