@@ -1,7 +1,7 @@
 import axios from "axios";
 import Info from "./info";
 import csv from "csvtojson";
-import { Map as MapboxMap } from "mapbox-gl";
+import { Map as MapboxMap, Popup } from "mapbox-gl";
 import "mapbox-gl/dist/mapbox-gl.css";
 
 class MapManager {
@@ -108,10 +108,7 @@ class MapManager {
             this.lookupWaitTime(name)
           );
 
-          new mapboxgl.Popup()
-            .setLngLat(coordinates)
-            .setHTML(popupHTML)
-            .addTo(this.map);
+          new Popup().setLngLat(coordinates).setHTML(popupHTML).addTo(this.map);
         });
 
         // Change the cursor to a pointer when the mouse is over the places layer.
