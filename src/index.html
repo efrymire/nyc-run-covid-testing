@@ -1,55 +1,100 @@
 <!DOCTYPE html>
 <html>
+  <head>
+    <meta charset="utf-8" />
+    <title>NYC City-Run Covid Testing Centers</title>
+    <meta
+      name="viewport"
+      content="initial-scale=1,maximum-scale=1,user-scalable=no"
+    />
+    <link href="input.css" rel="stylesheet" />
 
-<head>
-  <meta charset="utf-8">
-  <title>NYC City-Run Covid Testing Centers</title>
-  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
-  <link href="https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.css" rel="stylesheet">
-  <link href="input.css" rel="stylesheet">
-  <script src="https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.js"></script>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-DEYXGWGG4H"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-DEYXGWGG4H"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
 
-    gtag('config', 'G-DEYXGWGG4H');
-  </script>
-</head>
+      gtag("config", "G-DEYXGWGG4H");
+    </script>
+  </head>
 
-<body>
-  <div class="font-sans rounded-md w-auto m-6 p-4 absolute top-0 left-0 z-10 bg-white md:max-w-lg md:w-1/2">
-    <div class="flex w-full justify-between">
-      <h3 class="flex-grow-1 text-xl font-bold font-sans">City-Run COVID-19 Testing Centers</h3>
-      <img onClick="toggleInfo()" id="arrow" class="w-5 h-5 cursor-pointer open" src="./noun-arrow-2333164.png" />
-    </div>
-    <div id="info" class="pt-2">
-      The referenced locations here are free, city-run sites. This map is based on data from <a
-        class="text-blue-600 text-underline" href="https://www.nychealthandhospitals.org/covid-19-testing-sites/"> NYC
-        Health and Hospitals COVID-19 Testing
-        Sites</a>. This list may not be exhaustive and does not update automatically. Be sure to confirm all
-      information
-      with the original site.
-      For more details about city sponsored COVID resources, visit the <a class="text-blue-600 text-underline"
-        href="https://www.nychealthandhospitals.org/covid-19-resources-for-all-new-yorkers/">NYC Health and Hospitals
-        COVID-19 Resources</a> webpage. <br><br>
-      <div class="text-gray-500 pt-2 text-sm">Locations Last Updated: <span id="timestamp"></span></div>
-      <div class="text-sm">
-        Wait time information is thanks to <a class="text-blue-600 text-underline"
-          href="https://github.com/ctbarna/covid-wait-times" target="_blank">Chris
-          Barna's open source project</a>. Check out his site on wait times, <a class="text-blue-600 text-underline"
-          href="https://testinglines.nyc" target="_blank">testinglines.nyc</a>.<br><br>
+  <body>
+    <div
+      class="font-sans rounded-md w-auto m-6 p-4 absolute top-0 left-0 z-10 bg-white md:max-w-lg md:w-1/2"
+    >
+      <div class="flex w-full justify-between">
+        <h1 class="flex-grow-1 text-xl font-bold font-sans">
+          City-Run COVID-19 Testing Centers
+        </h1>
+        <button onClick="toggleInfo()">
+          <img
+            id="arrow"
+            class="w-5 h-5 cursor-pointer open"
+            src="noun-arrow-2333164.png"
+          />
+        </button>
+      </div>
+      <div id="info" class="pt-2">
+        The referenced locations here are free, city-run sites. This map is
+        based on data from
+        <a
+          class="text-blue-600 text-underline"
+          href="https://www.nychealthandhospitals.org/covid-19-testing-sites/"
+        >
+          NYC Health and Hospitals COVID-19 Testing Sites</a
+        >. This list may not be exhaustive and does not update automatically. Be
+        sure to confirm all information with the original site. For more details
+        about city sponsored COVID resources, visit the
+        <a
+          class="text-blue-600 text-underline"
+          href="https://www.nychealthandhospitals.org/covid-19-resources-for-all-new-yorkers/"
+          >NYC Health and Hospitals COVID-19 Resources</a
+        >
+        webpage. <br /><br />
+        <div class="text-gray-500 pt-2 text-sm">
+          Locations Last Updated: <span id="timestamp"></span>
+        </div>
+        <div class="text-sm">
+          Wait time information is thanks to
+          <a
+            class="text-blue-600 text-underline"
+            href="https://github.com/ctbarna/covid-wait-times"
+            target="_blank"
+            >Chris Barna's open source project</a
+          >. Check out his site on wait times,
+          <a
+            class="text-blue-600 text-underline"
+            href="https://testinglines.nyc"
+            target="_blank"
+            >testinglines.nyc</a
+          >.<br /><br />
+        </div>
+        <div class="text-sm">
+          <a
+            class="text-blue-600 text-underline"
+            href="/data/centers.geojson"
+            download
+            >Download data (GeoJSON)</a
+          >
+        </div>
+      </div>
+      <div class="text-gray-500 pt-2 text-sm">
+        © Ellie Frymire 2021.
+        <a
+          class="text-blue-600 text-underline"
+          href="https://github.com/efrymire/nyc-run-covid-testing"
+          >Source code.</a
+        >
       </div>
     </div>
-    <div class="text-gray-500 pt-2 text-sm">
-      © Ellie Frymire 2021. <a class="text-blue-600 text-underline"
-        href="https://github.com/efrymire/nyc-run-covid-testing">Source code.</a>
-    </div>
-  </div>
-  <div id="map"></div>
-  <script src="main.js" type="module"></script>
-</body>
-
+    <div id="map"></div>
+    <script src="main.js" type="module"></script>
+  </body>
 </html>
