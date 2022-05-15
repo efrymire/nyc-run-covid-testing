@@ -1,0 +1,8 @@
+# https://docs.netlify.com/configure-builds/file-based-configuration/
+# Note: You must set the secret NODE_ENV_MAPBOX_ACCESS_TOKEN
+# in your Netlify UI/CLI for the Site in order for the token
+# to be used in the output build.
+# https://docs.netlify.com/configure-builds/environment-variables/
+[build]
+  command = "npm run ci-deploy"
+  publish = "dist"
