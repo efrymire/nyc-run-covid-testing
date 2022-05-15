@@ -5,8 +5,7 @@ let state = {
   infoOpen: true,
 };
 
-function toggleInfo() {
+window.toggleInfo = function toggleInfo() {
   state.infoOpen = !state.infoOpen;
   map.info.toggle(state.infoOpen);
-}
-window.toggleInfo = toggleInfo;
+};

@@ -1,16 +1,16 @@
 import axios from "axios";
 import Info from "./info";
 import csv from "csvtojson";
-import mapboxgl from "mapbox-gl";
+import { Map as MapboxMap } from "mapbox-gl";
 import "mapbox-gl/dist/mapbox-gl.css";
 
 class MapManager {
   // This is a "facade" class that orchestrates the setup of Mapbox.
   constructor() {
     // console.log("this.centers :>> ", this.centers);
-    mapboxgl.accessToken = process.env.NODE_ENV_MAPBOX_ACCESS_TOKEN;
 
-    this.map = new mapboxgl.Map({
+    this.map = new MapboxMap({
+      accessToken: process.env.NODE_ENV_MAPBOX_ACCESS_TOKEN,
       container: "map", // container ID
       style: "mapbox://styles/mapbox/streets-v11", // style URL
       center: [-74.0183, 40.7077], // starting position [lng, lat]
@@ -51,10 +51,6 @@ class MapManager {
     this.timesLookup = new Map(times.map((time) => [time.fullname, time]));
   }
 
-  async loadMapStyles() {
-    // Load the image
-  }
-
   loadMapData() {
     // Fetch data
 
@@ -71,12 +67,15 @@ class MapManager {
           source: "testSites",
           layout: {
             "icon-image": "custom-marker",
+            "icon-ignore-placement": true,
             "icon-allow-overlap": true,
             // get the title name from the source's "title" property
-            "text-field": ["get", "name"],
-            "text-font": ["Open Sans Semibold", "Arial Unicode MS Bold"],
-            "text-offset": [0, 1.25],
-            "text-anchor": "top",
+            // "text-ignore-placement": true,
+            // "text-allow-overlap": false,
+            // "text-field": ["get", "name"],
+            // "text-font": ["Open Sans Semibold", "Arial Unicode MS Bold"],
+            // "text-offset": [0, 1.25],
+            // "text-anchor": "top",
           },
         });
 
