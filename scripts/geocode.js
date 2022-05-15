@@ -1,18 +1,12 @@
-// Modular geocoder library
 const NodeGeocoder = require("node-geocoder");
-
 const { parseParams } = require("./utils");
 
 function geocode(item, index, all, progress) {
-  // Use Mapbox by default since we already have the access token
-
-  // update progress bar
   const num = index + 1;
   progress.update(num);
   if (num === all.length) {
     progress.stop();
   }
-
   const { name, street, city, state, postalcode, country, context } =
     parseParams(item);
   const queryString = `${street} ${city}, ${state} ${postalcode}, ${country}`;
@@ -34,7 +28,7 @@ function geocode(item, index, all, progress) {
     } else {
     }
     const item = results[0];
-    const { latitude: lat, longitude: lng } = item;
+    const { latitude: lat, longitude: lng, formattedAddress } = item;
     return {
       name,
       address: [street, city, state, postalcode],

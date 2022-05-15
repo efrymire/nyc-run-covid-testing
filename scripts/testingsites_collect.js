@@ -2,7 +2,7 @@ const axios = require("axios");
 const cheerio = require("cheerio");
 
 // import other submodules
-const { synchronousPromiseAll, saveGeoJSON, saveJson } = require("./utils.js");
+const { synchronousPromiseAll, saveJson } = require("./utils.js");
 const geocode = require("./geocode");
 
 require("dotenv").config();
@@ -29,7 +29,6 @@ async function scrapeData() {
           centers,
         };
         saveJson(data);
-        saveGeoJSON(data);
       });
   } catch (err) {
     console.error(err);

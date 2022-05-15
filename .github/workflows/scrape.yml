@@ -39,4 +39,4 @@ jobs:
           name: dist
           path: |
             dist
-            static/data/**
+            data/**
