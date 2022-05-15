@@ -51,6 +51,11 @@ For the deploy command on Netlify or other deployment services, use
 
 ### GitHub Actions
 
-The provided GitHub Actions workflow in `scrape.yml` outputs a build artifact
-that contains the scrape data in GeoJSON format. View the repo's action runs and
-look for the Artifacts output.
+The provided GitHub Actions workflow in `scrape-deploy.yml` outputs a build
+artifact that contains the scrape data in GeoJSON format. View the repo's action
+runs and look for the Artifacts output.
+
+Two secrets—`NETLIFY_AUTH_TOKEN`, and `NETLIFY_SITE_ID`—are required for the
+workflow. These must be configured via GitHub repo secrets. See
+[docs for the nwtgck/actions-netlify action](https://github.com/nwtgck/actions-netlify#required-inputs-and-env)
+for how to get these keys from Netlify.
