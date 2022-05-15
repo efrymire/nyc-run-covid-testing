@@ -1,6 +1,5 @@
 import axios from "axios";
 import Info from "./info";
-import csv from "csvtojson";
 import { Map as MapboxMap, Popup } from "mapbox-gl";
 import "mapbox-gl/dist/mapbox-gl.css";
 
@@ -47,6 +46,7 @@ class MapManager {
     const { data } = await axios.get(
       "https://gist.githubusercontent.com/ctbarna/98b660129b01a5a2c050f3bab78aad70/raw/wait.csv"
     );
+    const csv = await import("csvtojson");
     const times = await csv({ output: "json" }).fromString(data);
     this.timesLookup = new Map(times.map((time) => [time.fullname, time]));
   }
