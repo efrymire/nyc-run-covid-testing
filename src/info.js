@@ -1,7 +1,10 @@
 class Info {
-  constructor(timestamp) {
+  constructor() {
     // console.log('new Date(timestamp).toLocaleString :>> ', );
-    this.element.innerText = `${new Date(timestamp).toLocaleString("en-US", {
+  }
+
+  set timestamp(ts) {
+    this.element.innerText = `${new Date(ts).toLocaleString("en-US", {
       timeZone: "America/New_York",
     })} ET`;
   }
