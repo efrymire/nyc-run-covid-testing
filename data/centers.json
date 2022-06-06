@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-06-04T04:13:26.488Z",
+  "timestamp": "2022-06-06T15:08:20.376Z",
   "centers": [
     {
       "name": "650 Pelham Parkway",
@@ -12,8 +12,8 @@
         "lng": -73.8679069
       },
       "context": [
-        "Tuesday – Sunday, 8:00AM-6:00PM",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8:00AM-6:00PM",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -29,8 +29,8 @@
         "lng": -73.9009516
       },
       "context": [
-        "Tuesday – Sunday, 8:00AM-6:00PM",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8:00AM-6:00PM",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -46,25 +46,8 @@
         "lng": -73.85055059999999
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
-        "PCR and Rapid Antigen Testing Available Here",
-        "4 years old and above"
-      ]
-    },
-    {
-      "name": "Bronxwood International Church of God",
-      "address": [
-        "3232 Lurting Avenue",
-        "Bronx, NY10469"
-      ],
-      "coordinates": {
-        "lat": 40.87237469999999,
-        "lng": -73.8563041
-      },
-      "context": [
-        "Saturday, 9am-5pm",
-        "Dates: June 4",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -80,8 +63,8 @@
         "lng": -73.8941597
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -98,7 +81,7 @@
       },
       "context": [
         "Wednesday – Thursday, 8am-7pm",
-        "Dates: June 1 – 2",
+        "Dates: June 8 – 9",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -114,8 +97,8 @@
         "lng": -73.8287211
       },
       "context": [
-        "Tuesday, 8am-7pm",
-        "Dates: May 31",
+        "Monday – Tuesday, 8am-7pm",
+        "Dates: June 6 – 7",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -132,7 +115,7 @@
       },
       "context": [
         "Friday – Sunday, 8am-7pm",
-        "Dates: June 3 – 5",
+        "Dates: June 10 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -148,8 +131,8 @@
         "lng": -73.89767739999999
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -165,8 +148,8 @@
         "lng": -73.8653245
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -182,42 +165,25 @@
         "lng": -73.8586301
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
     },
     {
-      "name": "Hunts Point Recreation Center",
+      "name": "Health fair with AICC- and LACOA",
       "address": [
-        "765 Manida St",
-        "Bronx, NY10474"
+        "3510 Holland Ave",
+        "Bronx, NY10467"
       ],
       "coordinates": {
-        "lat": 40.8149605,
-        "lng": -73.88909149999999
+        "lat": 40.8771092,
+        "lng": -73.8646165
       },
       "context": [
-        "Tuesday – Friday,  Sunday, 8am-6pm",
-        "Dates: May 31 – June 5",
-        "PCR and Rapid Antigen Testing Available Here",
-        "4 years old and above"
-      ]
-    },
-    {
-      "name": "Kwame Ture Recreation Center",
-      "address": [
-        "1527 Jesup Ave",
-        "Bronx, NY10452"
-      ],
-      "coordinates": {
-        "lat": 40.8440028,
-        "lng": -73.918975
-      },
-      "context": [
-        "Friday, 8am-5pm",
-        "Dates: June 3",
+        "Saturday, 10am-6pm",
+        "Dates: June 11",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -233,8 +199,25 @@
         "lng": -73.8679092
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
+        "PCR and Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "NYC Health + Hospitals North Central Bronx",
+      "address": [
+        "3424 Kossuth Ave",
+        "Bronx, NY10467"
+      ],
+      "coordinates": {
+        "lat": 40.8805787,
+        "lng": -73.88108249999999
+      },
+      "context": [
+        "Monday – Sunday, 8am-6pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -250,8 +233,42 @@
         "lng": -73.8611073
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
+        "PCR and Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "PS 340",
+      "address": [
+        "25 W 195th St",
+        "Bronx, NY10468"
+      ],
+      "coordinates": {
+        "lat": 40.8693628,
+        "lng": -73.89711129999999
+      },
+      "context": [
+        "Tuesday, 8am-2pm",
+        "Dates: June 7",
+        "PCR and Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "R.A.I.N. Gunhill Neighborhood Senior Center",
+      "address": [
+        "3377 White Plains Rd",
+        "Bronx, NY10469"
+      ],
+      "coordinates": {
+        "lat": 40.8747134,
+        "lng": -73.8673211
+      },
+      "context": [
+        "Friday, 9am-5pm",
+        "Dates: June 10",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -267,8 +284,8 @@
         "lng": -73.8710277
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -284,8 +301,8 @@
         "lng": -73.89777269999999
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -301,8 +318,42 @@
         "lng": -73.9125335
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
+        "PCR and Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Stars and Stripes Playground",
+      "address": [
+        "2051 Crawford Ave",
+        "Bronx, NY10466"
+      ],
+      "coordinates": {
+        "lat": 40.8852036,
+        "lng": -73.83968999999999
+      },
+      "context": [
+        "Monday – Sunday, 8am-6pm",
+        "Dates: June 6 – 12",
+        "PCR and Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Tiffany Playground",
+      "address": [
+        "1050 Tiffany St",
+        "Bronx, NY10459"
+      ],
+      "coordinates": {
+        "lat": 40.8247736,
+        "lng": -73.8943702
+      },
+      "context": [
+        "Monday – Wednesday, 8am-6pm",
+        "Dates: June 6 – 8",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -318,8 +369,8 @@
         "lng": -73.8620456
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -335,8 +386,8 @@
         "lng": -73.897646
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -999,25 +1050,8 @@
         "lng": -73.95871869999999
       },
       "context": [
-        "Tuesday – Sunday, 8:00AM-6:00PM",
-        "Dates: May 31 – June 5",
-        "PCR and Rapid Antigen Testing Available Here",
-        "4 years old and above"
-      ]
-    },
-    {
-      "name": "Brooklyn Neighborhood Health Action Center",
-      "address": [
-        "485 Throop Ave",
-        "Brooklyn, NY 11221"
-      ],
-      "coordinates": {
-        "lat": 40.6855549,
-        "lng": -73.9411715
-      },
-      "context": [
-        "Wednesday – Friday, 8:00AM – 6:00PM",
-        "Dates: June 1 – 3",
+        "Monday – Sunday, 8:00AM-6:00PM",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -1033,8 +1067,8 @@
         "lng": -73.94535479999999
       },
       "context": [
-        "Tuesday – Sunday, 8:00AM-6:00PM",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8:00AM-6:00PM",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -1050,8 +1084,8 @@
         "lng": -73.9474322
       },
       "context": [
-        "Tuesday – Sunday, 8:00AM-6:00PM",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8:00AM-6:00PM",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -1067,8 +1101,8 @@
         "lng": -73.9328673
       },
       "context": [
-        "Tuesday – Sunday, 8:00AM-6:00PM",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8:00AM-6:00PM",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -1084,8 +1118,8 @@
         "lng": -73.9409927
       },
       "context": [
-        "Tuesday – Sunday, 8:00AM-6:00PM",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8:00AM-6:00PM",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -1101,8 +1135,8 @@
         "lng": -73.9498922
       },
       "context": [
-        "Tuesday – Sunday, 8:00AM-6:00PM",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8:00AM-6:00PM",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -1118,8 +1152,8 @@
         "lng": -73.90256409999999
       },
       "context": [
-        "Tuesday – Sunday, 8:00AM-6:00PM",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8:00AM-6:00PM",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -1135,8 +1169,25 @@
         "lng": -73.9863087
       },
       "context": [
-        "Tuesday – Sunday, 8:00AM-6:00PM",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8:00AM-6:00PM",
+        "Dates: June 6 – 12",
+        "PCR and Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Seth Low Playground",
+      "address": [
+        "7323 Bay Parkway",
+        "Brooklyn, NY11204"
+      ],
+      "coordinates": {
+        "lat": 40.6081073,
+        "lng": -73.9863087
+      },
+      "context": [
+        "Monday – Sunday, 8:00AM-6:00PM",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -1152,8 +1203,25 @@
         "lng": -73.9306893
       },
       "context": [
-        "Tuesday – Sunday, 8:00AM-6:00PM",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8:00AM-6:00PM",
+        "Dates: June 6 – 12",
+        "PCR and Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "100% Playground",
+      "address": [
+        "10002 Glenwood Rd",
+        "Brooklyn, NY11236"
+      ],
+      "coordinates": {
+        "lat": 40.6466193,
+        "lng": -73.8993344
+      },
+      "context": [
+        "Saturday – Sunday, 8am-6pm",
+        "Dates: June 11 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -1170,7 +1238,41 @@
       },
       "context": [
         "Wednesday, 8am-6pm",
-        "Dates: June 1",
+        "Dates: June 8",
+        "PCR and Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Arab-American Association of NY",
+      "address": [
+        "7111 5th Ave",
+        "Brooklyn, NY11209"
+      ],
+      "coordinates": {
+        "lat": 40.6321821,
+        "lng": -74.0212403
+      },
+      "context": [
+        "Monday, 10am-5pm",
+        "Dates: June 6",
+        "PCR and Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Beacon Health Fair",
+      "address": [
+        "101 Park Ave",
+        "Brooklyn, NY11205"
+      ],
+      "coordinates": {
+        "lat": 40.6967968,
+        "lng": -73.9760706
+      },
+      "context": [
+        "Saturday, 10AM – 5PM",
+        "Dates: June 11",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -1186,42 +1288,25 @@
         "lng": -73.969405
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
     },
     {
-      "name": "Bushwick HRA Center",
+      "name": "Brooklyn Neighborhood Health Action Center",
       "address": [
-        "95 Evergreen Ave",
-        "Brooklyn, NY11206"
+        "485 Throop Ave",
+        "Brooklyn, NY11221"
       ],
       "coordinates": {
-        "lat": 40.7001046,
-        "lng": -73.9322219
+        "lat": 40.6855549,
+        "lng": -73.9411715
       },
       "context": [
-        "Tuesday – Friday, 8AM-6PM",
-        "Dates: May 31 – June 5",
-        "PCR and Rapid Antigen Testing Available Here",
-        "4 years old and above"
-      ]
-    },
-    {
-      "name": "CB9 Community Fair",
-      "address": [
-        "848 Classon Ave",
-        "Brooklyn, NY11238"
-      ],
-      "coordinates": {
-        "lat": 40.6710641,
-        "lng": -73.961398
-      },
-      "context": [
-        "Saturday, 10am-4pm",
-        "Dates: June 4",
+        "Monday – Tuesday, Thursday, 8am-6pm,",
+        "Dates: June 6 – 7",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -1237,59 +1322,42 @@
         "lng": -73.8987798
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: June 4",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
     },
     {
-      "name": "Coffey Park",
+      "name": "Caribbean Women’s Health Association",
       "address": [
-        "85 Richards St",
-        "Brooklyn, NY11231"
+        "3512 Church Ave",
+        "Brooklyn, NY11203"
       ],
       "coordinates": {
-        "lat": 40.6776243,
-        "lng": -74.008479
+        "lat": 40.6508948,
+        "lng": -73.9443297
+      },
+      "context": [
+        "Wednesday, 11am-5pm",
+        "Dates: June 8",
+        "PCR and Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Central Library (BPL)",
+      "address": [
+        "10 Grand Army Plaza",
+        "Brooklyn, NY11238"
+      ],
+      "coordinates": {
+        "lat": 40.67251110000001,
+        "lng": -73.9682
       },
       "context": [
         "Saturday – Sunday, 8am-6pm",
-        "Dates: June 4 – 5",
-        "PCR and Rapid Antigen Testing Available Here",
-        "4 years old and above"
-      ]
-    },
-    {
-      "name": "Council of Peoples Organization",
-      "address": [
-        "1081 Coney Island Avenue",
-        "Brooklyn, NY11230"
-      ],
-      "coordinates": {
-        "lat": 40.6313234,
-        "lng": -73.966185
-      },
-      "context": [
-        "Friday, 8am-6pm",
-        "Dates: June 3",
-        "PCR and Rapid Antigen Testing Available Here",
-        "4 years old and above"
-      ]
-    },
-    {
-      "name": "De Hostos Playground",
-      "address": [
-        "133 Harrison Ave",
-        "Brooklyn, NY11206"
-      ],
-      "coordinates": {
-        "lat": 40.7026397,
-        "lng": -73.94935939999999
-      },
-      "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Dates: June 11 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -1305,25 +1373,8 @@
         "lng": -73.90963980000001
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
-        "PCR and Rapid Antigen Testing Available Here",
-        "4 years old and above"
-      ]
-    },
-    {
-      "name": "Fort Greene SNAP",
-      "address": [
-        "324 Myrtle Ave",
-        "Brooklyn, NY11205"
-      ],
-      "coordinates": {
-        "lat": 40.6931652,
-        "lng": -73.97352070000001
-      },
-      "context": [
-        "Friday, 9:30 am-5pm",
-        "Dates: June 3",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -1339,25 +1390,8 @@
         "lng": -73.946732
       },
       "context": [
-        "Tuesday – Sunday, 8am-6pm",
-        "Dates: May 31 – June 5",
-        "PCR and Rapid Antigen Testing Available Here",
-        "4 years old and above"
-      ]
-    },
-    {
-      "name": "Highland Park",
-      "address": [
-        "550 Jamaica Ave",
-        "Brooklyn, NY11208"
-      ],
-      "coordinates": {
-        "lat": 40.6847903,
-        "lng": -73.88317289999999
-      },
-      "context": [
-        "Sunday, 8am-6pm",
-        "Dates: June 5",
+        "Monday – Sunday, 8am-6pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -1374,6 +1408,24 @@
       },
       "context": [
         "Thursday, 8am-7pm",
+        "Dates: June 9",
+        "PCR and Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Make the Road NY – Brooklyn office",
+      "address": [
+        "301 Grove Street",
+        "Brooklyn, NY11237"
+      ],
+      "coordinates": {
+        "lat": 40.6984668,
+        "lng": -73.9158805
+      },
+      "context": [
+        "Friday, 12pm-6pm",
+        "Dates: June 10",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -1381,7 +1433,7 @@
     {
       "name": "Manhattan Beach Park",
       "address": [
-        "760 Oriental Ave",
+        "698 Oriental Ave",
         "Brooklyn, NY11235"
       ],
       "coordinates": {
@@ -1389,8 +1441,8 @@
         "lng": -73.942583
       },
       "context": [
-        "Sunday, 8am-6pm",
-        "Dates: June 5",
+        "Saturday – Sunday, 8am-6pm",
+        "Dates: June 11 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -1406,59 +1458,8 @@
         "lng": -73.9459947
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
-        "PCR and Rapid Antigen Testing Available Here",
-        "4 years old and above"
-      ]
-    },
-    {
-      "name": "Marion Hopkinson Playground",
-      "address": [
-        "379 Marion St",
-        "Brooklyn, NY11233"
-      ],
-      "coordinates": {
-        "lat": 40.6816524,
-        "lng": -73.9139151
-      },
-      "context": [
-        "Sunday, 8am-6pm",
-        "Dates: June 5",
-        "PCR and Rapid Antigen Testing Available Here",
-        "4 years old and above"
-      ]
-    },
-    {
-      "name": "NYCHA Nostrand",
-      "address": [
-        "3679 Nostrand Ave",
-        "Brooklyn, NY11229"
-      ],
-      "coordinates": {
-        "lat": 40.5942593,
-        "lng": -73.940403
-      },
-      "context": [
-        "Saturday, 11am-5pm",
-        "Dates: June 4",
-        "PCR and Rapid Antigen Testing Available Here",
-        "4 years old and above"
-      ]
-    },
-    {
-      "name": "NYCHA Pink Houses",
-      "address": [
-        "2702 Linden Boulevard",
-        "Brooklyn, NY11208"
-      ],
-      "coordinates": {
-        "lat": 40.6687983,
-        "lng": -73.8646026
-      },
-      "context": [
-        "Wednesday – Friday, 8am-6pm",
-        "Dates: June 1 – 3",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -1474,8 +1475,8 @@
         "lng": -73.93466149999999
       },
       "context": [
-        "Tuesday – Sunday, 8am-6pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-6pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -1491,8 +1492,8 @@
         "lng": -73.8867909
       },
       "context": [
-        "Tuesday, Saturday – Sunday, 8am-6pm",
-        "Dates: May 31, June 4 – 5",
+        "Monday – Sunday, 8am-6pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -1508,25 +1509,8 @@
         "lng": -73.8860973
       },
       "context": [
-        "Tuesday -Wednesday, Friday- Sunday, 8am-7pm,",
-        "Dates: May 31 – June 5",
-        "PCR and Rapid Antigen Testing Available Here",
-        "4 years old and above"
-      ]
-    },
-    {
-      "name": "Prospect Park – Ocean Ave & Parkside Ave",
-      "address": [
-        "170 Parkside Ave",
-        "Brooklyn, NY11226"
-      ],
-      "coordinates": {
-        "lat": 40.6602037,
-        "lng": -73.9689558
-      },
-      "context": [
-        "Sunday, 8am-6pm",
-        "Dates: June 5",
+        "Wednesday – Friday, 8am-7pm",
+        "Dates: June 8 – 10",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -1542,8 +1526,8 @@
         "lng": -74.0045296
       },
       "context": [
-        "Tuesday – Friday, 8am-6pm",
-        "Dates: June 5",
+        "Thursday, 8am-7pm",
+        "Dates: June 9",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -1559,8 +1543,42 @@
         "lng": -74.0072107
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Wednesday – Friday, 8am-7pm",
+        "Dates: June 10",
+        "PCR and Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "SOLA Saturdays",
+      "address": [
+        "371 Lewis Ave",
+        "Brooklyn, NY11233"
+      ],
+      "coordinates": {
+        "lat": 40.6828334,
+        "lng": -73.93478139999999
+      },
+      "context": [
+        "Saturday, 11AM – 6PM",
+        "Dates: June 11",
+        "PCR and Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Saratoga Senior Center",
+      "address": [
+        "930 Halsey Street",
+        "Brooklyn, NY11233"
+      ],
+      "coordinates": {
+        "lat": 40.685109,
+        "lng": -73.91715219999999
+      },
+      "context": [
+        "Monday – Tuesday, 9am-5pm",
+        "Dates: June 6 – 7",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -1576,25 +1594,8 @@
         "lng": -73.9350745
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
-        "PCR and Rapid Antigen Testing Available Here",
-        "4 years old and above"
-      ]
-    },
-    {
-      "name": "St. Gabriel’s Older Adult Center",
-      "address": [
-        "331 Hawthorne Street",
-        "Brooklyn, NY11225"
-      ],
-      "coordinates": {
-        "lat": 40.6582365,
-        "lng": -73.9490701
-      },
-      "context": [
-        "Tuesday – Friday, 9am-4pm",
-        "Dates: May 31 – June 3",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -1610,25 +1611,8 @@
         "lng": -73.95773249999999
       },
       "context": [
-        "Tuesday – Sunday, 8am-6pm",
-        "Dates: May 31 – June 5",
-        "PCR and Rapid Antigen Testing Available Here",
-        "4 years old and above"
-      ]
-    },
-    {
-      "name": "Summer Reading Kickoff at Central Library",
-      "address": [
-        "10 Grand Army Plaza",
-        "Brooklyn, NY11238"
-      ],
-      "coordinates": {
-        "lat": 40.67251110000001,
-        "lng": -73.9682
-      },
-      "context": [
-        "Saturday, 8am-6pm",
-        "Dates: June 4",
+        "Monday – Sunday, 8am-6pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -1644,8 +1628,8 @@
         "lng": -74.0021478
       },
       "context": [
-        "Tuesday – Sunday, 8am-6pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-6pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -1662,7 +1646,24 @@
       },
       "context": [
         "Sunday, 11AM-6PM",
-        "Dates: June 5",
+        "Dates: June 12",
+        "PCR and Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Williamsburg HRA Center",
+      "address": [
+        "2 George St",
+        "Brooklyn, NY11206"
+      ],
+      "coordinates": {
+        "lat": 40.7001729,
+        "lng": -73.9325233
+      },
+      "context": [
+        "Monday – Friday, 8AM – 6PM",
+        "Dates: June 6 – 10",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -1678,25 +1679,25 @@
         "lng": -73.8948691
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
     },
     {
-      "name": "YMCA Coney Island with Arab-American Family Support Center",
+      "name": "Wilson Playground",
       "address": [
-        "2980 W 29th St",
-        "Brooklyn, NY11224"
+        "9915 Avenue K",
+        "Brooklyn, NY11236"
       ],
       "coordinates": {
-        "lat": 40.57367319999999,
-        "lng": -73.9956746
+        "lat": 40.6419303,
+        "lng": -73.8948691
       },
       "context": [
-        "Tuesday, 12pm-6pm",
-        "Dates: June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -2829,8 +2830,25 @@
         "lng": -73.94519009999999
       },
       "context": [
-        "Tuesday – Sunday, 8:00AM-6:00PM",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8:00AM-6:00PM",
+        "Dates: June 6 – 12",
+        "PCR and Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "116th St Puerto Rican Festival",
+      "address": [
+        "205 E 116th St",
+        "Manhattan, NY10029"
+      ],
+      "coordinates": {
+        "lat": 40.797986,
+        "lng": -73.93937199999999
+      },
+      "context": [
+        "Saturday, 10am-5pm",
+        "Dates: June 11",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -2847,7 +2865,7 @@
       },
       "context": [
         "Sunday, 8am-6pm",
-        "Dates: June 5",
+        "Dates: June 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -2863,8 +2881,42 @@
         "lng": -73.93800279999999
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-6pm",
+        "Dates: June 6 – 12",
+        "PCR and Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Black Health",
+      "address": [
+        "215 W 125th Street",
+        "Manhattan, NY10027"
+      ],
+      "coordinates": {
+        "lat": 40.8096896,
+        "lng": -73.94888639999999
+      },
+      "context": [
+        "Thursday, 10am-5pm",
+        "Dates: June 9",
+        "PCR and Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Broadway Community, Inc. Soup Kitchen",
+      "address": [
+        "601 W 114th St",
+        "Manhattan, NY10025"
+      ],
+      "coordinates": {
+        "lat": 40.8070418,
+        "lng": -73.9651341
+      },
+      "context": [
+        "Monday, 8am-4pm",
+        "Dates: June 9",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -2881,7 +2933,7 @@
       },
       "context": [
         "Tuesday, 8am-6pm",
-        "Dates: May 31",
+        "Dates: June 7",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -2897,25 +2949,8 @@
         "lng": -74.0000483
       },
       "context": [
-        "Tuesday – Sunday, 8am-6pm",
-        "Dates: May 31 – June 5",
-        "PCR and Rapid Antigen Testing Available Here",
-        "4 years old and above"
-      ]
-    },
-    {
-      "name": "Ebenezer Gospel Tabernacle",
-      "address": [
-        "223-225 Lenox Avenue",
-        "Manhattan, NY10027"
-      ],
-      "coordinates": {
-        "lat": 40.8053072,
-        "lng": -73.94739059999999
-      },
-      "context": [
-        "Saturday, 10am-4pm",
-        "Dates: June 4",
+        "Monday – Sunday, 8am-6pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -2931,8 +2966,8 @@
         "lng": -73.9435548
       },
       "context": [
-        "Sunday, 8AM – 6PM",
-        "Dates: June 5",
+        "Saturday – Sunday, 8AM – 6PM",
+        "Dates: June 11 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -2948,8 +2983,8 @@
         "lng": -73.9391543
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -2965,8 +3000,8 @@
         "lng": -73.9242916
       },
       "context": [
-        "Tuesday – Sunday, 8am-6pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-6pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -2982,8 +3017,8 @@
         "lng": -73.9536622
       },
       "context": [
-        "Tuesday – Sunday, 9am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 9am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -2999,8 +3034,8 @@
         "lng": -73.96868979999999
       },
       "context": [
-        "Tuesday – Sunday, 8am-6pm",
-        "Dates: May 31 – June 5",
+        "Monday – Tuesday, 8am-6pm",
+        "Dates: June 6 – 7",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -3016,8 +3051,8 @@
         "lng": -73.941493
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -3033,8 +3068,8 @@
         "lng": -73.9366021
       },
       "context": [
-        "Tuesday – Friday, 8am-6pm",
-        "Dates: May 31 – June 3",
+        "Monday – Friday, 8am-6pm",
+        "Dates: June 6 – 10",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -3050,8 +3085,8 @@
         "lng": -73.9437629
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -3067,8 +3102,8 @@
         "lng": -73.9801928
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -3084,8 +3119,8 @@
         "lng": -73.92099619999999
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -3101,8 +3136,8 @@
         "lng": -73.9585391
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -3118,8 +3153,8 @@
         "lng": -73.95713409999999
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -3136,7 +3171,24 @@
       },
       "context": [
         "Saturday, 8am-7pm",
-        "Dates: June 4",
+        "Dates: June 11",
+        "PCR and Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "NYCHA Stanley Isaacs Neighborhood Center",
+      "address": [
+        "403 E 93rd St",
+        "Manhattan, NY10128"
+      ],
+      "coordinates": {
+        "lat": 40.7813325,
+        "lng": -73.9457278
+      },
+      "context": [
+        "Wednesday – Friday, 8am-6pm",
+        "Dates: June 8 – 11",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -3152,8 +3204,8 @@
         "lng": -73.9289057
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -3169,8 +3221,8 @@
         "lng": -73.9313288
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -3186,25 +3238,25 @@
         "lng": -73.9553786
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
     },
     {
-      "name": "St. Nicholas HRA Center",
+      "name": "Thomas Jefferson Park",
       "address": [
-        "132 W. 125th Street",
-        "Manhattan, NY10027"
+        "2180 1st Ave",
+        "Manhattan, NY10029"
       ],
       "coordinates": {
-        "lat": 40.8083324,
-        "lng": -73.9472993
+        "lat": 40.7933578,
+        "lng": -73.9352341
       },
       "context": [
-        "Tuesday – Friday, 8AM-6PM",
-        "Dates: May 31 – June 3",
+        "Wednesday, 8am-6pm",
+        "Dates: June 8",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -3835,8 +3887,8 @@
         "lng": -73.9404311
       },
       "context": [
-        "Tuesday – Sunday, 8:00AM-6:00PM",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8:00AM-6:00PM",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -3852,8 +3904,25 @@
         "lng": -73.95417239999999
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
+        "PCR and Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "A Better College Civic Association – Health Fair",
+      "address": [
+        "123-06 18th Ave",
+        "Queens, NY11356"
+      ],
+      "coordinates": {
+        "lat": 40.783094,
+        "lng": -73.84476049999999
+      },
+      "context": [
+        "Sunday, 9AM-4PM",
+        "Dates: June 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -3869,8 +3938,8 @@
         "lng": -73.73843409999999
       },
       "context": [
-        "Tuesday – Sunday, 8am-6pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-6pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -3886,8 +3955,8 @@
         "lng": -73.7881317
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -3903,25 +3972,25 @@
         "lng": -73.77423859999999
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
     },
     {
-      "name": "Big Six Towers NORC Program Senior Center",
+      "name": "Corona Health Fair",
       "address": [
-        "57-15 47th Avenue",
-        "Queens, NY11377"
+        "34-33 Junction Blvd",
+        "Queens, NY11372"
       ],
       "coordinates": {
-        "lat": 40.7464957,
-        "lng": -73.8575505
+        "lat": 40.7543866,
+        "lng": -73.8720555
       },
       "context": [
-        "Tuesday – Friday, 9am-5pm",
-        "Dates: May 31 – June 3",
+        "Saturday, 10am-4pm",
+        "Dates: June 11",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -3937,8 +4006,8 @@
         "lng": -73.8053296
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -3954,25 +4023,8 @@
         "lng": -73.7628577
       },
       "context": [
-        "Tuesday – Sunday, 9am-7pm",
-        "Dates: May 31 – June 5",
-        "PCR and Rapid Antigen Testing Available Here",
-        "4 years old and above"
-      ]
-    },
-    {
-      "name": "Faith Assembly Church",
-      "address": [
-        "12013 101st Ave",
-        "Queens, NY11419"
-      ],
-      "coordinates": {
-        "lat": 40.6905304,
-        "lng": -73.8245025
-      },
-      "context": [
-        "Saturday, 8am-6pm",
-        "Dates: June 4",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -3988,8 +4040,8 @@
         "lng": -73.8850798
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -4005,8 +4057,8 @@
         "lng": -73.90552040000001
       },
       "context": [
-        "Tuesday – Sunday, 8am-6pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-6pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -4022,8 +4074,8 @@
         "lng": -73.7814918
       },
       "context": [
-        "Tuesday – Friday, 8am-7pm, Sunday, 8am-3pm",
-        "Dates: May 31 – June 3, 5",
+        "Monday – Friday, 8am-7pm, Sunday,8am-3pm",
+        "Dates: June 6 – 10, 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -4039,8 +4091,8 @@
         "lng": -73.85596989999999
       },
       "context": [
-        "Tuesday – Thursday, Sunday, 8am-6pm",
-        "Dates: May 31 – June 2, 5",
+        "Monday – Saturday, 8am-6pm",
+        "Dates: June 6 – 11",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -4056,25 +4108,25 @@
         "lng": -73.8103386
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
     },
     {
-      "name": "Health Fair with Councilmember Brooks-Powers",
+      "name": "Jamaica HRA Center",
       "address": [
-        "68-20 Rockaway Beach Blvd",
-        "Queens, NY 11692"
+        "165-08 88th Avenue",
+        "Queens, NY11432"
       ],
       "coordinates": {
-        "lat": 40.5906136,
-        "lng": -73.7977487
+        "lat": 40.70859069999999,
+        "lng": -73.7962916
       },
       "context": [
-        "Saturday, 9am-4pm",
-        "Dates: June 4",
+        "Monday – Friday, 8AM – 6PM",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -4090,8 +4142,8 @@
         "lng": -73.78790459999999
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -4107,8 +4159,8 @@
         "lng": -73.87524020000001
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -4124,8 +4176,25 @@
         "lng": -73.795661
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
+        "PCR and Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Make the Road NY – Queens office",
+      "address": [
+        "92-10 Roosevelt Ave",
+        "Queens, NY11372"
+      ],
+      "coordinates": {
+        "lat": 40.7484323,
+        "lng": -73.8741462
+      },
+      "context": [
+        "Friday, 12pm-6pm",
+        "Dates: June 10",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -4141,8 +4210,25 @@
         "lng": -73.9485957
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
+        "PCR and Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "NYCHA Ocean Bay",
+      "address": [
+        "339 Beach 54th Street",
+        "Queens, NY11691"
+      ],
+      "coordinates": {
+        "lat": 40.59363949999999,
+        "lng": -73.7848461
+      },
+      "context": [
+        "Thursday, 10am-6pm",
+        "Dates: June 9",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -4158,8 +4244,8 @@
         "lng": -73.8143766
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -4175,8 +4261,8 @@
         "lng": -73.9104811
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -4192,8 +4278,8 @@
         "lng": -73.7693252
       },
       "context": [
-        "Tuesday – Sunday, 8am-6pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-6pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -4209,8 +4295,42 @@
         "lng": -73.86843859999999
       },
       "context": [
-        "Tuesday – Thursday, Sunday, 8am-6pm,",
-        "Dates: May 31 – June 5",
+        "Sunday, 8am-6pm",
+        "Dates: June 12",
+        "PCR and Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "PS 166",
+      "address": [
+        "33-09 35 Avenue",
+        "Queens, NY11106"
+      ],
+      "coordinates": {
+        "lat": 40.75738610000001,
+        "lng": -73.9261081
+      },
+      "context": [
+        "Friday, 10am-6pm",
+        "Dates: June 10",
+        "PCR and Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "PS 40Q Health and Wellness Fair",
+      "address": [
+        "109-20 Union Hall Street",
+        "Queens, NY11433"
+      ],
+      "coordinates": {
+        "lat": 40.6940295,
+        "lng": -73.7908532
+      },
+      "context": [
+        "Friday, 8am-2pm",
+        "Dates: June 10",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -4226,8 +4346,8 @@
         "lng": -73.8619406
       },
       "context": [
-        "Tuesday – Sunday, 8am-6pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-6pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -4243,31 +4363,14 @@
         "lng": -73.8216889
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
     },
     {
-      "name": "PSQ 52",
-      "address": [
-        "178-37 146th Terrace",
-        "Queens, NY 11434"
-      ],
-      "coordinates": {
-        "lat": 40.6613056,
-        "lng": -73.7668616
-      },
-      "context": [
-        "Saturday, 10am-4pm",
-        "Dates: June 4",
-        "PCR and Rapid Antigen Testing Available Here",
-        "4 years old and above"
-      ]
-    },
-    {
-      "name": "Queens Musuem",
+      "name": "Queens Museum",
       "address": [
         "126 Flushing Meadows Corona Park Rd",
         "Queens, NY11368"
@@ -4277,8 +4380,25 @@
         "lng": -73.8467247
       },
       "context": [
-        "Wednesday 8am- 7pm, Saturday,10 am – 4pm  Sunday, 8am-7pm",
-        "Dates: June 1, 4, 5",
+        "Wednesday – Sunday, 8am-7pm",
+        "Dates: June 8 – 12",
+        "PCR and Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
+      "name": "Queensbridge Senior Center",
+      "address": [
+        "10-25 41st Ave",
+        "Queens, NY11101"
+      ],
+      "coordinates": {
+        "lat": 40.7555154,
+        "lng": -73.9445939
+      },
+      "context": [
+        "Thursday – Friday, 8am-4pm",
+        "Dates: June 9 – 10",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -4294,8 +4414,8 @@
         "lng": -73.7778841
       },
       "context": [
-        "Tuesday – Sunday, 8AM-6PM",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8AM-6PM",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -4311,8 +4431,8 @@
         "lng": -73.8015289
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -4328,8 +4448,8 @@
         "lng": -73.90480099999999
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -4345,8 +4465,8 @@
         "lng": -73.7513574
       },
       "context": [
-        "Tuesday – Friday, Sunday, 8am-6pm",
-        "Dates: May 31 – June 3, June 5",
+        "Monday – Sunday, 8am-6pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -4362,8 +4482,8 @@
         "lng": -73.73905839999999
       },
       "context": [
-        "Sunday, 8am-6pm",
-        "Dates: June 5",
+        "Wednesday, 9am-7pm, Sunday, 8am-6pm",
+        "Dates: June 8",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -4379,8 +4499,8 @@
         "lng": -73.88936199999999
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -4396,8 +4516,8 @@
         "lng": -73.9107738
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -4925,8 +5045,8 @@
         "Queens, NY 11109"
       ],
       "coordinates": {
-        "lat": 40.7452341,
-        "lng": -73.9580055
+        "lat": 40.7453222,
+        "lng": -73.9580667
       },
       "context": [
         "Monday, Wednesday, & Friday, 10am-5pm;",
@@ -5558,8 +5678,8 @@
         "lng": -74.1355571
       },
       "context": [
-        "Tuesday – Sunday, 8:00AM-6:00PM",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8:00AM-6:00PM",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -5575,8 +5695,8 @@
         "lng": -74.1414633
       },
       "context": [
-        "Tuesday – Sunday, 8:00AM-6:00PM",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8:00AM-6:00PM",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -5593,24 +5713,24 @@
       },
       "context": [
         "Thursday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Dates: June 9 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
     },
     {
-      "name": "New Lane Senior Center",
+      "name": "Cassidy Coles Senior Center",
       "address": [
-        "70 New Lane",
-        "Staten Island, NY10305"
+        "125 Cassidy Pl",
+        "Staten Island, NY10301"
       ],
       "coordinates": {
-        "lat": 40.6130034,
-        "lng": -74.062179
+        "lat": 40.6422563,
+        "lng": -74.0964201
       },
       "context": [
-        "Tuesday – Friday, 8am-4pm",
-        "Dates: May 31 – June 3",
+        "Monday – Friday, 8am-4pm",
+        "Dates: June 6 – 10",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -5626,8 +5746,8 @@
         "lng": -74.2512474
       },
       "context": [
-        "Tuesday – Wednesday, 8am-7pm",
-        "Dates: May 31 – June 1",
+        "Monday – Wednesday, 8am-7pm",
+        "Dates: June 6 – 8",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -5643,8 +5763,8 @@
         "lng": -74.132324
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -5660,8 +5780,8 @@
         "lng": -74.16522850000001
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -5677,8 +5797,8 @@
         "lng": -74.0878857
       },
       "context": [
-        "Tuesday, Thursday – Saturday, 8am-7pm",
-        "Dates: May 31, June 2 – 4",
+        "Monday – Tuesday, 8am-7pm",
+        "Dates: June 6 – 7",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -5694,8 +5814,8 @@
         "lng": -74.142485
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -5711,8 +5831,8 @@
         "lng": -74.1900464
       },
       "context": [
-        "Tuesday – Sunday, 8am-7pm",
-        "Dates: May 31 – June 5",
+        "Monday – Sunday, 8am-7pm",
+        "Dates: June 6 – 12",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
